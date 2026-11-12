@@ -1,0 +1,1233 @@
+=== p1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+VINUNIVERSITY 
+ 
+ 
+ 
+CURRICULUM FRAMEWORK 
+VINCORE 
+VinUniversity Core Curriculum 
+2025-2026 / Version 2 
+(Decision No.342a/2025/QĐ-VUNI by the Provost of VinUniversity) 
+ 
+ 
+Gaining Knowledge and Skills Today…. 
+…. to be Leaders and Innovators of Tomorrow 
+
+
+=== p2 ===
+2 
+ 
+ 
+Contents 
+1. PROGRAM OVERVIEW ..................................................................................................... 3 
+1.1. Program Description ............................................................................................................. 3 
+1.2. Program Mission .................................................................................................................. 3 
+1.3. Program Learning Outcomes ................................................................................................ 3 
+2. CURRICULUM STRUCTURE ............................................................................................... 4 
+2.1     Curriculum Composition ....................................................................................................... 4 
+2.2.    Recommended Study Plan ..................................................................................................... 6 
+2.3     Course Learning Outcomes ................................................................................................... 8 
+Appendix VinCore PLOs and Blocks mapped to EXCEL ............................................................ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Records of changes  
+  
+Version Published 
+Date 
+Effective 
+Date Approved by Description of changes 
+1.0  04/9/2024 04/9/2024 Developed by: VinCore Curriculum Taskforce  
+Reviewed by: VinCore External Review 
+Committee and Educational Affairs Committee  
+Approved by: Provost  
+  
+Issued in conjunction with Decision No. 
+475/2024/QĐ-VUNI, dated September 4th, 
+2024, by the Provost of VinUniversity.  
+First release 
+2.0  20/6/2025 20/6/2025 
+Developed by: Program Director of VinCore 
+Reviewed by: VinCore Committee 
+Approved by: Educational Affairs Committee 
+1. Revised Program Learning 
+Outcomes (PLOs) 
+2. Recommended Study Plan 
+3. Addition of new VinCore Courses 
+4. Updated mapping of courses to 
+PLOs and EXCEL 
+5. Switching of compulsory course 
+for Working with Technology to 
+AI Literacy 
+ 
+
+=== p3 ===
+3 
+ 
+ 
+1. Program Overview 
+1.1. Program Description 
+ 
+Name of the program degree VinCore  
+Program duration - An integral and compulsory component of a VinUni education 
+- Common to all undergraduate programs 
+- For some components students may fulfill the requirements in 
+different ways by choice of selective courses 
+- All components to be completed prior to graduation 
+Total credits/hours - Credit-bearing courses: 35 
+- Non-credit bearing courses: 135 contact hours 
+- National Defense Education (165 contact hours) as the 
+requirement of the government and MOET (Ministry of 
+Education and Training) (applicable to Vietnamese students 
+only).  
+ 
+Important notes: Cohorts 2021 to 2023 will continue under the existing General Education 
+(GenED) curriculum, while the newly developed VinCore curriculum will be effective starting with 
+Cohort 2024. 
+ 
+1.2. Program Mission 
+ 
+The VinCore Program is an interdisciplinary and transformative educational experience that 
+combines personal character development, career skills preparation, and civic knowledge to foster a 
+new generation of empathetic, visionary, and globally minded leaders. This approach ensures 
+VinUni graduates are not only well prepared for their careers but also capable of making significant, 
+positive impacts on their communities and the world at large. 
+ 
+1.3. Program Learning Outcomes  
+ 
+The Three Cs – The Pillars of VinCore: 
+ 
+1. Character 
+ 
+Develop personal core character traits and values that help VinUnians 
+differentiate themselves and achieve success in work and life. This 
+foundation helps them become resilient, empathetic leaders and 
+visionary change-makers. 
+2. Career 
+ 
+Develop transferable skills that ensure high employability and readiness 
+for various career paths, including research, science, startups, and 
+corporate roles. 
+3. Connections 
+ 
+Develop a diverse base of knowledge to broaden students' horizons, 
+foster curiosity, encourage active engagement in lifelong learning and 
+promote integration beyond boundaries.  
+ 
+ 
+ 
+ 
+ 
+
+=== p4 ===
+4 
+ 
+Pillar Block Learning Outcome 
+1. Character 
+1.1. Enterprise and 
+Innovation 
+PLO1: Lead and innovative within the 
+corporate/professional environment [Competence] 
+1.2. Leadership Mindset 
+1.3. Civic Responsibility PLO2: Demonstrate a strong sense of ethics, civic 
+responsibility, and community service. [Attitude] 1.4. Ethics 
+1.5 Community Service 
+Learning 
+ 
+Pillar Block Learning Outcome 
+2. Career 
+2.1. Working with the 
+Brain 
+PLO3: Possess critical and creative thinking skills 
+[Skill] 
+2.2. Working with 
+Technology 
+PLO4: Apply basic computational and IT knowledge 
+into daily like and work [Skill] 
+2.3. Working with 
+Others 
+PLO5: Communicate and manage teams through 
+multimedia formats using written and spoken 
+language. [Skill] 
+2.4. Working with the 
+Self 
+PLO6: Realize one’s strengths and areas of 
+improvement and pursue lifelong learning. [Attitude] 
+2.5. Internship 
+ 
+ 
+Pillar Block Learning Outcome 
+3. 
+Connections 
+3.1. Integrated Vietnam 
+Studies 
+PLO7: Think critically and reflect on topics related to 
+the arts, culture and humanity [Knowledge] 
+PLO9: Display a strong sense of patriotism while 
+maintaining the characteristics of a global citizen 
+[Attitude] 
+3.2. Sustainability and 
+Global Citizenship 
+PLO8: Explain the importance of sustainability and 
+globalization [Knowledge] 
+3.3. Creative Arts PLO7: Think critically and reflect on topics related to 
+the arts, culture and humanity [Knowledge] 
+3.4. Global Experience PLO9: Display a strong sense of patriotism while 
+maintaining the characteristics of a global citizen 
+[Attitude] 
+ 
+2. Curriculum structure 
+2.1 Curriculum Composition  
+ 
+PLO Block Course PLO Credits Obligatory Selective 
+1.1 
+Enterprise and 
+Innovation  
+(4 credits) 
+ENTR1022 Agile Innovation and 
+Entrepreneurship 
+PLO1 2 x  
+IDEA1010/11/12... Big Ideas (X) 
+(The IDEA1010/11/12 series, titled 
+'Big Ideas (X)' will have its course 
+code and title defined each semester, 
+allowing the course content to align 
+with the key themes and innovative 
+design concepts) 
+PLO1 
+2 x  
+1.2 Leadership 
+Mindset 
+LEAD1031 Leadership and 
+Teambuilding Bootcamp 
+PLO2 2 x  
+
+=== p5 ===
+5 
+ 
+(2 credits) 
+1.3 
+Civic 
+Responsibility 
+(2 credits) 
+VCOR1030 National Defense 
+Education 
+PLO2 165 
+hours x  
+LAW1010 Introduction to Law PLO2 2 x  
+1.4 Ethics  
+(2 credits) 
+CAS2010 Applied Ethics PLO2 2  x 
+MANA3021 Business Ethics PLO2 2  x 
+NURS3240 Healthcare Ethics PLO2 2  x 
+TECH1010 Technology Ethics PLO2 2  x 
+1.5 Community 
+Service Learning 
+COSL1010 Community Service 
+Learning 
+PLO2 45 hours x  
+2.1  
+Working with the 
+Brain 
+(2 credits) 
+THINK1010 Critical and Creative 
+Thinking 
+PLO3 2 
+x  
+2.2. 
+Working with 
+Technology  
+(4 credits) 
+CECS1040 Introduction to AI 
+Literacy 
+PLO4 2 x  
+CECS1050 Introduction to Data 
+Literacy 
+PLO4 2  x 
+CECS1031 Computational Thinking PLO4 2  x 
+CHS1000 Introduction to Healthcare 
+Informatics 
+PLO4 2  x 
+2.3 
+Working with 
+Others  
+(4 credits) 
+ENGL1030 Academic and 
+Professional Writing 
+PLO5 2 x  
+ENGL1040 Interpersonal and 
+Multimedia Communication 
+PLO5 2  x 
+MANA1011 Introduction to 
+Managing Skills  
+PLO5 2  x 
+CHS1020 Introduction to Healthcare 
+Communication 
+PLO5 2  x 
+2.4 Working with the 
+Self 
+VCOR1012A/B OASIS 
+(Orientation, Advising, Skills, 
+Identity & Diversity and Spirit of 
+Pay-it-Forward) 
+PLO6 45 hours 
+x  
+VCOR1021/22 Healthy Lifestyle PLO6 45 hours x  
+2.5 Internship Upon the College’s design PLO6  
+ x  
+ 3.1 
+Integrated 
+Vietnam Studies 
+(11 credits) 
+HASS1010 Marxism Leninism 
+Philosophy (Philosophy, Science and 
+Society) 
+PLO7 
+PLO9 
+3 
+x  
+HASS1020 Marxism-Leninism 
+Political Economy (Global Political 
+Economy) 
+PLO7 
+PLO9 
+2 
+x  
+HASS1030 Scientific Socialism 
+(Politics and Social Change) 
+PLO7 
+PLO9 
+2 x  
+HASS1041/42 Ho Chi Minh 
+Ideology  
+(Vietnam History and Culture II) 
+PLO7 
+PLO9 
+2 
+x  
+HASS1050 History of the 
+Communist Party (Vietnam History 
+and Culture I) 
+PLO7 
+PLO9 
+2 
+x  
+3.2 
+Sustainability and 
+Global Citizenship  
+(2 credits) 
+HASS1070 Cross-Cultural 
+Navigation 
+PLO8 2  x 
+HASS1100 Introduction to 
+International Relations 
+PLO8 2  x 
+SUST1010 Humans and 
+Environmental Intelligence 
+PLO8 2  x 
+
+=== p6 ===
+6 
+ 
+SUST1020 Social Science and 
+Sustainability 
+PLO8 2  x 
+UROP (Undergraduate Research 
+Opportunity Program)/Independent 
+Student Project. 
+(*)The UROP course code will be 
+assigned based on the respective 
+College, allowing for discipline-
+specific research experiences that 
+align with the academic and 
+research priorities of each College 
+PLO8 2 
+ x 
+3.3 Creative Arts 
+(2 credits) 
+ARTS1030 Arts Appreciation and 
+Application 
+PLO7 2  x 
+PERF1010 Artistic Performance and 
+Application  
+PLO7 2  x 
+CHS1030 Application of the Arts for 
+Therapy and Wellbeing 
+PLO7 2  x 
+3.4 
+Global Experience Students are encouraged to explore 
+short-term study abroad exchange 
+opportunities, facilitated by the 
+Global Exchange Office, to broaden 
+their global understanding and 
+academic experience through 
+partnerships with international 
+institutions 
+PLO9 NA 
+ x 
+ 
+  Total No. of Credits  35   
+Notes 
+• Students must take all courses listed as “obligatory”. For “selective” courses, students must 
+choose one from the same block. E.g., for block 1.4 “Ethics” students may choose from 
+CAS2010, MANA3021, NURS3240, or TECH1010. 
+• International students are exempt from National Defense Education.  
+ 
+2.2. Recommended Study Plan 
+No. Course Code Block Na
+me 
+Semester 
+Year 1 Year 2 Year 3 Year 4 
+O F S
+p 
+S
+u 
+F Sp Su F Sp Su F Sp Su 
+                 
+1.1 
+Enterprise 
+and 
+Innovation  
+(4 credits) 
+ENTR1022 Agile 
+Innovation and 
+Entrepreneurship 
+2  x            
+IDEA1010/11/12... Big 
+Ideas (X) 
+2  x            
+1.2 
+Leadership 
+Mindset 
+(2 credits) 
+LEAD1031 Leadership 
+and Teambuilding 
+Bootcamp 
+2  x            
+1.3 
+Civic 
+Responsibility 
+(2 credits) 
+VCOR1030 National 
+Defense Education 
+N/
+A 
+   x          
+LAW1010 Introduction 
+to Law 
+2      x        
+1.4 Ethics  
+(2 credits) 
+CAS2010 Applied 
+Ethics 
+2   x           
+MANA3021 Business 
+Ethics 
+2   x           
+NURS3240 Healthcare 
+Ethics 
+2   x           
+
+=== p7 ===
+7 
+ 
+TECH1010 Technology 
+Ethics 
+2   x           
+1.5 
+Community 
+Service 
+Learning 
+COSL1010 Community 
+Service Learning 
+N/
+A 
+      x       
+2.1  
+Working with 
+the Brain 
+(2 credits) 
+THINK1010 Critical 
+and Creative Thinking 
+2   x           
+2.2. 
+Working with 
+Technology  
+(4 credits) 
+CECS1031 
+Computational Thinking 
+2     x         
+CECS1050 Introduction 
+to Data Literacy 
+2      x        
+CECS1040 Introduction 
+to AI Literacy 
+2      x        
+CHS1000 Introduction 
+to Healthcare 
+Informatics 
+2      x        
+2.3 
+Working with 
+Others  
+(4 credits) 
+ENGL1030 Academic 
+and Professional Writing 
+2  x            
+ENGL1040 
+Interpersonal and 
+Multimedia 
+Communication 
+2   x           
+MANA1011 
+Introduction to 
+Managing Skills  
+2   x           
+CHS1020 Introduction 
+to Healthcare 
+Communication 
+2   x           
+2.4 Working with 
+the Self 
+VCOR1012A/B OASIS 
+(Orientation, Advising, 
+Skills, Identity & 
+Diversity and Spirit of 
+Pay-it-Forward) 
+N/
+A 
+x             
+VCOR1021/22 Healthy 
+Lifestyle 
+N/
+A 
+ x x           
+2.5 Internship Upon the College’s 
+design 
+N/
+A 
+             
+ 3.1 
+Integrated 
+Vietnam 
+Studies 
+(11 credits) 
+HASS1010 Marxism 
+Leninism Philosophy 
+(Philosophy, Science 
+and Society) 
+3  x            
+ 
+HASS1020 Marxism-
+Leninism Political 
+Economy (Global 
+Political Economy) 
+2   x           
+HASS1030 Scientific 
+Socialism (Politics and 
+Social Change) 
+2   x           
+HASS1041/42 Ho Chi 
+Minh Ideology  
+(Vietnam History and 
+Culture II) 
+2     x         
+HASS1050 History of 
+the Communist Party 
+(Vietnam History and 
+Culture I) 
+2      x        
+3.2 HASS1070 Cross-
+Cultural Navigation 
+2      x        
+
+=== p8 ===
+8 
+ 
+Sustainability 
+and Global 
+Citizenship  
+(2 credits) 
+HASS1100 Introduction 
+to International 
+Relations 
+2      x        
+SUST1010 Humans and 
+Environmental 
+Intelligence 
+2      x        
+SUST1020 Social 
+Science and 
+Sustainability 
+2      x        
+UROP (Undergraduate 
+Research Opportunity 
+Program)/Independent 
+Student Project. 
+(*)The UROP course 
+code will be assigned 
+based on the respective 
+College, allowing for 
+discipline-specific 
+research experiences 
+that align with the 
+academic and research 
+priorities of each 
+College 
+2      x        
+3.3 Creative Arts 
+(2 credits) 
+ARTS1030 Arts 
+Appreciation and 
+Application 
+2     x         
+PERF1010 Artistic 
+Performance and 
+Application  
+2     x         
+CHS1030 Application of 
+the Arts for Therapy and 
+Wellbeing 
+2     x         
+3.4 
+Global 
+Experience 
+Students are encouraged 
+to explore short-term 
+study abroad exchange 
+opportunities, facilitated 
+by the Global Exchange 
+Office, to broaden their 
+global understanding 
+and academic 
+experience through 
+partnerships with 
+international institutions 
+N/
+A 
+             
+Total                                           35   11 10  8 6        
+ 
+2.3 Course Learning Outcomes 
+ENTR1022 Agile Innovation and Entrepreneurship 
+Credit: 2 
+Prerequisite: None   
+On successful completion of this course, students will be able to: 
+1. Explain how an entrepreneurial mindset supports and accelerates innovation and growth in the 
+contexts of businesses, industries, and countries. 
+2. Evaluate the multifaceted nature of entrepreneurship in Vietnam and internationally, and how it 
+impacts the economy, society, and environment. Have access to insights on Vingroup's governance 
+principles (the 6 Hóa). 
+
+=== p9 ===
+9 
+ 
+3. Recommend strategies to evaluate the entrepreneurial mindset, values, and behaviors, and to further 
+develop the entrepreneurial mindset, both individually and organizationally. 
+4. Grow your own entrepreneurial mindset and innovation-related skills, including identifying and 
+evaluating opportunities, taking calculated risks, solving problems creatively, communicating 
+effectively, and influencing stakeholder groups. 
+5. Demonstrate the ability to work productively in teams to collaboratively explore opportunities, 
+generate ideas, and find and communicate solutions to a predefined challenge during the course 
+hackathon. 
+ 
+IDEA1010/11/12/… Series: Big Ideas (X) 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Describe and explain a “big idea”, which may be a new solution to a problem, a disrupting technology, 
+or an innovative method or way of doings things 
+2. Identify the implications of a big idea for everyday life or a professional setting 
+3. Develop a strategy for using a big idea to improve an existing approach or create a new application 
+4. Evaluate the application of a big idea, including an assessment of its positive impacts, negative 
+impacts, and mitigating strategies for the theme of the year 
+ 
+LEAD1031 Leadership and Teambuilding Bootcamp 
+Credit: 2 
+Prerequisite: None 
+On successful completion of this course, students will be able to: 
+1. Define foundational concepts of leadership traits, leadership styles, values, and trends, and their 
+applications to real-life situations, especially in a turbulent world. 
+2. Describe and evaluate the differences and similarities between management and leadership, and their 
+application in an organizational setting. 
+3. Evaluate the multifaceted nature of leadership in Vietnam and internationally, and their impact on 
+work environments, particularly in a VUCA context. Have access to insights on Vingroup's mission, 
+vision, and core values. 
+4. Develop your own leadership mindset by setting a vision, developing self-awareness, understanding 
+others' perspectives, understanding situational contexts, communicating effectively, and making 
+informed decisions. setting a vision, accepting accountability, understanding self and others' limits, 
+inspiring and motivating others, and creating collaborative conditions for success 
+5. Apply basic leadership values and skills through action-based learning, building self, interpersonal, 
+and team leadership during the leadership bootcamp. 
+ 
+VCOR1030 National Defense Education 
+Hours: 165 
+On successful completion of this course, students will be able to: 
+1. Understand and articulate knowledge of the National Defense and Security policies of the Communist 
+Party of Vietnam. 
+2. Understand basic concepts of national defense and security work. 
+3. Understand and practice the fundamental rules and disciplinary regulations in military organization. 
+4. Practice the fundamental techniques and tactics of infantry combat 
+ 
+LAW1010 Introduction to Law 
+Credit: 2 
+Prerequisite: N/A 
+
+=== p10 ===
+10 
+ 
+On successful completion of this course, students will be able to: 
+1. Explain the history, contemporary nature, and purpose of the Vietnamese legal system, including its 
+key institutions, doctrines, and principles. 
+2. Describe and evaluate key differences and similarities between legal system management in Vietnam 
+and internationally. 
+3. Understand the mechanisms of legal duty, justification of punishment, and the roles of courts and 
+juries. 
+4. Apply fundamental legal rules and principles in a wide range of selected areas of the law, 
+demonstrating critical thinking and ethical considerations. 
+5. Develop a mindset of compliance and appreciate the importance of adhering to legal standards in 
+professional and personal context 
+ 
+CAS2010 Applied Ethics 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Identify and explain a range of ethical concerns across different professional and real-world domains 
+of human interaction. 
+2. Apply ethical theories and offer rational justification to moral dilemmas. 
+3. Understand the moral stakeholders involved and the ethical obligations required for certain 
+professional standards/codes, as well as the rationale behind them. 
+4. Apply ethical theories and offer rational justification to moral dilemmas where no professional 
+standards/codes are established 
+ 
+MANA3021 Business Ethics 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Understand and explain the relevance of values applied to business, such as integrity, accountability, 
+transparency, respect for stakeholders, corporate social responsibility (CSR), fairness, and 
+compliance)  
+2. Identify business practices that produce unethical behavior or harm to the individual, society, or 
+environment 
+3. Apply relevant ethical theories to moral dilemmas in the context of business 
+4. Evaluate different responses to ethical practice in business and justify an opinion based on ethical 
+theory 
+ 
+NURS3240 Healthcare Ethics 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Understand and explain the relevance of principles and values applied to healthcare, medical 
+research, and health policy, covering topics such as respect for patients, beneficence and non-
+maleficence, justice, and honesty and transparency) 
+2. Identify medical practices that produce unethical behavior or harm to patients, the profession, 
+society, or the environment 
+3. Apply relevant ethical theories to moral dilemmas in the context of medical treatment 
+4. Evaluate different responses to ethical practice in medicine and justify an opinion based on ethical 
+theory 
+5. Understand the influence of religious ethics in patient treatment and decision-making 
+
+=== p11 ===
+11 
+ 
+TECH1010 Technology Ethics 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Understand and explain the principles and values applied to technology, including privacy and data 
+protection, algorithmic fairness and bias, digital inclusion, accountability and transparency, 
+sustainability, and ethical AI and machine learning) 
+2. Identify uses of technology that produce unethical behavior or harm to users, society, or the 
+environment 
+3. Apply relevant ethical theories to moral dilemmas involving technology 
+4. Evaluate different responses to ethical practice in technologies and justify an opinion based on 
+ethical theory 
+ 
+COSL1010 Community Service Learning 
+Hours: 45 
+Prerequisite: None 
+On successful completion of this course, students will be able to: 
+1. Define and understand the essential components of service learning, including benefits, impact, and 
+key attributes. 
+2. Critically reflect on social issues and UNESCO’s sustainable development goals (SDGs) with 
+reference to a planned service project 
+3. Plan and implement a service project in accordance with local laws and regulations  
+4. Reflect on the outcomes of that service project and how it could have been improved 
+5. Develop sensitivity and empathy to local community members 
+ 
+THINK1010 Critical and Creative Thinking 
+Credit: 2 
+Prerequisite: None 
+On successful completion of this course, students will be able to:  
+1. Appreciate the purpose and importance of creative and critical thinking. 
+2. Identify, develop, and criticize claims and arguments in accordance with principles of logical 
+reasoning and scientific evidence 
+3. Apply creative and critical thinking with supporting tools and techniques for problem-solving. 
+4. Embed creative and critical thinking in workplace idea generation. 
+5. Build foundations for enhancing individual and team effectiveness. 
+ 
+CECS1031 Computational Thinking 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Identify and analyze problems from life and business in order to determine computational solutions. 
+2. Break down problems into logical steps and data requirements. 
+3. Use basic data structures and algorithms for problem-solving. 
+4. Design simple algorithms and computational models. 
+5. Implement solutions using basic programming skills. 
+6. Evaluate and optimize computational solutions. 
+ 
+CECS1050 Introduction to Data Literacy 
+Credit: 2 
+Prerequisite: N/A 
+
+=== p12 ===
+12 
+ 
+On successful completion of this course, students will be able to: 
+1. Read, understand, create, and communicate data as information. 
+2. Analyze and visualize data using tools like Excel and Python. 
+3. Understand the importance of data in business strategy and apply data-driven insights for 
+decision-making. 
+4. Develop skills to improve data collection designs and ensure data quality. 
+5. Utilize statistical methods and probability to interpret, present and effectively tell stories about 
+data. 
+ 
+CECS1040 Introduction to AI Literacy 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Understand basic AI principles, including machine learning and neural networks. 
+2. Use AI tools like ChatGPT for work and study tasks. 
+3. Recognize ethical implications, such as data privacy and algorithmic bias. 
+4. Apply AI to improve efficiency and innovation in academic and professional settings. 
+5. Design and evaluate user interfaces for better human-AI interaction 
+ 
+ENGL1030 Academic and Professional Writing 
+Credit: 2 
+Prerequisite: NA 
+On successful completion of this unit, students will be able to: 
+1. Identify and explain core attitudes, values, and practices of academic culture and how academic 
+writing reflects these. 
+2. Reflect critically on the differences between academic and opinion writing and apply this 
+understanding in the composition of academic essays, including referencing, quoting, and 
+paraphrasing. 
+3. Evaluate the differences between academic and professional writing in terms of style, purpose, 
+target audience, and techniques. 
+4. Develop your clear, concise, and well-structured writing skills, focusing on the most critical 
+documents and situations in academic and professional work such as academic essays, newspaper 
+articles, business reports, proposals, speeches... 
+5. Use AI to develop, enhance, and revise writing in both academic and professional contexts. 
+ 
+ENGL1040 Interpersonal and Multimedia Communication 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Identify and explain the fundamental concepts, scope, and diversity of oral and visual 
+communication. 
+2. Identify communication expectations based on an understanding of different professional 
+audiences and contexts and apply this knowledge in delivering communication. 
+3. Demonstrate responsible, ethical, and respectful attitudes as the field undergoes disruptive changes 
+fueled by rapid technological advancements. 
+4. Develop your own oral communication skills in key situations, from speeches to conversation, 
+discussion, giving feedback. 
+5. Grow your skills in developing digital content for multimedia, including presentations, pitches, 
+blog posts, viral videos, podcasts, and basic media management. 
+ 
+
+=== p13 ===
+13 
+ 
+MANA1011 Introduction to Managing Skills 
+Credit: 2 
+Prerequisite: N/A 
+On successful completion of the course, students will be able to: 
+1. Apply the SMART technique to define specific, measurable, achievable, relevant, and time-bound 
+goals, ensuring clarity and focus on their objectives. 
+2. Develop skills to effectively organize tasks and prioritize them based on importance and urgency, 
+facilitating efficient and systematic progress towards achieving objectives. 
+3. Understand how to assign tasks based on team members' individual strengths, skills, and expertise, 
+ensuring optimal use of resources, and enhancing team performance. 
+4. Learn to create and manage project schedules, monitor progress, and employ motivational 
+techniques to keep team members engaged and productive, overcoming challenges and maintaining 
+momentum. 
+5. Acquire the ability to give professional, accurate, and timely feedback, fostering a positive energy 
+and environment within the team. 
+ 
+OASIS 
+Hours: 45 
+Prerequisite: NA 
+On successful completion of this course, students will be able to: 
+1. Cultivate self-leadership, enhancing self-confidence, self-esteem, self-determination, and self-
+control. 
+2. Self- acquire and apply college readiness skills, life-long learning, effectively adapting to 
+academic, social, and personal challenges of university life 
+3. Self- develop essential career skills, preparing for personal and professional success. 
+4. Embrace community involvement by actively participating in community service, demonstrating 
+a commitment to positive societal impact and a pay-it-forward spirit. 
+5. Regularly reflect on personal growth and practice self-leadership throughout your university life, 
+from the initial enrollment CV to the Individual Development Plan (IDP) and the pre-graduation 
+CV, ensuring ongoing development and readiness for life after graduation. 
+ 
+VCOR1021/22 Healthy Lifestyle 
+Hours: 45 
+Prerequisite: None 
+On successful completion of this course, students will be able to: 
+1. Understand the important principles of a healthy lifestyle, including balanced nutrition, regular 
+physical activity, and mental well-being. 
+2. Understand your own health, develop your own personal health strategies, including techniques 
+for managing stress effectively and maintaining a balanced life. 
+3. Engage in self-discipline for nutrition, exercise, and rest, and actively participate in various 
+physical and mental well-being clubs at the university. 
+4. Recognize the impact of lifestyle choices on long-term health and well-being and make informed 
+decisions to enhance your quality of life. 
+5. Be motivated to promote well-being within communities through various means such as research, 
+awareness campaigns, and participation in health clubs. 
+ 
+Internship 
+Credit: Depending on College Program 
+On successful completion of the internship, students will be able to: 
+1. Develop work habits, skills and attitudes necessary for job success 
+
+=== p14 ===
+14 
+ 
+2. Identify, record, and carry out performance objectives (agreed upon by the employer, or 
+supervisor) related to their job assignment 
+3. Develop communication, interpersonal and other critical skills needed to function successfully in 
+the role and similar roles 
+4. Develop industry-specific technical skills and knowledge needed to function successfully in the 
+role and similar roles 
+5. Acquire employment contacts leading directly to a full-time job following graduation from 
+college. 
+ 
+HASS1010 Marxism Leninism Philosophy (Philosophy, Science and Society) 
+Credit: 3 
+Prerequisite: NA 
+On successful completion of this course, students will be able to: 
+1. Understand the basic philosophical foundations of Marxism-Leninism, including dialectical 
+materialism and historical materialism 
+2. Explain its significance in the development of Vietnam’s state ideology and relevance to other 
+areas of society including history, politics and economics  
+3. Know that Vietnamese philosophy features elements of syncretism and be able to describe those 
+elements (e.g., Marxism-Leninism, Confucianism, Buddhism, Daoism, etc.) 
+4. Describe, evaluate and compare different answers to foundational philosophical questions such as 
+“what exists?”, “what is knowledge?”, and “what is right and wrong?” 
+5. Understand and assess different approaches to the nature of science and scientific progress 
+ 
+HASS1020 Marxism-Leninism Political Economy (Global Political Economy) 
+Credit: 2 
+Prerequisite: NA 
+On successful completion of this course, students will be able to: 
+1. Demonstrate an understanding of the complexity of how the world is interconnected through the 
+political economy. 
+2. Develop an informed understanding of conceptual terms and theoretical approaches used in 
+understanding the global economy. 
+3. Understand the transformation of Vietnam in the context of the global political economy. 
+4. Cultivate a critical-minded awareness of major trends in the global political economy. 
+5. Acquire an informed understanding of the rise of China and India and the resulting impacts on 
+Vietnam, ASEAN, and the world. 
+ 
+HASS1030 Scientific Socialism (Politics and Social Change) 
+Credit: 2 
+Prerequisite: NA 
+On successful completion of this course, students will be able to: 
+1. Describe and explain the concepts of politics and social change of Vietnam and around the region, 
+and acquire some lexicon of the subject; 
+2. Understand how politics and political systems are key to socio-economic developments, including 
+but not limited to the Marxist-Leninist views; 
+3. Understand the ways politics affects economic management, and help determine national success 
+4. Compare Vietnam’s national development with national efforts elsewhere in Asia; 
+ 
+HASS1041/42 Ho Chi Minh Ideology (Vietnam History and Culture II) 
+Credit: 2 
+Prerequisite: NA 
+
+=== p15 ===
+15 
+ 
+On successful completion of this course, students will be able to: 
+1. Know the major events, persons, and historical conditions the led to the creation and development 
+of Ho Chi Minh Ideology and engage Ho Chi Minh Ideology as both a historical and living body 
+of thought. 
+2. Consider the ongoing transformation of Ho Chi Minh thought and its significance in history and 
+for Vietnam's future. 
+3. Critically review historical artifacts, including textual documents, art, literature, archeology, and 
+accounts of informants and grasp the historical factors and precedents that relate to contemporary 
+issues 
+4. Gain ability to apply historical and cultural knowledge to understanding and analyzing 
+contemporary problems 
+5. Present historical evidence-based arguments and conduct probing discussions about challenging 
+historical subjects 
+6. Explore multiple perspectives about the past, especially the past as understood from the vantage 
+of former historical actors. 
+ 
+HASS1050 History of the Communist Party (Vietnam History and Culture I) 
+Credit: 2 
+Prerequisite: NA 
+On successful completion of this course, students will be able to: 
+1. Know the major events, persons, and historical conditions the led to the creation and development 
+of the Vietnamese Communist Party 
+2. Critically review historical artifacts, including textual documents, art, literature, archeology, and 
+accounts of informants. 
+3. Grasp the historical factors and precedents that relate to contemporary issues and gain the ability 
+to apply historical and cultural knowledge to understanding and analyzing contemporary 
+problems 
+4. Present historical evidence-based arguments 
+5. Explore multiple perspectives about the past, especially the past as understood from the vantage 
+of former historical actors.   
+ 
+HASS1070 Cross-Cultural Navigation 
+Credit: 2 
+Prerequisite: None 
+On successful completion of this course, students will be able to: 
+1. Understand the ways in which individual identities, values, and perceptions and biases are shaped 
+by cultures and different forms of life 
+2. Know the theories and practice related to the impact of culture in our daily ecologies in local and 
+global contexts 
+3. Identify and understand the intersection of one’s own and others’ cultural identities 
+4. Apply knowledge of practice, theory, and personal reflection of different cultures to a particular 
+issue that requires collaboration or cooperation between individuals or groups from different 
+cultural backgrounds 
+ 
+HASS1100 Introduction to International Relations 
+Credit: 2 
+On successful completion of this course, students will be able to: 
+1. Know the main actors, structures, and processes of international relations 
+2. Understand the basic theoretical principles of international relations and compare the competing 
+underlying frameworks on human and social nature 
+
+=== p16 ===
+16 
+ 
+3. Identify the respective objectives of international organizations in international politics, 
+collaboration, and cooperation 
+4. Explore a case study, problem-solving scenario or dilemma involving international relations and 
+devise a strategy/solution supported by theory and solid argumentation 
+5. Critically assess alternative strategies and points of view on complex scenarios requiring 
+international relations 
+ 
+ARTS1030 Art Appreciation and Application 
+Credit: 2 
+Prerequisite: NA 
+On successful completion of this course, students will be able to: 
+1. Demonstrate an understanding and appreciation of arts and visual arts in general, including their 
+function, and historical, religious, cultural, social, and environmental contexts and relevance;  
+2. Understand and define the basic principles of arts, visual arts, and design; explain and analyze a 
+work of art from an informed and objective viewpoint, its physical attributes and formal 
+construction;  
+3. Identify how art works are created and processed;  
+4. Make a reference to the significance and application of the arts in students’ own field of studies 
+and interests;  
+5. Analyze Vietnam arts and situate Vietnam arts in the global context. 
+ 
+PERF1010 Artistic Performance and Application 
+Credit: 2 
+Prerequisite: NA 
+On successful completion of this course, students will be able to: 
+1. Show improved skill in their chosen artistic field (e.g., music, dance, theatre, visual arts) and 
+express their creativity and individuality through performance(s). 
+2. Evaluate and discuss different forms of artistic performance, identifying key elements and 
+techniques, and write reflective assessments on their personal artistic development. 
+3. Work well with peers to create and perform artistic pieces and effectively give and receive 
+constructive feedback. 
+4. Clearly communicate the artistic vision and choices behind their performances both verbally and 
+in writing (if required) and develop their skills in presenting artistic work to an audience, including 
+stage presence and audience engagement. 
+5. Explore and appreciate a variety of artistic traditions from around the world, with a special focus 
+on Vietnamese culture, and place their own artistic work in a wider cultural and historical context. 
+6. Plan, organize, and complete an artistic performance project from start to finish, demonstrating 
+good time management and organizational skills. 
+7. Understand and apply ethical considerations in artistic performance, including respecting 
+intellectual property and cultural sensitivities, and behave professionally during rehearsals, 
+performances, and collaborative projects. 
+ 
+Study Abroad 
+On successful completion of the study abroad program, students will be able to: 
+1. Develop skills and self-confidence for interacting with people from a different location and 
+culture 
+2. Competently navigate living, studying and potentially working in a different location and culture 
+3. Understand how different backgrounds and cultures impact one another's views, values, 
+behaviours, and biases 
+4. Reflect on how experience has produced a global mindset and the values of being a global citizen 
+
+=== p17 ===
+17 
+ 
+5. Build life-long connections and a network of partners for academic study, professional and 
+personal life 
+ 
+CHS1000 Introduction to Healthcare Informatics 
+Credit: 2 
+Prerequisite: None 
+1. Describe the principles and challenges associated with combining information sciences, data, and 
+the healthcare domain 
+2. Effectively utilize Zotero as the software for publishing and managing bibliographies, citations and 
+references for scientific research and writing 
+3. Describe the importance of data standards and interoperability in the context of healthcare and 
+health-related fields 
+4. Describe the components of an electronic health/medical record system, including interoperability 
+and health information exchanges 
+5. Describe the importance of data security and privacy in the context of healthcare and health-
+related fields 
+ 
+CHS1020 Introduction to Healthcare Communication 
+Credit: 2 
+Prerequisite: None 
+1. Demonstrate active listening and verbal and non-verbal communication techniques to enhance 
+professional interactions 
+2. Establish trust and rapport demonstrating empathy, respect and professionalism 
+3. Identify potential communication challenges such as cultural differences, language and physical 
+barriers and emotional distress 
+4. Communicate effectively and be able to receive and give feedback to team members 
+5. Reflect on the importance of confidentiality, sensitivity, and respect in all forms of healthcare 
+communication 
+ 
+CHS1030 Application of the Arts for Therapy and Wellbeing 
+Credit: 2 
+Prerequisite: None 
+ 
+1. Explain how the arts and humanities contribute to therapeutic practices and well-being across 
+personal, professional, and community contexts 
+2. Describe the diverse forms of artistic expression and how their therapeutic potential could support 
+emotional, mental, and physical health 
+3. Reflect on personal and professional impact of creative engagement on emotional awareness and 
+self-care 
+4. Apply creative techniques to develop activities aimed at enhancing emotional intelligence and 
+empathy, reducing stress, and promoting mindfulness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p18 ===
+18 
+ 
+Appendix VinCore PLOs and Blocks mapped to EXCEL 
+ 
+The program learning goals, and block learning outcomes are aligned with the VinUni mission, core 
+value and generic graduate attributes EXCEL 1 : Empathy, Exceptional Ability, Creativity, 
+Entrepreneurial Mindset, and Leadership Spirit. 
+ 
+Pillar Block PLO E X C E L 
+1. Character 
+1.1. Enterprise and 
+Innovation 
+PLO1: Lead and 
+innovative within the 
+corporate/professional 
+environment 
+[Competence] 
+ x x x  
+1.2. Leadership 
+Mindset  x x  x 
+1.3. Civic 
+Responsibility 
+PLO2: Demonstrate a 
+strong sense of ethics, 
+civic responsibility, and 
+community service. 
+[Attitude] 
+x     
+1.4. Ethics x x    
+1.5 Community 
+Service Learning x x x x x 
+2. Career 
+2.1. Working with 
+the Brain 
+PLO3: Possess critical 
+and creative thinking 
+skills [Skill] 
+ x x   
+2.2. Working with 
+Technology 
+PLO4: Apply basic 
+computational and IT 
+knowledge into daily like 
+and work [Skill] 
+ x    
+2.4 Working with 
+Others 
+PLO5: Communicate and 
+manage teams through 
+multimedia formats using 
+written and spoken 
+language. [Skill] 
+x x   x 
+2.4. Working with 
+Self 
+PLO6: Realize one’s 
+strengths and areas of 
+improvement and pursue 
+lifelong learning. 
+[Attitude] 
+ x x   
+2.5. Internship 
+x x x x x 
+3. 
+Connections 
+3.1. Integrated 
+Vietnam Studies 
+PLO7: Think critically 
+and reflect on topics 
+related to the arts, culture 
+and humanity 
+[Knowledge] 
+x x x   
+3.2. Sustainability 
+and Global 
+Citizenship 
+PLO8: Explain the 
+importance of 
+sustainability and 
+globalization 
+[Knowledge] 
+x x x   
+3.3. Creative Arts PLO7: Think critically 
+and reflect on topics 
+related to the arts, culture 
+and humanity 
+[Knowledge] 
+x x x   
+3.4. Global 
+Experience 
+PLO9: Display a strong 
+sense of patriotism while 
+maintaining the 
+characteristics of a global 
+citizen [Attitude] 
+x x    
+ 
+ 
+1 https://policy.vinuni.edu.vn/all-policies/admitted-and-graduating-student-attributes/  

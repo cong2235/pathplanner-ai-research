@@ -1,0 +1,1345 @@
+=== p1 ===
+1  
+    
+ 
+ 
+CURRICULUM FRAMEWORK  
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE 
+PROGRAM CODE: 7480101 
+  
+Applicable for Cohort 2023 – 2027, Academic Year 2025-2026 
+ 
+(Decision No.482/2025/QĐ-VUNI dated August 15, 2025, by Provost of VinUniversity) 
+ 
+ 
+ 
+This curriculum framework has been reviewed and validated by 
+Cornell University 
+ 
+  
+
+
+=== p2 ===
+2  
+Records of changes 
+Version Published 
+date 
+Effective 
+Date 
+Approved by Description of 
+changes 
+1.0 27/2/2024 27/2/2024 Developed by Curriculum Review 
+Taskforce 
+Reviewed by College Academic 
+Committee; 
+Scientific and Educational Committee  
+Approved by: Provost (Decision No. 
+90/2024/QĐ-VUNI dated Februry 27, 2024, 
+by Provost of VinUniversity).  
+First release for 
+Cohort 2023-2027 
+1.1 15/8/2025 15/8/2025 Developed by Curriculum Review 
+Taskforce 
+Reviewed by College Academic 
+Committee; 
+Scientific and Educational Committee  
+Approved by: Provost (Decision 
+No.482/2025/QĐ-VUNI dated August 15, 
+2025, by Provost of VinUniversity). 
+Cross-listing 
+ 
+  
+
+=== p3 ===
+3  
+Table of Contents 
+ 
+1. VINUNI GENERIC GRADUATE ATTRIBUTES ................................................................... 4 
+2. PROGRAM OVERVIEW .......................................................................................................... 4 
+2.1 Program Profile .............................................................................................................. 4 
+2.2 Program Purpose ........................................................................................................... 4 
+2.3 Program Learning Goals and Program Learning Objectives .......................... 5 
+3. CURRICULUM STRUCTURE .................................................................................................. 6 
+3.1 Curriculum Composition ............................................................................................. 6 
+3.2 Courses and Credit Distribution by Courses ......................................................... 7 
+3.3 Curriculum Planner ..................................................................................................... 10 
+3.4 Course Descriptions .................................................................................................... 13 
+ 
+ 
+  
+
+=== p4 ===
+4  
+1. VINUNI GENERIC GRADUATE ATTRIBUTES 
+Generic graduate attributes are a set of skills, attributes, and values that all learners 
+should achieve regardless of discipline or field of study; should be measurable and 
+broad. The five Generic Graduate Attributes for VinUni, framed around the EXCEL 
+Model, are listed as below: 
+ 
+ 
+ 
+2. PROGRAM OVERVIEW 
+2.1 Program Profile 
+Name of the program degree Bachelor of Science in Computer Science 
+Program duration to be completed in  4 years on a full-time basis 
+Total credits Option 1 Single major:  120 credits  
+Option 2  Major + minor in Robotics or 
+Product Design or Technopreneur or another 
+minor: 135 credits 
+ 
+2.2 Program Purpose 
+The purpose of the program is to develop computer scientists with a deep understanding of 
+underlying computer science theoretical principles, software engineering practices and 
+significant exposure to problem -solving, project -based, authentic and hands -on learning 
+experience which will prepare them for work and allow them to contribute to society as 
+creative, innovative and personally well-rounded, proactively leading and advancing it. 
+  
+
+
+=== p5 ===
+5  
+2.3 Program Learning Goals and Program Learning Objectives  
+2.3.1 Program Educational Objectives 
+The educational objectives of the Bachelor of Science in Computer Science program are 
+that within a few years of graduation, the majority of our graduates will demonstrate 
+excellence in (i) top graduate programs; or (ii) technical and managerial leadership  
+tracks in technology -based industries or sectors; or (iii) pursuing entrepreneurial 
+ventures. In these roles they will: 
+1 Apply basic knowledge of computer science principles and in -depth knowledge of 
+specific computing topics (such as artificial intelligence, machine learning, or 
+software engineering practice) to address the full range of technical and societal 
+problems; 
+2 Conceive, design, and realize useful products, systems, and services, while properly 
+respecting economic, environmental, cultural, life safety, and ethical standards or 
+constraints; 
+3 Discover and apply new knowledge, and develop new tools for the practice of 
+computer science or software development; 
+4 Be sensitive to professional and societal contexts, committed to ethical action, 
+engaged in life-long learning and be prepared for future academic career, should they 
+want one; 
+5 Be leaders with an entrepreneurial mindset, and effective communicators as 
+members of multidisciplinary teams, both in the profession and in the community;  
+6 Engage with their communities, profession, the nation and the world. 
+2.3.2 Student Outcomes 
+Students should be able to: 
+1 analyze a complex computing problem and to apply principles of computing and other 
+relevant disciplines to identify solutions; 
+2 design, implement, and evaluate a computing -based solution to meet a given set of 
+computing requirements in the context of the program’s discipline; 
+3 apply computer science theory and software development fundamentals to produce 
+computing-based solutions; 
+4 communicate effectively in a variety of professional contexts; 
+5 recognize professional responsibilities and make informed judgments in computing 
+practice based on legal and ethical principles; 
+6 function effectively as a member or leader of a team engaged in activities appropriate 
+to the program’s discipline. 
+ 
+In addition, they should have: 
+7 an entrepreneurial mindset and an ability to lead themselves and others;  
+8 a recognition of the importance of traditional values and national pride as well as 
+global awareness 
+
+=== p6 ===
+6  
+3. CURRICULUM STRUCTURE 
+3.1 Curriculum Composition 
+No. Curriculum Components Number of 
+Credits 
+Credit Distribution 
+(%/Total Credits) 
+I GENERAL EDUCATION  27 22.5 % 
+I.1 University Core Requirement 12 8.3 % 
+I.2 Distributional Requirement 12 14.2 % 
+I.3 Co-curricular Learning 3 2.5 % 
+II NATIONAL DEFENSE EDUCATION   
+III PROFESSIONAL EDUCATION 93 77.5 % 
+III.1 College Core Requirement 30 25 % 
+III.2 Major (Discipline) Requirement 32 26.7 % 
+III.3 Area of Concentration (Elective) 12 10 % 
+III.4 Free Electives  9 6.7 % 
+III.5 Minor* 15  
+III.6 Science Courses 2 2.5 % 
+III.7 Course-related Projects 2 1.7 % 
+III.8 Practice/Internship Non-credit  
+III.9 Graduation Thesis/Capstone 6 5 % 
+ TOTAL (without minor) 120 100 % 
+ TOTAL (with minor) 135  
+* In accordance with Ministry of Education and Training’s regulations, students have the option to obtain 
+a minor in a different area of study. A minor needs to have at least 15 credits that are not already 
+counted towards the major program. Information about the available minors is provided here: LINK 
+  
+
+=== p7 ===
+7  
+3.2 Courses and Credit Distribution by Courses  
+No Course 
+code Name of Courses Total Credit Allocation 
+Theory Practice 
+I GENERAL EDUCATION (GenED) 27   
+I.1 University Core Requirement 12   
+1 ENGL1011 Fundamentals of Academic Writing  3 3  
+2 ENTR1021 Agile Innovation and Entrepreneurship  3 3  
+3 LEAD1031 Leadership and Teambuilding 
+Bootcamp 2 2  
+4 THINK1010 Critical and Creative Thinking  2 2  
+5 HASS1070 Cross Cultural Navigation  2 2  
+6 VCOR1021 Healthy Lifestyle 1 45 hrs   VCOR1022 Healthy Lifestyle 2 
+I.2 Distributional Requirement 12   
+1 HASS1010 Marxism-Leninism Political Economy 
+(Philosophy, Science and Society) 3 3  
+2 HASS1020 Marxism-Leninism Philosophy (Global 
+Political Economy) 2 2  
+3 HASS1030 Scientific Socialism (Politics and Social 
+Change) 2 2  
+4 HASS1041 Ho Chi Minh Ideology (Vietnam: 
+History and Cultures II) 2 2  
+5 HASS1050 History of the Communist Party 
+(Vietnam: History and Cultures I) 2 2  
+6 ARTS1010/ 
+MUSI1010 
+Art Courses 
+(Students select one course in the pool, 
+i.e. ARTS1010, MUSI1010) 
+1 1  
+I.3 Co-curricular Learning    
+1 VCOR1012A
+/B 
+OASIS (Orientation, Advising, Skills, 
+Identity & Diversity, and Spirit of Pay-
+it-Forward) 
+Non-
+credit   
+2 COSL1010 Community Service Learning 3 1 30 hrs 
+II NATIONAL DEFENSE EDUCATION (as required by 
+the Government for Vietnamese citizens) 165 hrs   
+III PROFESSIONAL EDUCATION    
+III.1  College Core Requirement 30   
+1 MATH1010 Calculus I 4 3 1 
+2 MATH1020 Calculus II 4 3 1 
+3 MATH2050 Linear Algebra 4 3 1 
+4 MATH2010 Probability and Statistics  4 3 1 
+5 PHYS1010 Physics I 4 3 1 
+6 CECS1010 Introduction to Engineering and 
+Computer Science 4 2 2 
+
+=== p8 ===
+8  
+No Course 
+code Name of Courses Total Credit Allocation 
+Theory Practice 
+7 COMP1010 Introduction to Programming 4 2 2 
+8 LAW3010 Introduction to Law 2 2  
+III.2 Major (Discipline) Requirement 32   
+1 COMP1020 Object-oriented Programming and 
+Data Structures 
+4 3 1 
+2 MATH2020 Discrete Mathematics 4 3 1 
+3 COMP3020 Machine Learning 4 3 1 
+4 COMP2020 Computer Organization 4 3 1 
+5 COMP3010 Algorithm Design 4 3 1 
+6 COMP2030 Software Construction 4 2 2 
+7 COMP2040 Operating Systems 4 3 1 
+8 COMP2050 Artificial Intelligence 4 3 1 
+III.3 Area of Concentration (Select one)    
+ Artificial Intelligence 12   
+1 MATH4010 Advanced Probability and Statistics 3 2 1 
+2 COMP3040 Computer Vision 3 2 1 
+3 COMP4020 Natural Language Processing 3 2 1 
+4 COMP4040 Data Mining and Big Data Analytics 3 2 1 
+ Data Analytics 12   
+1 MATH4010 Advanced Probability and Statistics 3 2 1 
+2 COMP3030 Databases and Database Systems 3 2 1 
+3 COMP4040 Data Mining and Big Data Analytics 3 2 1 
+4 COMP4010 Data Visualization 3 2 1 
+ Cybersecurity 12   
+1 MATH4010 Advanced Probability and Statistics 3 2 1 
+2 COMP4030 Cybersecurity 3 2 1 
+3 COMP4050 Cryptography 3 2 1 
+4 COMP3050 Networks 3 2 1 
+III.4 
+Free Electives (Students may select courses from the 
+list below, offered either by VinUniversity or by 
+accredited partner institutions) 
+9   
+1 CECS2020 Seminar on Advanced Topics in 
+Engineering and Computer Science 1  1 
+2 UROP1010/
+20/30/40 
+Undergraduate Research Opportunities 
+Program 1/2/3/4 1  1 
+3 UROP1011/
+21/31/41 
+Undergraduate Research Opportunities 
+Program 1/2/3/4 0   
+III.5 Minor 15   
+III.6 Science Courses (required min. 2 credits) 2   
+1 CHEM1010 Chemistry (Physical Science) 3 2 1 
+
+=== p9 ===
+9  
+No Course 
+code Name of Courses Total Credit Allocation 
+Theory Practice 
+2 BIOL1010 Biology (Physical Science) 3 2 1 
+3 PHYS2020 Physics II (Physical Science) 3 2 1 
+4 ECON1010 Microeconomics (Social Science) 3 3  
+5 PSYC1010 Introduction to Psychology (Social 
+Science) 2 2  
+III.7 Course-related Projects 2   
+1 COMP3080 Course-related Project 1 1  1 
+2 COMP3090 Course-related Project 2 1  1 
+III.8 Practice/Internship    
+ COMP4870 Internship  640 hrs   
+III.9 Graduation Thesis/Capstone 6   
+ COMP4890 Capstone Design 6  6 
+Important Note:  
+- Students need to fulfill at least 120 earned credits to graduate.  
+- International students are exempted from National Defense Education. However, they are still required 
+to take ideology courses, including History of the Communist Party, Ho Chi Minh Ideology, Scientific 
+Socialism, Marxism-Leninism Political Economy, Marxis m-Leninism Philosophy (In line with Decision 
+No. 494/QĐ-TTg, issued on June 24, 2002, by the Prime Minister. 
+- Starting from Academic Year 2024 –2025 (AY24 –25), certain courses within the General Education 
+Program will be offered for the last time before the University transitions to the Vincore Program. 
+- Students who do not take these courses in AY24–25 will need to follow the alternative courses offered 
+from AY25–26, which include changes in credit distribution. Students are advised to review these 
+changes carefully  and adjust your study plan accordingly to ensure you accumulate at least 120 
+credits to be eligible for graduation. 
+- Details of the changes are as follows: 
+ Courses offered in AY24-25 Alternative Courses offered in AY25-26 
+No. Course Code Course Title Credit Course Code Course Title Credit 
+1 ENGL1011 Fundamentals of 
+Academic Writing 
+3 ENGL10301 Academic and Professional 
+Writing 
+2 
+2 ARTS1010 
+MUSI1010 
+Art Courses 1 ARTS10302 Arts Appreciation and 
+Application 
+2 
+3 COSL1010 Community Service 
+Learning 
+3 COSL10103 Community Service 
+Learning 
+Non-
+credit 
+ 
+1 Students of cohort 2023 and earlier who haven’t completed ENGL1011 in AY24-25 are required to take ENGL1030 with 2-
+credit recognition only. 
+2 Students of cohort 2023 and earlier complete half a semester, which is equivalent to the 1-credit course of 
+ARTS1010/MUSI1010 
+3  Students of cohort 2023 and earlier can claim credits or not, depending on the level of coursework submitted to course 
+instructors. 
+
+=== p10 ===
+10 
+3.3 Curriculum Planner 
+There are two tracks: Main track and Pathway English track (for students who 
+need to improve English requirement). 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== p11 ===
+11 
+Main track: 
+ 
+  
+GenED 
+Core
+College
+Core
+Discipline
+Requirement Concentration Free
+Elective
+Science
+Courses
+Course-
+related
+Projects
+Practice/
+Intership
+Graduation 
+Thesis/
+Capstone
+Year 1 Fall Calculus I 4
+Introduction to Engineering and CS 4
+Introduction to Programming 4
+Agile Innovation & Entrepreneurship 3
+Fundamentals of Academic Writing 3
+OASIS Non-Credit
+Healthy Lifestyle 1 Non-Credit
+Total Semester Credits 18
+Year 1 Spring Calculus II 4
+Physics I 4
+Object-Oriented Programming and Data 
+Structures 4
+Cross-cultural Navigation 2
+Leadership &Team Building 2
+Critical Thinking 2
+Healthy Lifestyle 2 Non-Credit
+Total Semester Credits 18
+Summer 1 HASS course 1 3
+HASS course 2 2
+HASS course 3 2
+Total Semester Credits 7
+Year 2 Fall Probability and Statistics 4
+Science Course 2
+Discrete Mathematics 4
+Computer Organization 4
+Community Service Learning 3
+Arts 1
+Total Semester Credits 18
+Year 2 Spring Algorithm Desgin 4
+Artificial Intelligence 4
+Advance Probability and Statistics 3
+Linear Algebra 4
+Course-related Project 1
+Total Semester Credits 16
+Year 3 Fall Operating Systems 4
+Software Contruction 4
+Machine Learning 4
+Introduction to Law 2
+HASS course 4 2
+Course-related Project 1
+Total Semester Credits 17
+Year 3 Spring
+Intership (No credit)
+Total Semester Credits 0
+Year 4 Fall HASS course 5 2
+Concentration 3
+Free Elective 3
+Graduation Thesis/Capstone 3
+Total Semester Credits 11
+Year 4 Spring Concentration 3
+Concentration 3
+Free Elective 2 3
+Free Elective 3 3
+Graduation Thesis/Capstone 3
+Total Semester Credits 15
+Total Program Credit Hours 120
+Credit Hour Distribution 27 30 32 12 9 2 2 0 6
+Undergraduate Computer Science Curriculum
+
+=== p12 ===
+12 
+Pathway track: 
+ 
+ 
+  
+GenED 
+Core
+College
+Core
+Discipline
+Requirement Concentration Free
+Elective
+Science
+Courses
+Course-
+related
+Projects
+Practice/
+Intership
+Graduation 
+Thesis/
+Capstone
+Year 1 Fall Calculus I 4
+Introduction to Engineering and CS 4
+Introduction to Programming 4
+Pathway English Advanced A Non-Credit
+OASIS Non-Credit
+Healthy Lifestyle 1 Non-Credit
+Total Semester Credits 12
+Year 1 Spring Calculus II 4
+Physics I 4
+Object-Oriented Programming and Data 
+Structures 4
+Pathway English Advanced B Non-Credit
+Leadership &Teambuilding Boothcamp 2
+Healthy Lifestyle 2 Non-Credit
+Total Semester Credits 14
+Summer 1 HASS course 1 3
+HASS course 2 2
+Fundamentals of Academic Writing 3
+Total Semester Credits 8
+Year 2 Fall Probability and Statistics 4
+Science Course 2
+Discrete Mathematics 4
+Computer Organization 4
+Agile Innovation & Entrepreneurship 3
+HASS course 3 2
+Total Semester Credits 19
+Year 2 Spring Algorithm Desgin 4
+Artificial Intelligence 4
+Critical Thinking 2
+Advance Probability and Statistics 3
+Linear Algebra 4
+Course-related Project 1
+Total Semester Credits 18
+Year 3 Fall Operating Systems 4
+Software Contruction 4
+Machine Learning 4
+Introduction to Law 2
+Art 1
+Community Service Learning 3
+Course-related Project 1
+Total Semester Credits 19
+Year 3 Spring
+Intership (No credit)
+Total Semester Credits 0
+Year 4 Fall HASS course 4 2
+HASS course 5 2
+Concentration 3
+Free Elective 1 3
+Graduation Thesis/Capstone 3
+Total Semester Credits 13
+Year 4 Spring Concentration 3
+Concentration 3
+Cross-cultural Navigation 2
+Free Elective 2 3
+Free Elective 3 3
+Graduation Thesis/Capstone 3
+Total Semester Credits 17
+Total Program Credit Hours 120
+Credit Hour Distribution 27 30 32 12 9 2 2 0 6
+Undergraduate Computer Science Curriculum
+
+=== p13 ===
+13 
+3.4 Course Descriptions 
+COSL1010 Community Service Learning 
+45 hours 
+Pre-requisite: N/A 
+The Introduction to Service-Learning is a P/F, course which aims to promote skill-
+building: reflection, empathy, teamwork, oral communication, written 
+communication (in your reflective journals), and attitudes: societal awareness and 
+social responsibility. Students can choose from different topics such as pollution, 
+teaching, or cultural preservation which change from year to year (see examples 
+below).  
+In addition, this class focuses on project-based activities during the 8 in-person 
+sessions and requires additional hours participating in a service-learning field 
+experience. 
+For this course, students will unpack their own motivations and identity related 
+to social issues using a public narrative and concepts related to civic engagement.  
+ 
+ARTS1030 Art Appreciation and Application 
+2 credits 
+Pre-requisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Demonstrate an understanding and appreciation of arts and visual arts in 
+general, including their function, and historical, religious, cultural, social, and 
+environmental contexts and relevance;  
+2. Understand and define the basic principles of arts, visual arts, and design; 
+explain and analyze a work of art from an informed and objective viewpoint, its 
+physical attributes and formal construction;  
+3. Identify how art works are created and processed;  
+4. Make a reference to the significance and application of the arts in students’ own 
+field of studies and interests;  
+5. Analyze Vietnam arts and situate Vietnam arts in the global context. 
+ 
+ENGL1030 Academic and Professional Writing 
+Credit: 2 
+Pre-requisite: NA 
+On successful completion of this unit, students will be able to: 
+1. Identify and explain core attitudes, values, and practices of academic culture and 
+how academic writing reflects these. 
+
+=== p14 ===
+14 
+2. Reflect critically on the differences between academic and opinion writing and 
+apply this understanding in the composition of academic essays, including 
+referencing, quoting, and paraphrasing. 
+3. Evaluate the differences between academic and professional writing in terms of 
+style, purpose, target audience, and techniques. 
+4. Develop your clear, concise, and well-structured writing skills, focusing on the 
+most critical documents and situations in academic and professional work such as 
+academic essays, newspaper articles, business reports, proposals, speeches... 
+5. Use AI to develop, enhance, and revise writing in both academic and professional 
+contexts. 
+ 
+ENGL1011 Fundamentals of Academic Writing 
+Credit: 3 
+Pre-requisite: None 
+Fundamentals of Academic Writing is aimed at refining students’ formal academic 
+writing skills through a practical and active approach. The course focuses on much 
+more than simply writing, though, and students will strengthen their core 
+academic literacies and formal communication skills to thrive in other 
+VinUniversity courses and equip themselves with strategies for long-term success 
+in academic and professional communication. 
+The course begins by focusing on academic writing at the essay level, helping 
+students understand the aspects which make academic writing different from 
+other styles of writing. Students will develop confidence in critically evaluating 
+information and responding with sound argumentation and logical development 
+of ideas. In this early stage of the course, students will strengthen core academic 
+literacies including critical reading, summarizing, paraphrasing, and peer 
+feedback. As the course progresses, the focus shifts towards incorporating 
+secondary research into writing, developing students’ abilities to evaluate credible 
+sources and synthesize information with their original ideas to have a voice in the 
+broader academic community and develop authority in communicating ideas to a 
+wider audience. Students will develop essential academic literacies such as 
+searching skills, strategies for reading journal articles, synthesizing information, 
+citing and referencing, reference management, and other secondary research 
+techniques. Finally, students will summarize key information they have found in 
+the form of an academic poster, which is a common medium for visually 
+communicating information in academic contexts. 
+Fundamentals of Academic Writing places active learning at the core, and every 
+lesson includes practical activities to help students apply these skills. This course 
+follows a process writing approach, which includes drafting, peer and teacher 
+feedback, reflection, and revision before producing the final piece of writing. 
+Working together in interdisciplinary groups, students will present, critique, and 
+
+=== p15 ===
+15 
+revise their work with their peers to build autonomy, write for an audience, and 
+gain confidence as writers.  
+ 
+ENTR1021 Agile Innovation & Entrepreneurship 
+3 credits 
+Pre-requisites: None 
+The purpose of this course is to provide students with a basic understanding of the 
+entrepreneurial and innovation mindset and provide students the opportunity to 
+learn about and develop skills and behaviors correlated with impactful 
+entrepreneurs and innovators. Skills to be developed – through lecturing and in-
+class discussions, plus coaching on assignments and in-class exercises – include 
+observation of real-world facts, identifying status-quos or problems, identifying 
+core causes leading to status-quos, and to discover original ways to remove causes 
+or to solve problems; networking with people to identify technological 
+contributions, optimizing creativity, seeking feedback, and prototyping or mockup 
+design. The pedagogical outcomes of this course include (i) development of 
+creativity & out-of-the-box thinking, (ii) critical thinking through observation and 
+abstractions, (iii) entrepreneurial mindset and (iv) teamwork on a social or 
+environmental issue. As part of the course all students will engage in a 2-day 
+hackathon to present and discuss optimization of team’s solution to a real-world 
+social or environmental problem. The course is intended for a mix of students from 
+various academic disciplines, such as medicine, nursing, engineering, business, 
+real estate, and hospitality. 
+ 
+LEAD1031 Leadership Development  
+2 credits 
+Pre-requisites: None 
+This course is designed as a required course for freshmen to help the students’ 
+leadership development by introducing the basic concepts of leadership and 
+organizational behavior. This course has one big goal for you: to practice and apply 
+concepts and techniques learned in the class and your life to various scenarios. 
+This course is also intended to provide an overview of leadership trends rather 
+than to emphasize every detail and in-depth review of academic studies. 
+Understanding a landscape of leadership will be possible under the structure of 
+four modules: (1) Leader as a decision-maker, (2) Leader as a problem solver, (3) 
+Leader as a designer, and (4) Leader as a game-changer. A leader in this turbulent 
+world is expected to be a final decision-maker to find a creative solution for 
+difficult challenges and will need to organize a group of people with a formal and 
+informal system. Leadership Development offers a safe place for your learning of 
+leadership. Practice, try, fail, and try again! This is the philosophy of this course. 
+
+=== p16 ===
+16 
+The Boot Camp instills foundational leadership values and skills into students, 
+while bringing the class together, building lasting cohesion, and creating esprit de 
+corps. Students will learn and apply basic leadership concepts and skills through 
+hands-on and experiential learning. Organized into individual and team-based 
+events, the students will have to work individually and together to solve complex 
+and dynamic problems taken from the military, government, and business sectors. 
+This includes but is not limited to conducting long distance land navigation, 
+negotiating physical obstacle courses, analyzing leadership case studies, and much 
+more. From developing self-awareness and thinking critically to innovating ideas 
+and displaying resilience, students will learn critical elements of Self, 
+Interpersonal, and Team Leadership. Following this course, students will gain a 
+foundational understanding of key elements of leadership and better understand 
+their strengths and how to effectively work in teams and organizations. 
+THINK1010 Critical and Creative Thinking  
+2 credits 
+Pre-requisites: None 
+Developing your own ideas in a logical and critical manner is an essential part of 
+being a student in higher education. In this course you will learn about the nature 
+of argumentation, how to evaluate arguments, uncover hidden premises, and 
+sharpen your own thinking skills. We will start by looking at the difference 
+between arguments and non-arguments and why being able to present an 
+argument is such an important skill. Then we will look at different kinds of 
+arguments, such as deduction, induction, and arguments from inference to the best 
+explanation. Not all arguments are made equal. Some arguments are irrefutable - 
+others barely convincing - and others still completely misleading. We will look at 
+how you can assess the quality of an argument and avoid common logical pitfalls. 
+Finally, we will finish by looking at some philosophical puzzles and paradoxes 
+involving logic and reasoning including Hume's notorious problem of induction 
+and the Sorites paradox. 
+ 
+HASS1070 Cross-Cultural Navigation 
+2 credits 
+Pre-requisites: None 
+This course aims to equip students an understanding of one aspect of the so-called 
+“global experience” and/or inter-cultural sensitivity, so that students can become 
+knowledgeable about the ways in which individual identities, values, and 
+perceptions and biases are shaped by cultures across the continentals through 
+acquiring knowledge of theories practice related to the impact of culture in our 
+daily ecologies in local and global contexts. In the end, students are able to identify 
+and understand the inter-sectional of one’s own and others’ cultural identities in 
+order to reflect on how various cultural concepts apply to your own life, 
+communication and various areas of study. 
+
+=== p17 ===
+17 
+VCOR1021/22 Healthy Lifestyle 1, 2 
+Non-credit, required min 45 hours across Year 1 
+Pre-requisites: None 
+“Healthy Lifestyle” is a mandatory and non-credit bearing course of the General 
+Education Program. Undergraduate students are required to enroll in this course 
+to fulfill part of the graduation requirements and are expected to complete it by 
+the end of their first-year study. This course provides the essential knowledge, 
+skills and practicum lessons (exercise/sport classes), whereby students are able 
+to develop a suitable approach in attaining a physically, mentally, socially and 
+spiritually healthy lifestyle. 
+Specifically, this course provides students with the knowledge to make better 
+choices during their daily routines to build a healthy lifestyle. A healthy lifestyle 
+includes physical wellbeing, psychosocial, and spiritual health. Students receive 
+mentorship that guides and shapes their perspective, showcasing the importance 
+of having a well-balanced life. Components of a healthy lifestyle will be discussed 
+as a process and science that allows students to have a greater understanding of 
+what it takes to achieve their goals for overall wellbeing. Nutrition and diet will be 
+taught to dispel the myths about how and what you should eat to achieve desired 
+health results. Having a healthy mind, healthy body, clarity of thought and the 
+ability to effectively process information are key trademarks of a healthy lifestyle. 
+This course emphasizes practical application of the learned concepts in order to 
+integrate subject matter into students’ current daily routines and throughout life. 
+The majority of coursework will be held in different environments and venues in 
+order to expose students to the many varieties of fitness tools and resources to 
+maintain a healthy foundation. 
+ 
+HASS1010 Marxism-Leninism Philosophy (Philosophy Science and Society) 
+3 credits 
+Pre-requisites: None 
+Philosophy Science and Society is one of four courses in the General Education 
+Program forming the ideology/national education component required for higher 
+education curriculum as directed by the Ministry of Education & Training, Socialist 
+Republic of Vietnam. These four courses are written to achieve the primary 
+objective of helping students understand core values of both country and 
+university through objective and critical academic lenses in a global context. As 
+these courses will be taught in English to students for whom English is mainly a 
+second language at VinUniversity, each course is designed to be delivered in the 
+spirit of content-based language learning approach to help students both develop 
+English language competency (focusing on speaking, listening and reading) and 
+basic understanding of the content.  
+
+=== p18 ===
+18 
+Philosophy, Science & Society (PSS) provides students with a broad survey of key 
+ideas in Philosophy, its relevance to society and the way we think we understand 
+the world, or to put it broadly, “science.” We begin the course with an overview of 
+the role of Philosophy and Metaphysics as we embark on this journey of critically 
+re-examining the way we look at our world. In the second part of the course, we 
+take a deep dive into questions of Epistemology, based on which students can 
+orient and develop their creative thinking, philosophy of humanity and action. We 
+follow up with an exploration of trends that came into being with the “social turn” 
+of epistemology found in the critical works of Thomas Kuhn and later in the 
+burgeoning body of works clustered as Sociology of Science. Following this radical 
+re-thinking, we return to the fundamental questions about humanity posed in 
+Social Philosophy and Ethics, to round up our critical inquiry of the complex 
+relationship among philosophy, science and society. 
+ 
+HASS1020 Marxism-Leninism Political Economy (Global Political Economy) 
+2 credits 
+Pre-requisites: None 
+Global Political Economy: Vietnam-Region-The World is one of four courses in the 
+General Education Program forming the ideology/national education component 
+required for higher education curriculum as directed by the Ministry of Education 
+& Training, Socialist Republic of Vietnam. These four courses are written to 
+achieve the primary objective of helping students understand core values of both 
+country and university through objective and critical academic lenses in a global 
+context. This course is designed to help students develop a critical lens to 
+understand social reality and social issues, including pressing questions, such as: 
+What is Vietnam’s place in the world? What are the opportunities and challenges 
+for Vietnam in the current configuration of the global political economy? To do so, 
+we begin with a brief introduction to the study of political economy, informed by 
+different persuasions in Marx-Leninism, political science, economic, sociology, 
+anthropology and history. Students will gain a nuanced understanding of this 
+interdisciplinary field through hands-on workshops and exercises on the 
+principles of scientific and logical arguments. The second part of this course will 
+focus on specific issues related to globalization and international integration. In 
+particular, we focus on the role of development, modernization, and regional 
+development in Vietnam’s prospects in the world. Our case studies pay special 
+attention to the immediate regions surrounding Vietnam, namely ASEAN, East Asia 
+(in particular, China) and South Asia. In the third and final part of this course, we 
+examine the expressions of global inequality and consider how individuals and 
+communities within Vietnam can move forward in an ever-globalizing world. 
+ 
+HASS1030 Scientific Socialism (Politics and Social Change) 
+2 credits 
+
+=== p19 ===
+19 
+Pre-requisites: None 
+Assuming a basic, strong, and even pivotal relationship between society and 
+politics, the course Politics and Social Change will guide participants to a deep 
+understanding of that relationship in Vietnam and the wider Asian region in the 
+20th and 21st centuries. The course explores key concepts of politics and social 
+change, and in explication of those concepts, examine the dynamics of politics and 
+social change in concrete terms. 
+What can be learned? 
+Students at the end of course will become familiar with the concepts of politics and 
+social change of Vietnam. Students will also understand and compare Vietnam 
+with national development efforts elsewhere in Asia. Finally, they will become 
+familiar with major political and international relations developments from the 
+20th century. 
+The medium of instruction helps students to both develop English language 
+competency (focusing on speaking, and articulation, reading) and discourse skills 
+through continuous practice with classmates and instructor. 
+Broad outlines 
+The course begins with a basic appreciation of the concepts of politics and social 
+change, moving into Marxism-Leninism and its application to understanding 
+politics & social change, and extending into how Ho Chi Minh Thought applies 
+Marxism-Leninism and also stands apart as a set of national and contextual ideas 
+and practices. The processes of politics and social change of other countries in the 
+Asia-Pacific are then explored for comparison and contrast. 
+Medium of learning 
+The guiding principle for learning at the Vin Uni is active learning. This approach 
+engages students to be active in the learning process with methods that are more 
+than, not without, the traditional base of lectures and tutorials. The instructor or 
+teacher plays the role of facilitator and provides the environment where students 
+responsibly and actively acquire as much as possible, rather than are passively 
+given, the learning points that the course desires. 
+Participants in this course will learn and share through a mix of lectures, tutorials, 
+non-judgmental journal writing, presentations, and learning to collaborate with 
+others through group projects. The learning environment should be safe, frank, 
+friendly, collaborative, and enlightening. 
+The weekly lists of readings are divided into two types. Basic readings are 
+recommended, and students should at least complete one for each week. Students 
+who wish to do more can pick up the other basic and optional/additional readings. 
+ 
+HASS1041/1042 Ho Chi Minh Ideology (Vietnam: History and Culture II)  
+2 credits 
+
+=== p20 ===
+20 
+Pre-requisites: None 
+Vietnam History and Culture since 1858 is continuation of the first period (from 
+ancient time to 1858) and covers the period from 1858 until today. 
+The main objective of the course is to analyze the development of Vietnam and its 
+people from 1858 when France attacked and colonized VN through two Indochina 
+wars (1946 -1965) and (1954 -1975) until today as Vietnam reunified and 
+reformed and integrated into international system. 
+Due to its strategic geopolitical position, Vietnam has long been a global 
+crossroads. So, this course tries to show as much as possible the parallels, 
+interactions between Vietnam history and events and that happened in the world’s 
+stage. 
+The course also aims to reflect Vietnam history and culture through the central 
+figure of Ho Chi Minh (1890 -1969), the most famous Vietnamese during this 
+period. His life and career reflected the development of the very period of Vietnam 
+history. 
+Students are encouraged to do research himself  to have broader view, discover 
+new historical details. 
+ 
+HASS1050 History of the Communist Party (Vietnam: History and Culture I)  
+2 credits 
+Pre-requisites: None 
+The great American humorist and writer Mark Twain once said, “History doesn’t 
+repeat itself, but it often rhymes.” This course takes as its point of departure the 
+possibility of using those rhymes of the past to better help us navigate our present 
+and futu re. What lessons can we draw? As future businesspeople, health care 
+professionals, engineers, and computer scientists, these lessons have far more 
+relevance than you may imagine. 
+Vietnam History and Culture (I) examines Vietnamese history and cultural 
+production from its early origins to 1858 and the French Colonial project. The 
+curriculum is divided into five units. We begin the curriculum by considering the 
+study of both history and culture from theoretical perspectives and consider what 
+these mean in the Vietnamese context. Just what are “History” and “culture”? What 
+does it mean to be Vietnamese? In the second unit, we consider the ancient 
+construction of Vietnamese history and cultural production. The third portion of 
+the course examines the Lý and Tr ần dynasties as well as the Ming Occupation. 
+Fourth, we explore the movement of Vietnamese people southward and the Tây 
+Sơn Rebellion. And finally, fifth, we assess the unification of Vietnam under the 
+Nguyễn and what is to come. 
+Too often Vietnamese are portrayed in history as vessels upon which events 
+happen to them. This course treats the Vietnamese as agents of their history, 
+grappling with big questions and great problems. We also explore the Vietnamese 
+
+=== p21 ===
+21 
+people’s historical willingness to learn from and integrate foreign ideas and 
+instruments to further develop the Vietnamese culture. To this end, we will 
+wrestle with questions such as: What are the forces that have shaped Vietnamese 
+identity? What drives the worldview(s) of Vietnamese? How has it been 
+transformed over time? 
+ 
+ARTS1010 Arts Appreciation 
+1 credit 
+Pre-requisites: None 
+Art Appreciation is a one -credit elective course that provides a general 
+introduction to the visual arts, media, techniques, and history. This course takes 
+on interdisciplinary approaches to equip students with a broad knowledge of the 
+historical, practical, philosophical, cultural, and social contexts of the arts in order 
+to help students gain the ability to articulate their understanding and 
+interpretation of the arts. This course introduces students to aspects of arts 
+research and curation, as well as el ements, media, and methods used in creative 
+processes. The application of the arts, especially visual arts in daily life and in the 
+field of business, technology, and medicine is explored in this course. This course 
+also aims to develop students’ appreciat ion for Vietnam arts and visual art forms 
+by providing them with opportunities to explore the diversity and richness of what 
+Vietnam has to offer in terms of the arts. 
+This course offers students opportunities to learn about how art is created and 
+how it evolves over time; it would cultivate and enrich students’ artistic senses, 
+experience, and enjoyment of different forms of arts even if the student is not an 
+artist or does not have an ability to draw/paint. In addition, this course fosters and 
+supports students’ development of oral and written presentation and 
+communication, critical and analytical thinking, and multicultural perspectives.  
+This course does not require students to have any prerequisite experience in art 
+theory or practice. Rather, it is a beginning -level course to help students 
+familiarize themselves with the different types of arts, as well as learn how to 
+observe, appreciate, speak, write intellectually about art. Furthermore, the course 
+helps students to think about how art can be integrated and applied in their daily 
+lives and their own fields of interest. 
+ 
+MUSI1010 Music Appreciation 
+1 credit 
+Pre-requisites: None 
+This course offers students opportunities to learn about how music is created and 
+how it evolves over time; it would enrich students’ musical sense, experience, and 
+enjoyment of all types of music even if the student is not a musician. In addition, 
+this co urse fosters and supports students’ development of oral and written 
+
+=== p22 ===
+22 
+presentation and communication, critical and analytical thinking, and 
+multicultural perspectives. 
+Specifically, students taking this course will have the opportunity to explore the 
+history of music, from the primitive musical forms through contemporary pieces 
+around the world. Forms and genres of music include classical, jazz, theatrical 
+music, gospel, folk, soul, blues, Latin rhythms, country, rock & roll, and hip hop. 
+Various arrays of Vietnamese music (traditional, contemporary, theatrical, V-pop) 
+are also discussed in this course. The course explores the relationship between 
+music and people’s every day life and social movements, and its cultural 
+significance. Digital music and the evolution of the Internet and AI impacting music 
+industry, music distribution, and global music access are also an important part of 
+this course.  
+This course does not require students to have any prerequisite experience in 
+musical theory or performance; i.e. students are not required to be able to sight -
+read sheet music or play any musical instrument. Rather, it helps students become 
+an active and intellectual music listener, as well as it helps students to think further 
+on how music can be integrated and applied in the daily lives and their own fields 
+of interest. This cou rse is delivered in class and outside class environment if 
+appropriate. 
+ 
+VCOR1010A/B OASIS - Orientation, Advising, Skills, Identity & Diversity, 
+and Spirit of Pay it Forward 
+Non-credit 
+Pre-requisites: None 
+OASIS, which stands for Orientation, Advising, Skills, Identity & Diversity, and 
+Spirit of Pay it Forward, is an integral, non -credit-bearing mandatory component 
+of the Co-curriculum Program and plays an important role as one of the graduation 
+criteria. 
+OASIS is a distinctive signature program of VinUni that holds a registered 
+trademark. Its primary objective is to cultivate a self -leadership mindset and 
+equips students with essential skills, facilitating their transformation from high 
+school students into effective university scholars, responsible global citizens, and 
+be ready for future career. OASIS is implemented in the first 4 years of bachelor’s 
+degree to ensure there is enough time for students to reflect and practice their own 
+self-leadership development, especially in developing essential qualities for work 
+and life, including self -confidence, self -esteem, self -determination, and self -
+control. 
+ 
+COSL1010: Community Service Learning  
+Credits: 3 
+Pre-requisite: none 
+
+=== p23 ===
+23 
+VinUniversity aims to nurture students to become both competent professionals 
+and responsible citizens making contributions to their professions and the 
+community. Community Service Learning (CSL) provides students with the 
+opportunities to serve the community and to learn how to apply their professional 
+knowledge in bettering the lives of the public. As part of CSL, students must take 
+the 1 credit Introduction to Service-Learning course (equivalent to 15 hours) and 
+fulfill the remaining 30 hours of CSL doing independent volunteer work.   
+CSL is increasingly recognized as a method for educating students to become 
+socially responsible citizens. Many universities over the world have incorporated 
+CSL in their academic undergraduate programs to varying degrees and in a variety 
+of forms. CSL can  be a differentiating factor for VinUni students as they become 
+global citizens.   “Service -learning is a form of experiential education in which 
+students engage in activities that address human and community needs, together 
+with structured opportunities for reflection designed to achieve desired academic 
+learning outcomes” (Service -Learning Essentials, Jacoby 2014; pg.2). Note: 
+Activities must primarily take place off VinUni campus and within the community.  
+All undergraduate students are required to first take the 1 -credit bearing course 
+entitled: Introduction to Service Learning and then do volunteer work or 
+continuing education/independent study to complete 30 + hours of an 
+independent CSL activity (i.e., volunteer with a local NGO). 
+ 
+LAW3010 Introduction to Law 
+ 2 credits 
+Pre-requisites: None 
+Introduction to Law is designed to provide students with a foundational 
+understanding of legal principles and their application within the context of 
+engineering practice. First, the course introduces legal systems and sources of law 
+including an overview of different legal systems, sources of law (e.g., statutes, 
+regulations, case law), and the hierarchy of legal authority. Then, the course will 
+explore the intersection of law and engineering fields, emphasizing the legal 
+frameworks, regulations, and ethic al considerations that engineers encounter 
+throughout their careers. The topics covered but are not limited to contracts and 
+agreements, intellectual property rights, health and safety regulations, 
+environmental laws, standards compliance, professional cod es of conduct, 
+conflicts of interest, and ethical decision -making in engineering practice.  The 
+course is taught through a combination of lectures, case studies, discussions, and 
+practical exercises. 
+ 
+MATH1010 Calculus I 
+ 4 credits 
+Pre-requisites: None 
+
+=== p24 ===
+24 
+This course teaches techniques of integration, finding areas and volumes by 
+integration, exponential growth, partial fractions, infinite sequences and series, 
+tests of convergence, and power series. 
+ 
+MATH1020 Calculus II 
+ 4 credits 
+Pre-requisites: Calculus I 
+This course gives an introduction to  multivariable calculus as well as to ordinary 
+and partial differential equations. Topics include partial derivatives, double and 
+triple integrals, line and surface integrals, vector fields, Green’s theorem, Stokes’ 
+theorem, and the divergence theorem. 
+ 
+MATH1030 Linear Algebra 
+ 4 credits 
+Pre-requisites: None 
+This course teaches linear algebra and its applications. Topics include matrices, 
+determinants, vector spaces, eigenvalues and eigenvectors, orthogonality and 
+inner product spaces; applications include brief introductions to difference 
+equations, Markov ch ains, and systems of linear ordinary differential equations. 
+This course also includes using software to solve linear algebra problems. 
+ 
+MATH2010 Probability and Statistics 
+4 credits 
+Pre-requisites: Calculus I 
+This course teaches random variables, probability distributions, expectation, 
+estimation, testing, experimental design, quality control, and regression.   Other 
+topics include density functions, expectation and variance, multidimensional 
+random variables, and important distributions including normal, Poisson, 
+exponential, hypothesis testing, confidence intervals, and point estimation using 
+maximum likelihood, the method  of moments, conditional probability and 
+Bayesian reasoning. 
+ 
+MATH4010 Advanced Probability and Statistics 
+3 credits 
+Pre-requisites: Probability and Statistics 
+This course teaches advanced topics in probability and statistics.  Topics include  
+random processes, convergence of random processes, Markov Chains, Bayesian 
+statistics, nonlinear regression. 
+
+=== p25 ===
+25 
+ 
+CECS1010 Introduction to Engineering and Computer Science 
+4 credits 
+Pre-requisites: None  
+This course provides a general introduction to the engineering design process – 
+spanning core topics from problem definition through prototyping and testing, as 
+well as other important considerations such as sustainability, failure analysis, and 
+engineering economics. This course also emphasizes multidisciplinary design via 
+a design project (e.g., design a line following robot) which involves students from 
+different majors of college of engineering.  
+ 
+PHYS1010 Physics I  
+ 4 credits 
+Pre-requisites: Calculus I (integration, finding areas and volumes by integration, 
+exponential growth, partial fractions, infinite sequences and series, tests of 
+convergence, and power series). 
+This course covers the mechanics of particles with focus on kinematics, dynamics, 
+conservation laws, central force fields, periodic motion. Mechanics of many -
+particle systems: center of mass, rotational mechanics of a rigid body, rotational 
+equilibrium, and fluid mechanics.  Temperature, heat, the laws of thermodynamics. 
+ 
+PHYS2020 Physics II  
+ 3 credits 
+Pre-requisites: Physics I 
+This course covers electrostatics, behavior of matter in electric fields, DC circuits, 
+magnetic fields, Faraday’s law, AC circuits, and electromagnetic waves. 
+ 
+ CHEM1010 Chemistry 
+ 3 credits 
+Pre-requisites:  None 
+This course covers basic chemical concepts, such as reactivity and bonding of 
+molecules, introductory quantum mechanics, and intermolecular forces in liquids 
+and solids and  gases. Attention will be given to aspects and applications of 
+chemistry most pertinent to engineering. 
+ 
+BIOL1010 Biology 
+ 3 credits 
+Pre-requisites: None 
+
+=== p26 ===
+26 
+This course covers current topics in biology including the basics of molecular and 
+cell biology, immunology, neurobiology, human genetics, biochemistry, 
+biotechnology, personal genetics and genomics, metabolism, neuroscience, tissue 
+repair and engineering, stem cells and evolution. Includes the topics of population 
+growth, community structure, competition, mutualism and predation. Discusses 
+social and ethical issues in modern biology. 
+ 
+ECON1010 Introduction to Microeconomics 
+ 3 credits 
+Pre-requisites: None 
+This course covers the fundamentals of microeconomics. Topics include consumer 
+theory, producer theory, the behavior of firms, market equilibrium, monopoly, the 
+role of the government in the economy, game theory, tragedy of commons and 
+market failures. 
+ 
+PSYC1010 Introduction to Psychology 
+ 2 credits 
+Pre-requisites: None 
+This course covers provides a comprehensive overview of the scientific study of 
+thought and behavior. It explores topics such as perception, communication, 
+learning, memory, decision-making and the and the basics of neuroscience. 
+ 
+COMP1010 Introduction to Programming 
+ 4 credits 
+Pre-requisites: None 
+This course covers programming and problem-solving using Python. Emphasizes 
+principles of software development, style, and testing. Topics include procedures 
+and functions, iteration, recursion, arrays and vectors, strings, an operational 
+model of procedure and function calls, algorithms, exceptions, the basics of object-
+oriented programming (classes, objects, types, sub -typing), and GUIs (graphical 
+user interfaces). 
+ 
+COMP1020 Object-oriented Programming and Data Structures 
+ 4 credits 
+Pre-requisites: Introduction to Programming 
+This course covers program structure and organization, modular programming, 
+advanced topics in object -oriented programming (abstract data types, 
+polymorphism, interfaces, iterators), collections, basics of graphical user 
+
+=== p27 ===
+27 
+interfaces, recursion, data structures (lists, trees, stacks, queues, heaps, search 
+trees, balanced trees, hash tables, graphs), and basic graph algorithms. Java is the 
+principal programming language. 
+ 
+ 
+MATH2020 Discrete Mathematics 
+ 4 credits 
+Pre-requisites: None 
+This course covers notions, techniques and algorithms of discrete mathematics 
+with the special emphasis on sets and proof techniques, functions and relations, 
+number theory, combinatorics, probability, logic, the basics of graph theory and 
+the basics of cryptography.  
+ 
+COMP2020 Computer Organization 
+ 4 credits 
+Pre-requisites: Object-oriented Programming & Data Structures 
+This course provides an introduction to computer organization, systems 
+programming and the hardware/software interface. Topics include instruction 
+sets, computer arithmetic, datapath design, data formats, addressing modes, 
+memory hierarchies including caches and virtual memory, I/O devices, bus-based 
+I/O systems, and multicore architectures. Students learn assembly language 
+programming and design a pipelined RISC processor. 
+ 
+COMP3010 Algorithm Design 
+ 4 credits 
+Pre-requisites: Discrete Math, Object-oriented Programming & Data Structures 
+This course covers four major algorithm design techniques (greedy algorithms, 
+divide and conquer, dynamic programming, and network flow), and algorithmic 
+techniques for intractable problems, including identification of structured special 
+cases, approximati on algorithms, and local search heuristics. Applications are 
+drawn from systems and networks, artificial intelligence, computer vision, data 
+mining, and computational biology. 
+ 
+COMP2020 Software Construction 
+ 4 credits 
+Pre-requisites: Object-oriented Programming & Data Structures 
+This course covers the topics of abstract data types, abstractions functions, 
+interfaces, revisits recursion and regular expressions and grammars. It deals with 
+
+=== p28 ===
+28 
+parser generators, concurrency, thread safety, programming for sockets and 
+networking, queues and message passing, multithreading, locks and 
+synchronization, map and filter, streams and laziness. The course introduces the 
+area of information and data manag ement and how software can be designed to 
+improve data management. It covers testing, code review, version control, 
+designing specifications, debugging and developing complex graphical user 
+interfaces. 
+ 
+COMP2040 Operating Systems 
+ 4 credits 
+Pre-requisites: Computer Organization 
+This course covers systems programming and introductory operating system 
+design and implementation. The basics of operating systems, namely structure, 
+concurrency, scheduling, synchronization, memory management, filesystems, 
+security and networking are cov ered. The course introduces parallel and 
+distributed computing. 
+ 
+COMP2050 Artificial Intelligence 
+ 4 credits 
+Pre-requisites: Introduction to Programming; Probability and Statistics 
+This course covers the main areas of artificial intelligence, including symbolic and 
+connectivist approaches to artificial intelligence, state search algorithms and 
+biologically inspired optimization algorithms, Bayesian networks, the use of logic 
+programming and inference algorithms for logical problems. As part of the course, 
+students will learn about various approaches to representing uncertainty, get an 
+introduction to the decision theory, planning and decision making under 
+uncertainty, and learn how to  apply various artificial intelligence methods to 
+different problems.  The course will consider ethical and societal issues related to 
+artificial intelligence. 
+ 
+COMP3020 Machine Learning 
+ 4 credits 
+Pre-requisites: Linear Algebra, Probability and Statistics, Object -oriented 
+Programming & Data Structures 
+This course covers the principles and algorithms for turning training data into 
+effective automated predictions. It covers the topics such as representation, over -
+fitting, regularization, and generalization, clustering, classification, recommender 
+problems, probabilistic modeling, reinforcement learning; and methods such as 
+support vector machines and neural networks/deep learning. 
+
+=== p29 ===
+29 
+COMP3030 Databases and Database Systems 
+ 3 credits 
+Pre-requisites: Object-oriented Programming and Data Structures 
+This course gives an introduction to relational and noSQL database systems. The 
+topics covered include the relational model, relational algebra, entity-relationship 
+model, schema design, normal forms, SQL, indexing, sorting, relational operators, 
+query optimization, transactions, concurrency control, recovery, database design, 
+and concepts and algorithms for building database management systems.  
+ 
+COMP3040 Computer Vision 
+3 credits 
+Pre-requisites: Machine Learning, Linear Algebra, Object-oriented Programming 
+& Data Structures 
+This course teaches introduction to computer vision. The goal of computer vision 
+is to compute properties of our world-the 3D shape of an environment, the motion 
+of objects, the names of people or things -through analysis of digital images or 
+videos.  The course covers a range of topics, including 3D reconstruction, image 
+segmentaion, object recognition, and vision algorithms fro the Internet, as well as 
+key algorithmic, optimization, and machine learning techniques, such as graph 
+cuts, non-linear least squares, and deep learning.  This course emphasizes hands-
+on experience with computer vision, and several large programming projects. 
+ 
+COMP3050 Networks 
+ 3 credits 
+Pre-requisites: Computer Organization 
+This course teaches basic networking with an emphasis on the Internet. Examples 
+of topics include: the World Wide Web, Email and Peer to Peer networks, data 
+transmission and data encoding, circuit vs. packet switching, local area network 
+technology, routing and switching, congestion control, network security, wireless 
+networks and multimedia. Though the emphasis will be on the Internet, 
+application modules on 4G/5G cellular, WiFi (802.11), and Bluetooth will be 
+presented. 
+ 
+COMP4010 Data Visualization 
+3 credits 
+Pre-requisites: Introduction to programming, statistics and probability 
+This course teaches techniques and algorithms for creating effective visualizations 
+of large datasets and their analytics, based on principles from graphic design, 
+visual art, perceptual psychology and cognitive science. In addition to participating 
+
+=== p30 ===
+30 
+in class discussions, students will have to complete several short data analysis and 
+visualization design assignments as well as a final project. Data visualisation tools 
+such as Tableau are considered as lab exercises.  
+ 
+COMP4020 Natural Language Processing 
+ 3 credits 
+Pre-requisites: Machine Learning, Object-oriented Programming  & Data 
+Structures 
+This course covers the introduction to natural language processing (NLP), the goal 
+of which is to enable computers to use human languages as input, output, or both. 
+It examines NLP in context of including machine translation, automatic 
+conversational assis tants and Internet search. Possible topics include 
+summarization, machine translation, sentiment analysis and information 
+extraction as well as methods for handling the underlying phenomena (e.g., 
+syntactic analysis, word sense disambiguation, discourse an alysis, their 
+shortcomings and solutions). 
+ 
+COMP4030 Cybersecurity 
+ 3 credits 
+Pre-requisites: Object -oriented Programming  & Data Structures, Discrete 
+Mathematics 
+This course covers the topics of technical and social understanding of how and 
+why security and privacy matter, how to think adversarially, how (and how not) 
+to design systems and products. Topics include user authentication, cryptography, 
+malware, behavioral economics in security, human factors in security, privacy and 
+anonymity, side channels, decoys and deception, and adversarial modeling. Real -
+world systems and attacks, including Bitcoin, Stuxnet, retailer breaches, 
+implantable medical devices, and heal th apps are covered. The course discusses 
+societal and ethical issues in cybersecurity. 
+ 
+COMP4040 Data Mining and Big Data Analytics 
+ 3 credits 
+Pre-requisites: Linear Algebra, Object -oriented Programming & Data Structures, 
+Machine Learning 
+This course covers the statistical aspects of data mining, the effective analysis of 
+large datasets. It covers the process of building and interpreting various statistical 
+models appropriate to such problems arising in scientific and business 
+applications. Topics include preparing data for data mining and interpreting and 
+
+=== p31 ===
+31 
+representing knowledge from big data analysis. Assignments are done using one 
+or more data mining. 
+ 
+COMP4050 Cryptography 
+3 credits 
+Pre-requisites: Algorithm Design  
+This is an introductory course in Cryptography. Topics include one-way functions, 
+encryption, digital signatures, pseudo -random number generation, zero -
+knowledge and basic protocols. The emphasis will be on fundamental notions and 
+constructions with proofs  of security based on precise definitions and 
+assumptions. 
+ 
+COMP3080, COMP3090 Course-related project I and II 
+ Min 1 credit 
+Pre-requisites: Determined by the course lecturers 
+Courses for the project: Computer Organization, Algorithm Design, Operating 
+Systems, Artificial Intelligence, Machine Learning, Human-Computer Interaction, 
+Robotics, Cybersecurity and Data Mining and Big Data. 
+Students work in multidisciplinary teams on a course-related problem guided by 
+the course instructor. 
+ 
+COMP4870 Practice/Internship 
+ Non-credit course 
+Pre-requisites: Students must have completed sophomore year. 
+Course Description: 
+The professional structured internship offers students opportunities to apply 
+theoretical knowledge to a real -world work environment and know more about 
+companies that students may be interested in joining after graduation. During the 
+internship, students will have the opportunity to discover and/or confirm their 
+career interests, develop their major knowledge and gain valuable professional 
+skills and connections with industry professionals. Students will complete the 
+program under the guidance and support of a company advisor or Principal 
+Investigator (PI), an industry mentor/ project researcher, and a faculty advisor, 
+who will jointly help students to create SMART learning outcomes (specific, 
+measurable, achievable, relevant and time-bound). 
+ 
+ 
+
+=== p32 ===
+32 
+COMP4890 Graduation Thesis/Capstone 
+ 6 credits 
+Pre-requisites: Practice/Internship; Determined by the advisor 
+This Capstone course is developed for students in the College of Engineering and 
+Computer Science (CECS) to apply technical knowledge and skills acquired in 
+earlier coursework to a project involving actual computing design and 
+implementation. Students are strongly encouraged to work on multidiscipline -
+major topics to produce an end -to-end solution to a complex real -world problem 
+from industry or academia. The assessment methods are formulated from 
+discussions and agreements between industry/academia and Vin Uni in 
+accordance with ABET requirements. More specifically, the project involves the 
+development of computing or information systems. The project should focus on 
+advanced technologies, new applications, and their usefulness and benefit to the 
+development of the economy and society. In this course, students work in teams 
+of 3 to 5, where some students may be in other programs. They will work under 
+the supervision of VinUni faculty instructors. Students are enrolled in Capstone I 
+in the first semester to dev elop or tailor a project proposal and secure instructor 
+approval. In the following semester, they must take Capstone II to complete the 
+project. Students are expected to be present in person for every formal group 
+meeting and for required classes. They sho uld be able to deliver their work and 
+contribution to the project and engage in professional dialogue about their project 
+during formal presentations. 
+ 

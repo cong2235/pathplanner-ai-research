@@ -1,0 +1,242 @@
+[
+ {
+  "code": "ENTR1021",
+  "name": "Agile Innovation & Entrepreneurship",
+  "credits": 3.0,
+  "prereq_raw": "None The purpose of this course is to provide students with a basic understanding of the entrepreneurial and innovation mindset and provide students the opportunity to"
+ },
+ {
+  "code": "LEAD1031",
+  "name": "Leadership Development",
+  "credits": 2.0,
+  "prereq_raw": "None This course is designed as a required course for freshmen to help the students’ leadership development by introducing the basic concepts of leadership and organizational behavior. This course has one big goal for you: to practice and apply"
+ },
+ {
+  "code": "HASS1070",
+  "name": "Cross-Cultural Navigation",
+  "credits": 2.0,
+  "prereq_raw": "None This course aims to equip students an understanding of one aspect of the so-called “global experience” and/or inter-cultural sensitivity, so that students can become"
+ },
+ {
+  "code": "HASS1010",
+  "name": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+  "credits": 3.0,
+  "prereq_raw": "None Philosophy Science and Society is one of four courses in the General Education Program forming the ideology/national education component required for higher"
+ },
+ {
+  "code": "HASS1020",
+  "name": "Marxism-Leninism Political Economy (Global Political Economy)",
+  "credits": 2.0,
+  "prereq_raw": "None Global Political Economy: Vietnam-Region-The World is one of four courses in the General Education Program forming the ideology/national education component"
+ },
+ {
+  "code": "HASS1030",
+  "name": "Scientific Socialism (Politics and Social Change)",
+  "credits": 2.0,
+  "prereq_raw": "None Assuming a basic, strong, and even pivotal relationship between society and politics, the course Politics and Social Change will guide participants to a deep"
+ },
+ {
+  "code": "HASS1041/1042",
+  "name": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+  "credits": 2.0,
+  "prereq_raw": "None Vietnam History and Culture since 1858 is continuation of the first period (from ancient time to 1858) and covers the period from 1858 until today."
+ },
+ {
+  "code": "HASS1050",
+  "name": "History of the Communist Party (Vietnam: History and Culture I)",
+  "credits": 2.0,
+  "prereq_raw": "None The great American humorist and writer Mark Twain once said, “History doesn’t repeat itself, but it often rhymes.” This course takes as its point of departure the"
+ },
+ {
+  "code": "ARTS1010",
+  "name": "Arts Appreciation",
+  "credits": 1.0,
+  "prereq_raw": "None Art Appreciation is a one -credit elective course that provides a general introduction to the visual arts, media, techniques, and history. This course takes"
+ },
+ {
+  "code": "MUSI1010",
+  "name": "Music Appreciation",
+  "credits": 1.0,
+  "prereq_raw": "None This course offers students opportunities to learn about how music is created and how it evolves over time; it would enrich students’ musical sense, experience, and"
+ },
+ {
+  "code": "LAW3010",
+  "name": "Introduction to Law",
+  "credits": 2.0,
+  "prereq_raw": "None Introduction to Law is designed to provide students with a foundational understanding of legal principles and their application within the context of engineering practice. First, the course introduces legal systems and sources of law"
+ },
+ {
+  "code": "MATH1010",
+  "name": "Calculus I",
+  "credits": 4.0,
+  "prereq_raw": "None This course teaches techniques of integration, finding areas and volumes by integration, exponential growth, partial fractions, infinite sequences and series,"
+ },
+ {
+  "code": "MATH1020",
+  "name": "Calculus II",
+  "credits": 4.0,
+  "prereq_raw": "Calculus I This course gives an introduction to multivariable calculus as well as to ordinary and partial differential equations. Topics include partial derivatives, double and"
+ },
+ {
+  "code": "MATH1030",
+  "name": "Linear Algebra",
+  "credits": 4.0,
+  "prereq_raw": "None This course teaches linear algebra and its applications. Topics include matrices, determinants, vector spaces, eigenvalues and eigenvectors, orthogonality and"
+ },
+ {
+  "code": "MATH2010",
+  "name": "Probability and Statistics",
+  "credits": 4.0,
+  "prereq_raw": "Calculus I This course teaches random variables, probability distributions, expectation, estimation, testing, experimental design, quality control, and regression. Other"
+ },
+ {
+  "code": "MATH4010",
+  "name": "Advanced Probability and Statistics",
+  "credits": 3.0,
+  "prereq_raw": "Probability and Statistics This course teaches advanced topics in probability and statistics. Topics include random processes, convergence of random processes, Markov Chains, Bayesian"
+ },
+ {
+  "code": "CECS1010",
+  "name": "Introduction to Engineering and Computer Science",
+  "credits": 4.0,
+  "prereq_raw": "None"
+ },
+ {
+  "code": "PHYS1010",
+  "name": "Physics I",
+  "credits": 4.0,
+  "prereq_raw": "Calculus I (integration, finding areas and volumes by integration, exponential growth, partial fractions, infinite sequences and series, tests of convergence, and power series)."
+ },
+ {
+  "code": "PHYS2020",
+  "name": "Physics II",
+  "credits": 3.0,
+  "prereq_raw": "Physics I This course covers electrostatics, behavior of matter in electric fields, DC circuits, magnetic fields, Faraday’s law, AC circuits, and electromagnetic waves."
+ },
+ {
+  "code": "BIOL1010",
+  "name": "Biology",
+  "credits": 3.0,
+  "prereq_raw": "None This course covers current topics in biology including the basics of molecular and cell biology, immunology, neurobiology, human genetics, biochemistry, biotechnology, personal genetics and genomics, metabolism, neuroscience, tissue"
+ },
+ {
+  "code": "ECON1010",
+  "name": "Introduction to Microeconomics",
+  "credits": 3.0,
+  "prereq_raw": "None This course covers the fundamentals of microeconomics. Topics include consumer theory, producer theory, the behavior of firms, market equilibrium, monopoly, the"
+ },
+ {
+  "code": "PSYC1010",
+  "name": "Introduction to Psychology",
+  "credits": 2.0,
+  "prereq_raw": "None This course covers provides a comprehensive overview of the scientific study of thought and behavior. It explores topics such as perception, communication, learning, memory, decision-making and the and the basics of neuroscience."
+ },
+ {
+  "code": "COMP1010",
+  "name": "Introduction to Programming",
+  "credits": 4.0,
+  "prereq_raw": "None This course covers programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures"
+ },
+ {
+  "code": "COMP1020",
+  "name": "Object-oriented Programming and Data Structures",
+  "credits": 4.0,
+  "prereq_raw": "Introduction to Programming This course covers program structure and organization, modular programming, advanced topics in object -oriented programming (abstract data types,"
+ },
+ {
+  "code": "MATH2020",
+  "name": "Discrete Mathematics",
+  "credits": 4.0,
+  "prereq_raw": "None This course covers notions, techniques and algorithms of discrete mathematics with the special emphasis on sets and proof techniques, functions and relations,"
+ },
+ {
+  "code": "COMP2020",
+  "name": "Computer Organization",
+  "credits": 4.0,
+  "prereq_raw": "Object-oriented Programming, Algorithms and Data Structures This course provides an introduction to computer organization, systems programming and the hardware/software interface. Topics include instruction"
+ },
+ {
+  "code": "COMP3010",
+  "name": "Algorithm Design",
+  "credits": 4.0,
+  "prereq_raw": "Theory of Computation This course covers four major algorithm design techniques (greedy algorithms, divide and conquer, dynamic programming, and network flow), and algorithmic"
+ },
+ {
+  "code": "COMP2020",
+  "name": "Software Construction",
+  "credits": 4.0,
+  "prereq_raw": "Object-oriented Programming, Algorithms and Data Structures This course covers the topics of abstract data types, abstractions functions, interfaces, revisits recursion and regular expressions and grammars. It deals with"
+ },
+ {
+  "code": "COMP2040",
+  "name": "Operating Systems",
+  "credits": 4.0,
+  "prereq_raw": "Computer Organization This course covers systems programming and introductory operating system design and implementation. The basics of operating systems, namely structure,"
+ },
+ {
+  "code": "COMP2050",
+  "name": "Artificial Intelligence",
+  "credits": 4.0,
+  "prereq_raw": "Introduction to Programming; Probability and Statistics This course covers the main areas of artificial intelligence, including symbolic and connectivist approaches to artificial intelligence, state search algorithms and"
+ },
+ {
+  "code": "COMP3020",
+  "name": "Machine Learning",
+  "credits": 4.0,
+  "prereq_raw": "Linear Algebra, Probability and Statistics, Object -oriented Programming, Algorithms and Data Structures This course covers the principles and algorithms for turning training data into"
+ },
+ {
+  "code": "COMP3030",
+  "name": "Databases and Database Systems",
+  "credits": 4.0,
+  "prereq_raw": "Object-oriented Programming, Algorithms and Data Structures"
+ },
+ {
+  "code": "COMP3040",
+  "name": "Computer Vision",
+  "credits": 3.0,
+  "prereq_raw": "Machine Learning, Linear Algebra, Object-oriented Programming, Algorithms and Data Structures This course teaches introduction to computer vision. The goal of computer vision"
+ },
+ {
+  "code": "COMP3050",
+  "name": "Networks",
+  "credits": 3.0,
+  "prereq_raw": "Computer Organization This course teaches basic networking with an emphasis on the Internet. Examples of topics include: the World Wide Web, Email and Peer to Peer networks, data"
+ },
+ {
+  "code": "COMP4010",
+  "name": "Data Visualization",
+  "credits": 3.0,
+  "prereq_raw": "Introduction to programming, statistics and probability, data mining and big data analytics This course teaches techniques and algorithms for creating effective visualizations"
+ },
+ {
+  "code": "COMP4020",
+  "name": "Natural Language Processing",
+  "credits": 3.0,
+  "prereq_raw": "Machine Learning, Object-oriented Programming, Algorithms and Data Structures This course covers the introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both."
+ },
+ {
+  "code": "COMP4030",
+  "name": "Cybersecurity",
+  "credits": 3.0,
+  "prereq_raw": "Object -oriented Programming, Algorithms and Data Structures, Discrete Mathematics This course covers the topics of technical and social understanding of how and"
+ },
+ {
+  "code": "COMP4040",
+  "name": "Data Mining and Big Data Analytics",
+  "credits": 3.0,
+  "prereq_raw": "Linear Algebra, Object -oriented Programming, Algorithms and Data Structures, Machine Learning This course covers the statistical aspects of data mining, the effective analysis of"
+ },
+ {
+  "code": "COMP4050",
+  "name": "Cryptography",
+  "credits": 3.0,
+  "prereq_raw": "Theory of Computation, Linear algebra This is an introductory course in Cryptography. Topics include one-way functions, encryption, digital signatures, pseudo -random number generation, zero -"
+ },
+ {
+  "code": "COMP4890",
+  "name": "Graduation Thesis/Capstone",
+  "credits": 6.0,
+  "prereq_raw": "Practice/Internship; Determined by the advisor This Capstone course is developed for students in the College of Engineering and"
+ }
+]

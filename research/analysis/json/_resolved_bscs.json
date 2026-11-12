@@ -1,0 +1,2178 @@
+{
+ "V2021": {
+  "agile innovation": {
+   "code": "ENTR1020",
+   "name": "Agile Innovation",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None The purpose of this course is to provide students with a basic understanding of the e"
+  },
+  "academic english 1": {
+   "code": "ENGL1010",
+   "name": "Academic English 1",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None or Pathway English Advanced B for Pathway track This course is designed as a continua"
+  },
+  "academic english 2": {
+   "code": "ENGL1020",
+   "name": "Academic English 2",
+   "cr": 3.0,
+   "pre": [
+    "academic english 1",
+    "academic english 2"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Academic English 1 Academic English 2 reinforces and expands the language and academic ski"
+  },
+  "organization behaviors": {
+   "code": "LEAD1020",
+   "name": "Organization behaviors",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course introduces students theoretically and practically to key facets of leader"
+  },
+  "scientific socialism": {
+   "code": "HASS1030",
+   "name": "Scientific Socialism (Politics and Social Change)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Introduction to Political Science is intended to be a survey course and thus, it cove"
+  },
+  "marxism-leninism philosophy": {
+   "code": "HASS1010",
+   "name": "Marxism-Leninism Philosophy (Philosophy, Science and Society)",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Philosophy, Science & Society (PSS) provides students with a broad survey of key idea"
+  },
+  "marxism-leninism political economy": {
+   "code": "HASS1020",
+   "name": "Marxism-Leninism Political Economy (Global Political Economy)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course is designed to help students develop a critical lens to understand social"
+  },
+  "history of the communist party": {
+   "code": "HASS1050",
+   "name": "History of the Communist Party (Vietnam: History and Cultures I)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None"
+  },
+  "ho chi minh ideology": {
+   "code": "HASS1040/1041",
+   "name": "Ho Chi Minh Ideology (Vietnam: History and Cultures II)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None In the past two decades, Vietnam has achieved remarkable economic development while d"
+  },
+  "introduction to law": {
+   "code": "LAW1010",
+   "name": "Introduction to Law",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course is an introduction to the concept and role of law which considers the nat"
+  },
+  "arts": {
+   "code": "ARTS1010",
+   "name": "Arts",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None The Arts component of Vin University General Education Program seeks to cultivate the"
+  },
+  "oasis": {
+   "code": "VCOR1011",
+   "name": "OASIS",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None OASIS – an acronym of Orientation, Advising, Skills, Identity & Diversity, Service Le"
+  },
+  "calculus i": {
+   "code": "MATH1010",
+   "name": "Calculus I",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course teaches techniques of integration, finding areas and volumes by integrati"
+  },
+  "calculus ii": {
+   "code": "MATH1020",
+   "name": "Calculus II",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course gives an introduction to multivariable calculus as well as to ordin"
+  },
+  "linear algebra": {
+   "code": "MATH2050",
+   "name": "Linear Algebra",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None"
+  },
+  "probability and statistics": {
+   "code": "MATH2010",
+   "name": "Probability and Statistics",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course teaches random variables, probability distributions, expectation, e"
+  },
+  "advanced probability and statistics": {
+   "code": "MATH4010",
+   "name": "Advanced Probability and Statistics",
+   "cr": 3.0,
+   "pre": [
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Probability and Statistics This course teaches advanced topics in probability and statisti"
+  },
+  "introduction to engineering and computer science": {
+   "code": "CECS1010",
+   "name": "Introduction to Engineering and Computer Science",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course provides a general introduction to the engineering design process – spann"
+  },
+  "physics i": {
+   "code": "PHYS1010",
+   "name": "Physics I",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I (integration, finding areas and volumes by integration, exponential growth, par"
+  },
+  "physics ii": {
+   "code": "PHYS2020",
+   "name": "Physics II",
+   "cr": 3.0,
+   "pre": [
+    "physics i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Physics I This course covers electrostatics, behavior of matter in electric fields, DC cir"
+  },
+  "biology": {
+   "code": "BIOL1010",
+   "name": "Biology",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers current topics in biology including the basics of molecular and ce"
+  },
+  "introduction to microeconomics": {
+   "code": "ECON1010",
+   "name": "Introduction to Microeconomics",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers the fundamentals of microeconomics. Topics include consumer theory"
+  },
+  "introduction to psychology": {
+   "code": "PSYC1010",
+   "name": "Introduction to Psychology",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers provides a comprehensive overview of the scientific study of thoug"
+  },
+  "introduction to programming": {
+   "code": "COMP1010",
+   "name": "Introduction to Programming",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers programming and problem-solving using Python. Emphasizes principle"
+  },
+  "object-oriented programming and data structures": {
+   "code": "COMP1020",
+   "name": "Object-oriented Programming and Data Structures",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming This course covers program structure and organization, modular"
+  },
+  "discrete mathematics": {
+   "code": "MATH2020",
+   "name": "Discrete Mathematics",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers notions, techniques and algorithms of discrete mathematics with th"
+  },
+  "computer organization": {
+   "code": "COMP2020",
+   "name": "Computer Organization",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures t",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures This course provides an introd"
+  },
+  "algorithm design": {
+   "code": "COMP3010",
+   "name": "Algorithm Design",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "theory of computation this course covers four major algorith",
+   "raw": "Theory of Computation This course covers four major algorithm design techniques (greedy al"
+  },
+  "software construction": {
+   "code": "COMP2020",
+   "name": "Software Construction",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures t",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures This course covers the topics "
+  },
+  "operating systems": {
+   "code": "COMP2040",
+   "name": "Operating Systems",
+   "cr": 4.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course covers systems programming and introductory operating sy"
+  },
+  "artificial intelligence": {
+   "code": "COMP2050",
+   "name": "Artificial Intelligence",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming; Probability and Statistics This course covers the main areas "
+  },
+  "machine learning": {
+   "code": "COMP3020",
+   "name": "Machine Learning",
+   "cr": 4.0,
+   "pre": [
+    "linear algebra",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra, Probability and Statistics, Object -oriented Programming, Algorithms and D"
+  },
+  "databases and database systems": {
+   "code": "COMP3030",
+   "name": "Databases and Database Systems",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures t",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures This course gives an introduct"
+  },
+  "computer vision": {
+   "code": "COMP3040",
+   "name": "Computer Vision",
+   "cr": 3.0,
+   "pre": [
+    "machine learning",
+    "linear algebra"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Linear Algebra, Object-oriented Programming, Algorithms and Data Structu"
+  },
+  "networks": {
+   "code": "COMP3050",
+   "name": "Networks",
+   "cr": 3.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course teaches basic networking with an emphasis on the Interne"
+  },
+  "data visualization": {
+   "code": "COMP4010",
+   "name": "Data Visualization",
+   "cr": 3.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics",
+    "data mining and big data analytics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to programming, statistics and probability, data mining and big data analytic"
+  },
+  "natural language processing": {
+   "code": "COMP4020",
+   "name": "Natural Language Processing",
+   "cr": 3.0,
+   "pre": [
+    "machine learning"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Object -oriented Programming, Algorithms and Data Structures This course"
+  },
+  "cybersecurity": {
+   "code": "COMP4030",
+   "name": "Cybersecurity",
+   "cr": 3.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures d",
+   "raw": "Object -oriented Programming, Algorithms and Data Structures, Discrete Mathematics This co"
+  },
+  "data mining and big data analytics": {
+   "code": "COMP4040",
+   "name": "Data Mining and Big Data Analytics",
+   "cr": 3.0,
+   "pre": [
+    "linear algebra"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra, Object -oriented Programming, Algorithms and Data Structures, Machine Lear"
+  },
+  "cryptography": {
+   "code": "COMP4050",
+   "name": "Cryptography",
+   "cr": 3.0,
+   "pre": [],
+   "st": "review",
+   "note": "theory of computation linear algebra this is an introductory",
+   "raw": "Theory of Computation, Linear algebra This is an introductory course in Cryptography. Topi"
+  },
+  "graduation thesis capstone": {
+   "code": "COMP4890",
+   "name": "Graduation Thesis/Capstone",
+   "cr": 6.0,
+   "pre": [],
+   "st": "review",
+   "note": "practice internship determined by the advisor this capstone ",
+   "raw": "Practice/Internship; Determined by the advisor This Capstone course is developed for stude"
+  }
+ },
+ "V2023-i4": {
+  "agile innovation and entrepreneurship": {
+   "code": "ENTR1021",
+   "name": "Agile Innovation & Entrepreneurship",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None The purpose of this course is to provide students with a basic understanding of the e"
+  },
+  "leadership development": {
+   "code": "LEAD1031",
+   "name": "Leadership Development",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course is designed as a required course for freshmen to help the students’ leade"
+  },
+  "cross-cultural navigation": {
+   "code": "HASS1070",
+   "name": "Cross-Cultural Navigation",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course aims to equip students an understanding of one aspect of the so-called “g"
+  },
+  "marxism-leninism philosophy": {
+   "code": "HASS1010",
+   "name": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Philosophy Science and Society is one of four courses in the General Education Progra"
+  },
+  "marxism-leninism political economy": {
+   "code": "HASS1020",
+   "name": "Marxism-Leninism Political Economy (Global Political Economy)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Global Political Economy: Vietnam-Region-The World is one of four courses in the Gene"
+  },
+  "scientific socialism": {
+   "code": "HASS1030",
+   "name": "Scientific Socialism (Politics and Social Change)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Assuming a basic, strong, and even pivotal relationship between society and politics,"
+  },
+  "ho chi minh ideology": {
+   "code": "HASS1041/1042",
+   "name": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Vietnam History and Culture since 1858 is continuation of the first period (from anci"
+  },
+  "history of the communist party": {
+   "code": "HASS1050",
+   "name": "History of the Communist Party (Vietnam: History and Culture I)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None The great American humorist and writer Mark Twain once said, “History doesn’t repeat "
+  },
+  "arts appreciation": {
+   "code": "ARTS1010",
+   "name": "Arts Appreciation",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Art Appreciation is a one -credit elective course that provides a general introductio"
+  },
+  "music appreciation": {
+   "code": "MUSI1010",
+   "name": "Music Appreciation",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course offers students opportunities to learn about how music is created and how"
+  },
+  "introduction to law": {
+   "code": "LAW3010",
+   "name": "Introduction to Law",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Introduction to Law is designed to provide students with a foundational understanding"
+  },
+  "calculus i": {
+   "code": "MATH1010",
+   "name": "Calculus I",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course teaches techniques of integration, finding areas and volumes by integrati"
+  },
+  "calculus ii": {
+   "code": "MATH1020",
+   "name": "Calculus II",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course gives an introduction to multivariable calculus as well as to ordin"
+  },
+  "linear algebra": {
+   "code": "MATH1030",
+   "name": "Linear Algebra",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course teaches linear algebra and its applications. Topics include matrices, det"
+  },
+  "probability and statistics": {
+   "code": "MATH2010",
+   "name": "Probability and Statistics",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course teaches random variables, probability distributions, expectation, e"
+  },
+  "advanced probability and statistics": {
+   "code": "MATH4010",
+   "name": "Advanced Probability and Statistics",
+   "cr": 3.0,
+   "pre": [
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Probability and Statistics This course teaches advanced topics in probability and statisti"
+  },
+  "introduction to engineering and computer science": {
+   "code": "CECS1010",
+   "name": "Introduction to Engineering and Computer Science",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None"
+  },
+  "physics i": {
+   "code": "PHYS1010",
+   "name": "Physics I",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I (integration, finding areas and volumes by integration, exponential growth, par"
+  },
+  "physics ii": {
+   "code": "PHYS2020",
+   "name": "Physics II",
+   "cr": 3.0,
+   "pre": [
+    "physics i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Physics I This course covers electrostatics, behavior of matter in electric fields, DC cir"
+  },
+  "biology": {
+   "code": "BIOL1010",
+   "name": "Biology",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers current topics in biology including the basics of molecular and ce"
+  },
+  "introduction to microeconomics": {
+   "code": "ECON1010",
+   "name": "Introduction to Microeconomics",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers the fundamentals of microeconomics. Topics include consumer theory"
+  },
+  "introduction to psychology": {
+   "code": "PSYC1010",
+   "name": "Introduction to Psychology",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers provides a comprehensive overview of the scientific study of thoug"
+  },
+  "introduction to programming": {
+   "code": "COMP1010",
+   "name": "Introduction to Programming",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers programming and problem solving using Python. Emphasizes principle"
+  },
+  "object-oriented programming and data structures": {
+   "code": "COMP1020",
+   "name": "Object-oriented Programming and Data Structures",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming This course covers program structure and organization, modular"
+  },
+  "discrete mathematics": {
+   "code": "MATH2020",
+   "name": "Discrete Mathematics",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers notions, techniques and algorithms of discrete mathematics with th"
+  },
+  "computer organization": {
+   "code": "COMP2020",
+   "name": "Computer Organization",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures t",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures This course provides an introd"
+  },
+  "algorithm design": {
+   "code": "COMP3010",
+   "name": "Algorithm Design",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "theory of computation this course covers four major algorith",
+   "raw": "Theory of Computation This course covers four major algorithm design techniques (greedy al"
+  },
+  "software construction": {
+   "code": "COMP2020",
+   "name": "Software Construction",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures t",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures This course covers the topics "
+  },
+  "operating systems": {
+   "code": "COMP2040",
+   "name": "Operating Systems",
+   "cr": 4.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course covers systems programming and introductory operating sy"
+  },
+  "artificial intelligence": {
+   "code": "COMP2050",
+   "name": "Artificial Intelligence",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming; Probability and Statistics This course covers the main areas "
+  },
+  "machine learning": {
+   "code": "COMP3020",
+   "name": "Machine Learning",
+   "cr": 4.0,
+   "pre": [
+    "linear algebra",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra, Probability and Statistics, Object -oriented Programming, Algorithms and D"
+  },
+  "databases and database systems": {
+   "code": "COMP3030",
+   "name": "Databases and Database Systems",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures"
+  },
+  "computer vision": {
+   "code": "COMP3040",
+   "name": "Computer Vision",
+   "cr": 3.0,
+   "pre": [
+    "machine learning",
+    "linear algebra"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Linear Algebra, Object-oriented Programming, Algorithms and Data Structu"
+  },
+  "networks": {
+   "code": "COMP3050",
+   "name": "Networks",
+   "cr": 3.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course teaches basic networking with an emphasis on the Interne"
+  },
+  "data visualization": {
+   "code": "COMP4010",
+   "name": "Data Visualization",
+   "cr": 3.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics",
+    "data mining and big data analytics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to programming, statistics and probability, data mining and big data analytic"
+  },
+  "natural language processing": {
+   "code": "COMP4020",
+   "name": "Natural Language Processing",
+   "cr": 3.0,
+   "pre": [
+    "machine learning"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Object-oriented Programming, Algorithms and Data Structures This course "
+  },
+  "cybersecurity": {
+   "code": "COMP4030",
+   "name": "Cybersecurity",
+   "cr": 3.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures d",
+   "raw": "Object -oriented Programming, Algorithms and Data Structures, Discrete Mathematics This co"
+  },
+  "data mining and big data analytics": {
+   "code": "COMP4040",
+   "name": "Data Mining and Big Data Analytics",
+   "cr": 3.0,
+   "pre": [
+    "linear algebra"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra, Object -oriented Programming, Algorithms and Data Structures, Machine Lear"
+  },
+  "cryptography": {
+   "code": "COMP4050",
+   "name": "Cryptography",
+   "cr": 3.0,
+   "pre": [],
+   "st": "review",
+   "note": "theory of computation linear algebra this is an introductory",
+   "raw": "Theory of Computation, Linear algebra This is an introductory course in Cryptography. Topi"
+  },
+  "graduation thesis capstone": {
+   "code": "COMP4890",
+   "name": "Graduation Thesis/Capstone",
+   "cr": 6.0,
+   "pre": [],
+   "st": "review",
+   "note": "practice internship determined by the advisor this capstone ",
+   "raw": "Practice/Internship; Determined by the advisor This Capstone course is developed for stude"
+  }
+ },
+ "23-27": {
+  "art appreciation and application": {
+   "code": "ARTS1030",
+   "name": "Art Appreciation and Application",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Demonstrate an u"
+  },
+  "agile innovation and entrepreneurship": {
+   "code": "ENTR1021",
+   "name": "Agile Innovation & Entrepreneurship",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None The purpose of this course is to provide students with a basic understanding of the e"
+  },
+  "leadership development": {
+   "code": "LEAD1031",
+   "name": "Leadership Development",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course is designed as a required course for freshmen to help the students’ leade"
+  },
+  "cross-cultural navigation": {
+   "code": "HASS1070",
+   "name": "Cross-Cultural Navigation",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course aims to equip students an understanding of one aspect of the so-called “g"
+  },
+  "marxism-leninism philosophy": {
+   "code": "HASS1010",
+   "name": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Philosophy Science and Society is one of four courses in the General Education Progra"
+  },
+  "marxism-leninism political economy": {
+   "code": "HASS1020",
+   "name": "Marxism-Leninism Political Economy (Global Political Economy)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Global Political Economy: Vietnam-Region-The World is one of four courses in the Gene"
+  },
+  "scientific socialism": {
+   "code": "HASS1030",
+   "name": "Scientific Socialism (Politics and Social Change)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Assuming a basic, strong, and even pivotal relationship between society and politics,"
+  },
+  "ho chi minh ideology": {
+   "code": "HASS1041/1042",
+   "name": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Vietnam History and Culture since 1858 is continuation of the first period (from anci"
+  },
+  "history of the communist party": {
+   "code": "HASS1050",
+   "name": "History of the Communist Party (Vietnam: History and Culture I)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None The great American humorist and writer Mark Twain once said, “History doesn’t repeat "
+  },
+  "arts appreciation": {
+   "code": "ARTS1010",
+   "name": "Arts Appreciation",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Art Appreciation is a one -credit elective course that provides a general introductio"
+  },
+  "music appreciation": {
+   "code": "MUSI1010",
+   "name": "Music Appreciation",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course offers students opportunities to learn about how music is created and how"
+  },
+  "introduction to law": {
+   "code": "LAW3010",
+   "name": "Introduction to Law",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Introduction to Law is designed to provide students with a foundational understanding"
+  },
+  "calculus i": {
+   "code": "MATH1010",
+   "name": "Calculus I",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None"
+  },
+  "calculus ii": {
+   "code": "MATH1020",
+   "name": "Calculus II",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course gives an introduction to multivariable calculus as well as to ordin"
+  },
+  "linear algebra": {
+   "code": "MATH1030",
+   "name": "Linear Algebra",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course teaches linear algebra and its applications. Topics include matrices, det"
+  },
+  "probability and statistics": {
+   "code": "MATH2010",
+   "name": "Probability and Statistics",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course teaches random variables, probability distributions, expectation, e"
+  },
+  "advanced probability and statistics": {
+   "code": "MATH4010",
+   "name": "Advanced Probability and Statistics",
+   "cr": 3.0,
+   "pre": [
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Probability and Statistics This course teaches advanced topics in probability and statisti"
+  },
+  "introduction to engineering and computer science": {
+   "code": "CECS1010",
+   "name": "Introduction to Engineering and Computer Science",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course provides a general introduction to the engineering design process – spann"
+  },
+  "physics i": {
+   "code": "PHYS1010",
+   "name": "Physics I",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I (integration, finding areas and volumes by integration, exponential growth, par"
+  },
+  "physics ii": {
+   "code": "PHYS2020",
+   "name": "Physics II",
+   "cr": 3.0,
+   "pre": [
+    "physics i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Physics I This course covers electrostatics, behavior of matter in electric fields, DC cir"
+  },
+  "biology": {
+   "code": "BIOL1010",
+   "name": "Biology",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None"
+  },
+  "introduction to microeconomics": {
+   "code": "ECON1010",
+   "name": "Introduction to Microeconomics",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers the fundamentals of microeconomics. Topics include consumer theory"
+  },
+  "introduction to psychology": {
+   "code": "PSYC1010",
+   "name": "Introduction to Psychology",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers provides a comprehensive overview of the scientific study of thoug"
+  },
+  "introduction to programming": {
+   "code": "COMP1010",
+   "name": "Introduction to Programming",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers programming and problem-solving using Python. Emphasizes principle"
+  },
+  "object-oriented programming and data structures": {
+   "code": "COMP1020",
+   "name": "Object-oriented Programming and Data Structures",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming This course covers program structure and organization, modular"
+  },
+  "discrete mathematics": {
+   "code": "MATH2020",
+   "name": "Discrete Mathematics",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers notions, techniques and algorithms of discrete mathematics with th"
+  },
+  "computer organization": {
+   "code": "COMP2020",
+   "name": "Computer Organization",
+   "cr": 4.0,
+   "pre": [
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object-oriented Programming & Data Structures This course provides an introduction to comp"
+  },
+  "algorithm design": {
+   "code": "COMP3010",
+   "name": "Algorithm Design",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "discrete math object-oriented programming and data structure",
+   "raw": "Discrete Math, Object-oriented Programming & Data Structures This course covers four major"
+  },
+  "software construction": {
+   "code": "COMP2020",
+   "name": "Software Construction",
+   "cr": 4.0,
+   "pre": [
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object-oriented Programming & Data Structures This course covers the topics of abstract da"
+  },
+  "operating systems": {
+   "code": "COMP2040",
+   "name": "Operating Systems",
+   "cr": 4.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course covers systems programming and introductory operating sy"
+  },
+  "artificial intelligence": {
+   "code": "COMP2050",
+   "name": "Artificial Intelligence",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming; Probability and Statistics This course covers the main areas "
+  },
+  "machine learning": {
+   "code": "COMP3020",
+   "name": "Machine Learning",
+   "cr": 4.0,
+   "pre": [
+    "linear algebra",
+    "probability and statistics",
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra, Probability and Statistics, Object -oriented Programming & Data Structures"
+  },
+  "databases and database systems": {
+   "code": "COMP3030",
+   "name": "Databases and Database Systems",
+   "cr": 3.0,
+   "pre": [
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object-oriented Programming and Data Structures This course gives an introduction to relat"
+  },
+  "computer vision": {
+   "code": "COMP3040",
+   "name": "Computer Vision",
+   "cr": 3.0,
+   "pre": [
+    "machine learning",
+    "linear algebra",
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Linear Algebra, Object-oriented Programming & Data Structures This cours"
+  },
+  "networks": {
+   "code": "COMP3050",
+   "name": "Networks",
+   "cr": 3.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course teaches basic networking with an emphasis on the Interne"
+  },
+  "data visualization": {
+   "code": "COMP4010",
+   "name": "Data Visualization",
+   "cr": 3.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to programming, statistics and probability This course teaches techniques and"
+  },
+  "natural language processing": {
+   "code": "COMP4020",
+   "name": "Natural Language Processing",
+   "cr": 3.0,
+   "pre": [
+    "machine learning",
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Object-oriented Programming & Data Structures This course covers the int"
+  },
+  "cybersecurity": {
+   "code": "COMP4030",
+   "name": "Cybersecurity",
+   "cr": 3.0,
+   "pre": [
+    "object-oriented programming and data structures",
+    "discrete mathematics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object -oriented Programming & Data Structures, Discrete Mathematics This course covers th"
+  },
+  "data mining and big data analytics": {
+   "code": "COMP4040",
+   "name": "Data Mining and Big Data Analytics",
+   "cr": 3.0,
+   "pre": [
+    "linear algebra",
+    "object-oriented programming and data structures",
+    "machine learning"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra, Object -oriented Programming & Data Structures, Machine Learning This cour"
+  },
+  "cryptography": {
+   "code": "COMP4050",
+   "name": "Cryptography",
+   "cr": 3.0,
+   "pre": [
+    "algorithm design"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Algorithm Design This is an introductory course in Cryptography. Topics include one-way fu"
+  },
+  "graduation thesis capstone": {
+   "code": "COMP4890",
+   "name": "Graduation Thesis/Capstone",
+   "cr": 6.0,
+   "pre": [],
+   "st": "review",
+   "note": "practice internship determined by the advisor this capstone ",
+   "raw": "Practice/Internship; Determined by the advisor This Capstone course is developed for stude"
+  }
+ },
+ "AY24-25c5": {
+  "technology ethics": {
+   "code": "TECH1010",
+   "name": "Technology Ethics",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to:"
+  },
+  "computational thinking": {
+   "code": "CECS1031",
+   "name": "Computational Thinking",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Identify and ana"
+  },
+  "academic and professional writing": {
+   "code": "ENGL1030",
+   "name": "Academic and Professional Writing",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this unit, students will be able to: 1. Identify and expla"
+  },
+  "introduction to data literacy": {
+   "code": "CECS1050",
+   "name": "Introduction to Data Literacy",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Read, understand"
+  },
+  "introduction to ai literacy": {
+   "code": "CECS1040",
+   "name": "Introduction to AI Literacy",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Understand basic"
+  },
+  "interpersonal and multimedia communication": {
+   "code": "ENGL1040",
+   "name": "Interpersonal and Multimedia Communication",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Identify and exp"
+  },
+  "introduction to managing skills": {
+   "code": "MANA1011",
+   "name": "Introduction to Managing Skills",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of the course, students will be able to: 1. Apply the SMART t"
+  },
+  "introduction to international relations": {
+   "code": "HASS1100",
+   "name": "Introduction to International Relations",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Know the main ac"
+  },
+  "art appreciation and application": {
+   "code": "ARTS1030",
+   "name": "Art Appreciation and Application",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Demonstrate an u"
+  },
+  "artistic performance and application": {
+   "code": "PERF1010",
+   "name": "Artistic Performance and Application",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A"
+  },
+  "leadership and teambuilding bootcamp": {
+   "code": "LEAD1031",
+   "name": "Leadership and Teambuilding Bootcamp",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course is designed as a required course for freshmen to help the students’ leade"
+  },
+  "cross-cultural navigation": {
+   "code": "HASS1070",
+   "name": "Cross-Cultural Navigation",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course aims to equip students an understanding of one aspect of the so-called “g"
+  },
+  "marxism-leninism philosophy": {
+   "code": "HASS1010",
+   "name": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Philosophy Science and Society is one of four courses in the General Education Progra"
+  },
+  "marxism-leninism political economy": {
+   "code": "HASS1020",
+   "name": "Marxism-Leninism Political Economy (Global Political Economy)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Global Political Economy: Vietnam-Region-The World is one of four courses in the Gene"
+  },
+  "scientific socialism": {
+   "code": "HASS1030",
+   "name": "Scientific Socialism (Politics and Social Change)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Assuming a basic, strong, and even pivotal relationship between society and politics,"
+  },
+  "ho chi minh ideology": {
+   "code": "HASS1041/1042",
+   "name": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Vietnam History and Culture since 1858 is continuation of the first period (from anci"
+  },
+  "history of the communist party": {
+   "code": "HASS1050",
+   "name": "History of the Communist Party (Vietnam: History and Culture I)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None The great American humorist and writer Mark Twain once said, “History doesn’t repeat "
+  },
+  "arts appreciation": {
+   "code": "ARTS1010",
+   "name": "Arts Appreciation",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Art Appreciation is a one -credit elective course that provides a general introductio"
+  },
+  "music appreciation": {
+   "code": "MUSI1010",
+   "name": "Music Appreciation",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course offers students opportunities to learn about how music is created and how"
+  },
+  "introduction to law": {
+   "code": "LAW1010",
+   "name": "Introduction to Law",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course is an introduction to the concept and role of law which considers the nat"
+  },
+  "calculus i": {
+   "code": "MATH1010",
+   "name": "Calculus I",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course teaches techniques of integration, finding areas and volumes by integrati"
+  },
+  "calculus ii": {
+   "code": "MATH1020",
+   "name": "Calculus II",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course gives an introduction to multivariable calculus as well as to ordin"
+  },
+  "probability and statistics": {
+   "code": "MATH2010",
+   "name": "Probability and Statistics",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course teaches random variables, probability distributions, expectation, e"
+  },
+  "advanced probability and statistics": {
+   "code": "MATH4010",
+   "name": "Advanced Probability and Statistics",
+   "cr": 3.0,
+   "pre": [
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Probability and Statistics This course teaches advanced topics in probability and statisti"
+  },
+  "introduction to engineering and computer science": {
+   "code": "CECS1010",
+   "name": "Introduction to Engineering and Computer Science",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course provides a general introduction to the engineering design process – spann"
+  },
+  "physics i": {
+   "code": "PHYS1010",
+   "name": "Physics I",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I (integration, finding areas and volumes by integration, exponential growth, par"
+  },
+  "physics ii": {
+   "code": "PHYS2020",
+   "name": "Physics II",
+   "cr": 3.0,
+   "pre": [
+    "physics i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Physics I This course covers electrostatics, behavior of matter in electric fields, DC cir"
+  },
+  "biology": {
+   "code": "BIOL1010",
+   "name": "Biology",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers current topics in biology including the basics of molecular and ce"
+  },
+  "introduction to microeconomics": {
+   "code": "ECON1010",
+   "name": "Introduction to Microeconomics",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers the fundamentals of microeconomics. Topics include consumer theory"
+  },
+  "introduction to psychology": {
+   "code": "PSYC1010",
+   "name": "Introduction to Psychology",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers provides a comprehensive overview of the scientific study of thoug"
+  },
+  "introduction to programming": {
+   "code": "COMP1010",
+   "name": "Introduction to Programming",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers programming and problem solving using Python. Emphasizes principle"
+  },
+  "object-oriented programming and data structures": {
+   "code": "COMP1020",
+   "name": "Object-oriented Programming and Data Structures",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming This course covers program structure and organization, modular"
+  },
+  "discrete mathematics": {
+   "code": "MATH2020",
+   "name": "Discrete Mathematics",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers notions, techniques and algorithms of discrete mathematics with th"
+  },
+  "computer organization": {
+   "code": "COMP2020",
+   "name": "Computer Organization",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures t",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures This course provides an introd"
+  },
+  "algorithm design": {
+   "code": "COMP3010",
+   "name": "Algorithm Design",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "theory of computation this course covers four major algorith",
+   "raw": "Theory of Computation This course covers four major algorithm design techniques (greedy al"
+  },
+  "software construction": {
+   "code": "COMP2020",
+   "name": "Software Construction",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures t",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures This course covers the topics "
+  },
+  "operating systems": {
+   "code": "COMP2040",
+   "name": "Operating Systems",
+   "cr": 4.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course covers systems programming and introductory operating sy"
+  },
+  "artificial intelligence": {
+   "code": "COMP2050",
+   "name": "Artificial Intelligence",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming; Probability and Statistics This course covers the main areas "
+  },
+  "machine learning": {
+   "code": "COMP3020",
+   "name": "Machine Learning",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "linear algebra probability and statistics object-oriented pr",
+   "raw": "Linear Algebra, Probability and Statistics, Object -oriented Programming, Algorithms and D"
+  },
+  "databases and database systems": {
+   "code": "COMP3030",
+   "name": "Databases and Database Systems",
+   "cr": 4.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures t",
+   "raw": "Object-oriented Programming, Algorithms and Data Structures This course gives an introduct"
+  },
+  "computer vision": {
+   "code": "COMP3040",
+   "name": "Computer Vision",
+   "cr": 3.0,
+   "pre": [
+    "machine learning"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Linear Algebra, Object-oriented Programming, Algorithms and Data Structu"
+  },
+  "networks": {
+   "code": "COMP3050",
+   "name": "Networks",
+   "cr": 3.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course teaches basic networking with an emphasis on the Interne"
+  },
+  "data visualization": {
+   "code": "COMP4010",
+   "name": "Data Visualization",
+   "cr": 3.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics",
+    "data mining and big data analytics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to programming, statistics and probability, data mining and big data analytic"
+  },
+  "natural language processing": {
+   "code": "COMP4020",
+   "name": "Natural Language Processing",
+   "cr": 3.0,
+   "pre": [
+    "machine learning"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Object-oriented Programming, Algorithms and Data Structures This course "
+  },
+  "cybersecurity": {
+   "code": "COMP4030",
+   "name": "Cybersecurity",
+   "cr": 3.0,
+   "pre": [],
+   "st": "review",
+   "note": "object-oriented programming algorithms and data structures d",
+   "raw": "Object -oriented Programming, Algorithms and Data Structures, Discrete Mathematics This co"
+  },
+  "data mining and big data analytics": {
+   "code": "COMP4040",
+   "name": "Data Mining and Big Data Analytics",
+   "cr": 3.0,
+   "pre": [],
+   "st": "review",
+   "note": "linear algebra object-oriented programming algorithms and da",
+   "raw": "Linear Algebra, Object -oriented Programming, Algorithms and Data Structures, Machine Lear"
+  },
+  "cryptography": {
+   "code": "COMP4050",
+   "name": "Cryptography",
+   "cr": 3.0,
+   "pre": [],
+   "st": "review",
+   "note": "theory of computation linear algebra this is an introductory",
+   "raw": "Theory of Computation, Linear algebra This is an introductory course in Cryptography. Topi"
+  },
+  "graduation thesis capstone": {
+   "code": "COMP4890",
+   "name": "Graduation Thesis/Capstone",
+   "cr": 6.0,
+   "pre": [],
+   "st": "review",
+   "note": "practice internship determined by the advisor this capstone ",
+   "raw": "Practice/Internship; Determined by the advisor This Capstone course is developed for stude"
+  }
+ },
+ "24-28": {
+  "technology ethics": {
+   "code": "TECH1010",
+   "name": "Technology Ethics",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to:"
+  },
+  "computational thinking": {
+   "code": "CECS1031",
+   "name": "Computational Thinking",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Identify and ana"
+  },
+  "academic and professional writing": {
+   "code": "ENGL1030",
+   "name": "Academic and Professional Writing",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this unit, students will be able to: 1. Identify and expla"
+  },
+  "introduction to data literacy": {
+   "code": "CECS1050",
+   "name": "Introduction to Data Literacy",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Read, understand"
+  },
+  "introduction to ai literacy": {
+   "code": "CECS1040",
+   "name": "Introduction to AI Literacy",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Understand basic"
+  },
+  "interpersonal and multimedia communication": {
+   "code": "ENGL1040",
+   "name": "Interpersonal and Multimedia Communication",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Identify and exp"
+  },
+  "introduction to managing skills": {
+   "code": "MANA1011",
+   "name": "Introduction to Managing Skills",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of the course, students will be able to: 1. Apply the SMART t"
+  },
+  "introduction to international relations": {
+   "code": "HASS1100",
+   "name": "Introduction to International Relations",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Know the main ac"
+  },
+  "art appreciation and application": {
+   "code": "ARTS1030",
+   "name": "Art Appreciation and Application",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to: 1. Demonstrate an u"
+  },
+  "artistic performance and application": {
+   "code": "PERF1010",
+   "name": "Artistic Performance and Application",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "N/A On successful completion of this course, students will be able to:"
+  },
+  "leadership and teambuilding bootcamp": {
+   "code": "LEAD1031",
+   "name": "Leadership and Teambuilding Bootcamp",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course is designed as a required course for freshmen to help the students’ leade"
+  },
+  "cross-cultural navigation": {
+   "code": "HASS1070",
+   "name": "Cross-Cultural Navigation",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course aims to equip students an understanding of one aspect of the so-called “g"
+  },
+  "marxism-leninism philosophy": {
+   "code": "HASS1010",
+   "name": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Philosophy Science and Society is one of four courses in the General Education Progra"
+  },
+  "marxism-leninism political economy": {
+   "code": "HASS1020",
+   "name": "Marxism-Leninism Political Economy (Global Political Economy)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Global Political Economy: Vietnam-Region-The World is one of four courses in the Gene"
+  },
+  "scientific socialism": {
+   "code": "HASS1030",
+   "name": "Scientific Socialism (Politics and Social Change)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Assuming a basic, strong, and even pivotal relationship between society and politics,"
+  },
+  "ho chi minh ideology": {
+   "code": "HASS1041/42",
+   "name": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None"
+  },
+  "history of the communist party": {
+   "code": "HASS1050",
+   "name": "History of the Communist Party (Vietnam: History and Culture I)",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None The great American humorist and writer Mark Twain once said, “History doesn’t repeat "
+  },
+  "arts appreciation": {
+   "code": "ARTS1010",
+   "name": "Arts Appreciation",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None Art Appreciation is a one -credit elective course that provides a general introductio"
+  },
+  "music appreciation": {
+   "code": "MUSI1010",
+   "name": "Music Appreciation",
+   "cr": 1.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course offers students opportunities to learn about how music is created and how"
+  },
+  "introduction to law": {
+   "code": "LAW1010",
+   "name": "Introduction to Law",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course is an introduction to the concept and role of law which considers the nat"
+  },
+  "calculus i": {
+   "code": "MATH1010",
+   "name": "Calculus I",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course teaches techniques of integration, finding areas and volumes by integrati"
+  },
+  "calculus ii": {
+   "code": "MATH1020",
+   "name": "Calculus II",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course gives an introduction to multivariable calculus as well as to ordin"
+  },
+  "linear algebra": {
+   "code": "MATH2050",
+   "name": "Linear Algebra",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course teaches linear algebra and its applications. Topics include matrices, det"
+  },
+  "probability and statistics": {
+   "code": "MATH2010",
+   "name": "Probability and Statistics",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I This course teaches random variables, probability distributions, expectation, e"
+  },
+  "advanced probability and statistics": {
+   "code": "MATH4010",
+   "name": "Advanced Probability and Statistics",
+   "cr": 3.0,
+   "pre": [
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Probability and Statistics This course teaches advanced topics in probability and statisti"
+  },
+  "introduction to engineering and computer science": {
+   "code": "CECS1010",
+   "name": "Introduction to Engineering and Computer Science",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course provides a general introduction to the engineering design process – spann"
+  },
+  "physics i": {
+   "code": "PHYS1010",
+   "name": "Physics I",
+   "cr": 4.0,
+   "pre": [
+    "calculus i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Calculus I (integration, finding areas and volumes by integration, exponential growth, par"
+  },
+  "physics ii": {
+   "code": "PHYS2020",
+   "name": "Physics II",
+   "cr": 3.0,
+   "pre": [
+    "physics i"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Physics I This course covers electrostatics, behavior of matter in electric fields, DC cir"
+  },
+  "biology": {
+   "code": "BIOL1010",
+   "name": "Biology",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers current topics in biology including the basics of molecular and ce"
+  },
+  "introduction to microeconomics": {
+   "code": "ECON1010",
+   "name": "Introduction to Microeconomics",
+   "cr": 3.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers the fundamentals of microeconomics. Topics include consumer theory"
+  },
+  "introduction to psychology": {
+   "code": "PSYC1010",
+   "name": "Introduction to Psychology",
+   "cr": 2.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers provides a comprehensive overview of the scientific study of thoug"
+  },
+  "introduction to programming": {
+   "code": "COMP1010",
+   "name": "Introduction to Programming",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers programming and problem solving using Python. Emphasizes principle"
+  },
+  "object-oriented programming and data structures": {
+   "code": "COMP1020",
+   "name": "Object-oriented Programming and Data Structures",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming This course covers program structure and organization, modular"
+  },
+  "discrete mathematics": {
+   "code": "MATH2020",
+   "name": "Discrete Mathematics",
+   "cr": 4.0,
+   "pre": [],
+   "st": "none",
+   "note": "",
+   "raw": "None This course covers notions, techniques and algorithms of discrete mathematics with th"
+  },
+  "computer organization": {
+   "code": "COMP2020",
+   "name": "Computer Organization",
+   "cr": 4.0,
+   "pre": [
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object-oriented Programming & Data Structures This course provides an introduction to comp"
+  },
+  "algorithm design": {
+   "code": "COMP3010",
+   "name": "Algorithm Design",
+   "cr": 4.0,
+   "pre": [
+    "object-oriented programming and data structures",
+    "discrete mathematics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object-oriented Programming & Data Structures , Discrete Mathematics This course covers fo"
+  },
+  "software construction": {
+   "code": "COMP2020",
+   "name": "Software Construction",
+   "cr": 4.0,
+   "pre": [
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object-oriented Programming & Data Structures This course covers the topics of abstract da"
+  },
+  "operating systems": {
+   "code": "COMP2040",
+   "name": "Operating Systems",
+   "cr": 4.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course covers systems programming and introductory operating sy"
+  },
+  "artificial intelligence": {
+   "code": "COMP2050",
+   "name": "Artificial Intelligence",
+   "cr": 4.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to Programming; Probability and Statistics This course covers the main areas "
+  },
+  "machine learning": {
+   "code": "COMP3020",
+   "name": "Machine Learning",
+   "cr": 4.0,
+   "pre": [
+    "linear algebra",
+    "probability and statistics",
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra, Probability and Statistics, Object -oriented Programming & Data Structures"
+  },
+  "databases and database systems": {
+   "code": "COMP3030",
+   "name": "Databases and Database Systems",
+   "cr": 4.0,
+   "pre": [
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object-oriented Programming & Data Structures This course gives an introduction to relatio"
+  },
+  "computer vision": {
+   "code": "COMP3040",
+   "name": "Computer Vision",
+   "cr": 3.0,
+   "pre": [
+    "machine learning",
+    "linear algebra",
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Linear Algebra, Object-oriented Programming & Data Structures This cours"
+  },
+  "networks": {
+   "code": "COMP3050",
+   "name": "Networks",
+   "cr": 3.0,
+   "pre": [
+    "computer organization"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Computer Organization This course teaches basic networking with an emphasis on the Interne"
+  },
+  "data visualization": {
+   "code": "COMP4010",
+   "name": "Data Visualization",
+   "cr": 3.0,
+   "pre": [
+    "introduction to programming",
+    "probability and statistics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Introduction to programming, statistics and probability This course teaches techniques and"
+  },
+  "natural language processing": {
+   "code": "COMP4020",
+   "name": "Natural Language Processing",
+   "cr": 3.0,
+   "pre": [
+    "machine learning",
+    "object-oriented programming and data structures"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Machine Learning, Object-oriented Programming & Data Structures This course covers the int"
+  },
+  "cybersecurity": {
+   "code": "COMP4030",
+   "name": "Cybersecurity",
+   "cr": 3.0,
+   "pre": [
+    "object-oriented programming and data structures",
+    "discrete mathematics"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Object -oriented Programming & Data Structures, Discrete Mathematics This course covers th"
+  },
+  "data mining and big data analytics": {
+   "code": "COMP4040",
+   "name": "Data Mining and Big Data Analytics",
+   "cr": 3.0,
+   "pre": [
+    "linear algebra",
+    "object-oriented programming and data structures",
+    "machine learning"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra, Object -oriented Programming & Data Structures, Machine Learning This cour"
+  },
+  "cryptography": {
+   "code": "COMP4050",
+   "name": "Cryptography",
+   "cr": 3.0,
+   "pre": [
+    "linear algebra"
+   ],
+   "st": "ok",
+   "note": "",
+   "raw": "Linear Algebra This is an introductory course in Cryptography. Topics include one -way fun"
+  },
+  "graduation thesis capstone": {
+   "code": "COMP4890",
+   "name": "Graduation Thesis/Capstone",
+   "cr": 6.0,
+   "pre": [],
+   "st": "review",
+   "note": "practice internship determined by the advisor this capstone ",
+   "raw": "Practice/Internship; Determined by the advisor This Capstone course is developed for stude"
+  }
+ }
+}

@@ -1,0 +1,2609 @@
+=== p1 ===
+2 | P a g e  
+ 
+ 
+CURRICULUM FRAMEWORK  
+BACHELOR OF BUSINESS ADMINISTRATION  
+PROGRAM CODE: 7340101 
+Applicable for Cohort 2024-2028 from Academic Year 2025-2026 
+ 
+        (Released along with Decision No. 446/2025/QĐ-VUNI dated August 11th, 2025 by 
+Provost of VinUniversity) 
+ 
+ 
+ 
+This curriculum framework has been reviewed and developed in 
+collaboration by Cornell University   
+
+
+=== p2 ===
+3 | P a g e  
+ 
+Records of change 
+ 
+Version Published 
+date 
+Effective 
+Date 
+Approved by Description 
+of changes 
+1.0 14/9/2024 14/9/2024 Developed by: Curriculum Review Taskforce 
+Reviewed by: CBM Academic Committee, College 
+Dean; VinUni Scientific and Educational 
+Committee 
+Approved by: Provost 
+First release 
+for Cohort 5 
+1.1 11/8/2025 11/8/2025 Developed by: Curriculum Review Taskforce 
+Reviewed by: CBM Academic Committee, College 
+Dean; VinUni Scientific and Educational 
+Committee 
+Approved by: Provost (Decision No. 446/2025/QD-
+VUNI dated August 11th 2025). 
+Updating 
+cross-listing 
+/ pre-
+requisite 
+courses 
+  
+
+=== p3 ===
+4 | P a g e  
+Table of Contents 
+1 PROGRAM OVERVIEW ....................................................................................................................................................... 5 
+1.1 Program Description ......................................................................................................................................................... 5 
+1.2 Program Mission ................................................................................................................................................................. 5 
+1.3 Program Learning Goals and Program Learning Objectives ................................................................................ 5 
+2 CURRICULUM STRUCTURE .............................................................................................................................................. 7 
+2.1 Curriculum Composition .................................................................................................................................................. 7 
+2.2 Courses and Credit Distribution by Courses ............................................................................................................. 8 
+2.3 Cross-listing Courses....................................................................................................................................................... 13 
+2.4 Curriculum Planner ........................................................................................................................................................ 14 
+2.5. Course Descriptions ........................................................................................................................................................ 20 
+2.5.1 VINCORE Courses ............................................................................................................................................................. 20 
+2.5.2 BBA Core Courses ............................................................................................................................................................ 27 
+2.5.3 Finance Concentration Courses .................................................................................................................................. 30 
+2.5.4 Marketing Concentration Courses ............................................................................................................................. 31 
+2.5.5 Entrepreneurship Concentration Courses .............................................................................................................. 33 
+2.5.6 Business Analytics Concentration Courses ............................................................................................................. 35 
+2.5.7 Operations, Logistics, and Supply Management Concentration Courses ..................................................... 36 
+2.5.8 Hospitality Leadership ................................................................................................................................................... 37 
+2.5.9 Electives .............................................................................................................................................................................. 38 
+3 APPENDICES....................................................................................................................................................................... 39 
+Appendix 1: MAPPING OF VINUNI GENERIC GRADUATE ATTRIBUTES AND LEARNING GOALS .......................... 40 
+Appendix 2: RUBRICS FOR EACH LEARNING GOALS ........................................................................................................... 35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p4 ===
+5 | P a g e  
+1 PROGRAM OVERVIEW 
+1.1 Program Description 
+ 
+Name of the degree Bachelor of Business Administration 
+Name of the program Bachelor of Business Administration 
+Program Code 7340101 
+Vietnam Qualifications Framework Level 6 
+Length of Program 4 years 
+Mode of Delivery Full-time 
+Language of Delivery English 
+Total credits 120 credits (without Minor) 
+Home College College of Business and Management 
+ 
+1.2 Program Mission 
+The overall aim is to provide students with the best education – the right knowledge, skills, expertise, 
+and experiences so that upon graduation they can attain meaningful careers with accelerated 
+advancement opportunities. 
+The mission of the BBA Program is to provide undergraduate students with a well -rounded quality 
+English-based business education to become competent business professionals, leaders and 
+entrepreneurs with integrity who are critical thinkers and aspire to mo ve Vietnam to a respectable 
+position in the world. 
+1.3 Program Learning Goals and Program Learning Objectives 
+ 
+Program Learning Goal 1 (PLG1): Graduates will have an understanding of ethical action, 
+integrity, responsibility and the obligations of being entrepreneurially minded business 
+professionals. 
+Program Learning Objectives (PLO)/Traits 
+PLO 1.1: Have an awareness of ethical principles and practices of entrepreneurially minded 
+business professionals 
+PLO 1.2: Identify issues of integrity and appropriate courses of action in a business setting 
+PLO 1.3: Have an understanding of the role and responsibilities of being an entrepreneurially- 
+minded business professional 
+Program Learning Goal 2 (PLG2): Graduates will have independence of mind in decision 
+making and opinion forming, working either individually or within a team. 
+Program Learning Objectives (PLO)/Traits 
+PLO 2.1: Have an understanding of the importance of individual opinion for a business 
+professional 
+PLO 2.2: Be capable of leading and participating in teams to achieve tangible outcomes 
+PLO 2.3: Demonstrate effective interpersonal communication skills 
+Program Learning Goal 3 (PLG3): Graduates will have a knowledge of the broad business 
+environment and specific business specialties and an applied understanding of their 
+integration in business generally. 
+Program Learning Objectives (PLO)/Traits 
+PLO 3.1: Exhibit a detailed understanding of core business knowledge 
+PLO 3.2: Exhibit a detailed understanding of business-specialty knowledge 
+PLO 3.3: Be capable of modeling the soft skills required in business 
+
+=== p5 ===
+6 | P a g e  
+ 
+Program Learning Goal 4 (PLG4): Graduates will be capable of identifying, analyzing 
+and evaluating business data from diverse sources in decision making. 
+Program Learning Objectives (PLO)/Traits 
+PLO 4.1: Be capable of applying evidence-based reasoning 
+PLO 4.2: Apply interdisciplinary knowledge appropriately in a business context 
+PLO 4.3: Have an understanding of the roles of fact, supposition and assumption in the 
+decision-making process 
+Program Learning Goal 5 (PLG5): Graduates will have an understanding of the role of 
+Vietnamese history and culture in the evolution of the Vietnamese business 
+environment. 
+Program Learning Objectives (PLO)/Traits 
+PLO 5.1: Have a broad understanding of the structure of the Vietnamese business environment 
+PLO 5.2: Have an awareness of how Vietnamese history and culture impact upon the 
+Vietnamese business environment 
+PLO 5.3: Exhibit an understanding of the relationship between Vietnamese political structures 
+and the structure and operation of Vietnamese businesses 
+Program Learning Goal 6 (PLG6): Graduates will have a broad understanding of the 
+Vietnamese economy its relativity to all economies in the Asia Pacific Economic 
+Cooperation (APEC) region including the US, China, Japan and ASEAN. 
+Program Learning Objectives (PLO)/Traits 
+PLO 6.1: Demonstrate an awareness of the key characteristics of APEC economies 
+PLO 6.2: Have an understanding of the interaction of the Vietnamese economy and all APEC 
+economies. 
+PLO 6.3: Exhibit an awareness of the differences between the structure of the Vietnamese 
+economy and the structures of APEC economies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p6 ===
+  
+2 CURRICULUM STRUCTURE 
+2.1 Curriculum Composition 
+ 
+No. Curriculum Components Number 
+of 
+Credits 
+Credit Distribution 
+(%/Total Credits) 
+I VINCORE 35 29.1% 
+I.1 Character 10 8.3% 
+I.2 Career 10 8.3% 
+I.3 Connections 15 12.5% 
+II PROFESSIONAL EDUCATION 63 52.5% 
+II.1 BBA Core Requirement 42 35.0% 
+II.2 Concentration Requirement 21 17.5% 
+III ELECTIVES – PRACTICE – GRADUATION 
+PROJECT 22 18.3% 
+ Students may choose different paths based on their interest and professional 
+development plan. 
+Pathway A: For students who take Business Internship Path, they will take at least 13 
+credits of electives, 03 credits of Practice/Internship, and a graduation thesis/Capstone 
+project (06 credits) 
+Pathway B: For students who take Industrial Placement Path, they will take at least 10 
+credits of electives, and 06 credits of Industrial Placement and 06 credits of graduation 
+thesis/Capstone project 
+III.1a PATHWAY A 16 13.3% 
+ Electives 13 10.8% 
+ Practice/Internship 3 2.5% 
+III.1b PATHWAY B 16 13.3% 
+ Electives 10 8.3% 
+ Industrial Placement 6 5.0% 
+III.2 Graduation Dissertation/Capstone Project 6 5.0% 
+ 
+TOTAL (minimum)* 120 100% 
+ 
+Important Note: 
+- The Vincore Program has been issued along with the Decision No. 475/2024/QĐ-VUNI dated 
+September 4th, 2024. 
+- Students have the option to obtain a minor in a different area of study. A minor needs to have at 
+least 15 credits on top of credits counted towards the concentration program. Information 
+about the available minors is provided here: LINK. 
+- International students are exempted from National Defense Education. However, they are still 
+required to take ideology courses, including: History of the Communist Party, Ho Chi Minh Ideology, 
+Scientific Socialism, Marxism -Leninism Political Economy, Marxi sm-Leninism Philosophy (In line 
+with Decision No. 494/QĐ-TTg, issued on June 24, 2002, by the Prime Minister). 
+ 
+
+=== p7 ===
+  
+2.2 Courses and Credit Distribution by Courses 
+ 
+No. Name of 
+Courses 
+Total 
+credits 
+I VINCORE 35 
+I.1 CHARACTER 10 
+I.1.1 Enterprise and Innovation 4 
+ENTR1022 Agile Innovation and Entrepreneurship 2 
+IDEA1010/11/12/X Big Ideas: X 
+(The IDEA1010/11/12 series, titled 'Big Ideas (X)' will have its 
+course code and title defined each semester, allowing the course 
+content to align with the key themes and innovative design 
+concepts) 
+2 
+I.1.2 Leadership Mindset 2 
+LEAD1031 Leadership and Teambuilding Boot Camp 2 
+I.1.3 Civic Responsibility 2 
+VCOR1030 National Defense Education 165 hours 
+LAW1010 Introduction to Law 2 
+I.1.4 Ethics 2 
+ Choose one out of the following courses  
+CAS2010 Applied Ethics 2 
+MANA3021 Business Ethics (Recommended for CBM students) 2 
+NURS3240 Medical Ethics 2 
+TECH1010 Technology Ethics 2 
+I.1.5 Community Service Learning  
+COSL1010 Community Service Learning 45 hours 
+I.2 CAREER 10 
+I.2.1 Working with the Brain 2 
+THINK1010 Critical and Creative Thinking 2 
+I.2.2 Working with Technology 4 
+CECS1031 Computational Thinking 2 
+ Choose one out of the following courses  
+CECS1050 Introduction to Data Literacy 2 
+CECS1040 Introduction to AI Literacy 2 
+I.2.3 Working with Others 4 
+ENGL1030 Academic and Professional Writing 2 
+ Choose one out of the following courses  
+ENGL1040 Interpersonal and Multimedia Communication 2 
+MANA1011 Introduction to Managing Skills 
+(Recommended for CBM students) 
+2 
+I.2.4 Working with the Self  
+VCOR1012A/B OASIS (Orientation, Advising, Skills, Identity & Diversity 
+and Spirit of Pay-it-Forward) 
+45 hours 
+VCOR1021 Healthy Lifestyle 1 Non-credit 
+required (45 
+hours) 
+VCOR1022 Healthy Lifestyle 2 
+I.2.5 Internship  
+ Internship 
+Refer to section III.2a and III.2b for more details 
+ 
+I.3 CONNECTIONS 15 
+I.3.1 Integrated Vietnam Studies 11 
+
+=== p8 ===
+  
+ 
+HASS1010 
+Marxism-Leninism Philosophy (Philosophy, Science and 
+Society) 
+3 
+ 
+HASS1020 
+Marxism-Leninism Political Economy (Global Political 
+Economy) 
+2 
+HASS1030 Scientific Socialism (Politics and Social Change) 2 
+HASS1041/42 Ho Chi Minh Ideology (Vietnam: History and Cultures II) 2 
+ 
+HASS1050 
+History of the Communist Party (Vietnam: History and 
+Cultures I) 
+2 
+I.3.2 Sustainability and Global Citizenship 2 
+ Choose one out of the following courses  
+HASS1070 Cross-Cultural Navigation 2 
+HASS1100 Introduction to International Relations 2 
+SUST1010 Humans and Environmental Intelligence 2 
+SUST1020 Social Science and Sustainability 2 
+UROP (Undergraduate Research Opportunity Program)/ 
+Independent Student Project 
+(*)The UROP course code will be assigned based on the respective 
+College, allowing for discipline-specific research experiences that 
+align with the academic and research priorities of each College  
+2 
+I.3.3 Creative Arts 2 
+ Choose one out of the following courses  
+ARTS1030 Arts Appreciation and Application 2 
+PERF1010 Artistic Performance and Application 2 
+I.3.4 Global Experience  
+ Students are encouraged to explore short-term study 
+abroad exchange opportunities, facilitated by the Global 
+Exchange Office, to broaden their global understanding 
+and academic experience through partnerships with 
+international institutions 
+Optional & 
+Non-credit 
+II PROFESSIONAL EDUCATION 63 
+II.1 BBA Core Requirement 42 
+ACCT2010 Introduction to Financial Accounting 3 
+STAT2020 Business Statistics 3 
+ACCT2020 Introduction to Managerial Accounting 3 
+ECON1015 Managerial Economics 3 
+MARK1010 Marketing 3 
+LAW2010 Business Law 
+Pre-requisite: LAW1010 
+3 
+BANA3050 Management Information System 
+Pre-requisite: STAT2020 
+3 
+FINA2010 Financial Management 
+Pre-requisite: ACCT2010 
+3 
+MANA3030 Organizational Behavior 
+Pre-requisite: MANA1011 
+3 
+MANA3040 Human Resource Management 
+Pre-requisite: MANA3030 
+3 
+MANA4010 Strategic Management 
+Pre-requisite: MANA1011  
+3 
+OLSM3010 Supply and Operations Management 
+Pre-requisite: STAT2020 
+3 
+OLSM4300 Project Management 
+Pre-requisite: MANA1011  
+3 
+
+=== p9 ===
+  
+MATH1040 Business Mathematics 
+Pre-requisite: ACCT2010 
+3 
+ 
+No. Name of Courses Total 
+credits 
+II.2 Concentration Requirement 21 
+ One Concentration is required. Students can choose any 
+one among all concentrations offered to BBA. Following 
+is the list of concentrations offered by BBA: 
+ 
+ 1) Business Analytics  
+ 2) Entrepreneurship  
+ 3) Finance  
+ 4) Marketing  
+ 5) Operations and Supply Chain Management  
+ 6) Hospitality Leadership  
+III ELECTIVES – PRACTICE – GRADUATION PROJECT 22 
+III.1 Electives 10-13 
+ Students are required to take a minimum of 13 credits of 
+electives if they choose the Internship Pathway, or 10 
+credits if they choose the Industrial Placement Pathway 
+(MANA4150 - Business Research Methods - is required to 
+fulfill the prerequisites for Capstone Project and 
+Dissertation). 
+ 
+III.2a Practice (Internship) 3 
+GENB0870 Internship Orientation Non-credit 
+(10 hours) 
+GENB1870 Business Summer Internship 
+Prerequisite: GENB0870  
+3 
+III.2b Practice (Industrial Placement) 6 
+GENB0870 Internship Orientation Non-credit 
+(10 hours) 
+GENB4871 Industrial Placement 
+Prerequisite: GENB0870 
+6 
+III.3 Graduation Dissertation/Capstone 6 
+GENB4900 Dissertation 
+Prerequisite: MANA4150, GENB4871 or MANA4150, GENB1870 
+6 
+GENB4970 Capstone Project  
+Prerequisite: MANA4150, GENB4871 or MANA4150, GENB1870 
+6 
+ TOTAL 
+Accumulate at least 120 
+*X: course code will be provided later 
+ 
+BBA concentrations and their required courses 
+ 
+(1) Finance Total Note 
+No Course Code Course Name 21  
+1 FINA3010 Corporate Finance 3  Pre-requisite: FINA2010 
+2 FINA3030 Behavioral Finance 3  
+3 FINA3050 Applied Econometrics 3  Pre-requisite: STAT2020 
+4 FINA4010 Futures, Options, and Financial 
+Derivatives 3  Pre-requisite: FINA2010 
+5 FINA4040 Portfolio Management 3  Pre-requisite: FINA4010 
+
+=== p10 ===
+  
+6 FINA3100 FinTech: Shaping the Financial World 3  
+7 FINA4100 Fixed Income Securities and Interest 
+Rate Options 3  
+ 
+ 
+(2) Marketing Total Note 
+No Course Code Course Name 21  
+1 MARK3010 Consumer Behavior 3  Pre-requisite: MARK1010 
+2 MARK3020 Digital Marketing 3  Pre-requisite: MARK1010 
+3 MARK4040 Marketing Research 3  Pre-requisite: MARK1010 
+4 MARK4010 Brand Management 3  Pre-requisite: MARK1010 
+5 BANA4010 Data Communication & Visualization 3  Pre-requisite: STAT2020 
+6 MARK4100 Marketing Strategy 3 
+ Pre-requisite: MARK1010 
+7 CISM2020 Big Data Management for Revenue 
+Enhancement 3  
+ 
+ 
+(3) Entrepreneurship Total Note 
+No Course 
+Code Course Name 15  
+1 ENTR3010 Entrepreneurship Perspectives 3  
+2 MANA3110 Corporate Entrepreneurship 3  
+3 MANA3130 Entrepreneurial Finance 3  Pre-requisite: FINA2010 
+4 MANA3150 Designing New Ventures 3  
+5 MANA4100 Entrepreneurial Marketing and 
+Strategy 3  
+6 MANA4000 Business Model Innovation and 
+Design 3  
+7 CISM2020 Big Data Management for 
+Revenue Enhancement 3  
+(4) Business Analytics Total Note 
+No Course 
+Code Course Name 21  
+1 BANA3010 Data Driven Analytics 3  Pre-requisite: STAT2020 & 
+MATH1040 
+ 
+2 BANA3020 Introduction to Programming and 
+Python 3 
+Pre-requisite: STAT2020 & 
+MATH1040 
+3 BANA4020 Computational Machine Learning for 
+Business Analytics 3  Pre-requisite: BANA3020 
+4 BANA4040 Predictive Analytics 3  Pre-requisite: BANA3010 
+or BANA3020 
+5 BANA4010 Data Communication & Visualization 3  Pre-requisite: STAT2020 
+6 CISM2020 Big Data Management for Revenue 
+Enhancement 3  
+7 BANA4030 Advanced Machine Learning for 
+Business Analysts 3  
+ 
+ 
+(5) Operations and Supply Management Total Note 
+
+=== p11 ===
+  
+No Course 
+Code Course Name 21  
+1 MANA3200 Managing For Service Excellence 3  Pre-requisite: OLSM3010 
+2 OLSM3110 Total Quality Management 3  
+3 OLSM3500 Operations Planning and Control 3  Pre-requisite: OLSM3010 
+4 BANA3010 Data Driven Analytics 3  Pre-requisite: STAT2020 & 
+MATH1040 
+5 OLSM3510 Sourcing and Distribution Planning 3  Pre-requisite: OLSM3010 
+6 OLSM4250 Global Supply Chain Management and 
+Strategy 3  Pre-requisite: OLSM3010 
+7 OLSM4210 Technology and Product Innovation 
+Management 3  
+ 
+ 
+(6) Hospitality Leadership (2023) Total Note 
+No Course 
+Code Course Name 21  
+1 HADM1000 Introduction to Hospitality & Tourism 
+Management 3  
+2 HADM1010 Fundamentals of Foodservice 
+Management 3  
+3 HADM2010 Revenue Management Principles and 
+Practices 3  
+4 HADM1020 Fundamentals in Hotel Operations 3  
+5 MARK3020 Digital Marketing 3  Pre-requisite: MARK1010 
+6 MANA3200 Managing for Service Excellence 3  Pre-requisite: OLSM3010 
+7 HADM3030 Hospitality Planning and Development 3  
+* These courses are subject to vary following the Industrial and Academic Chairs annual reviews. 
+
+=== p12 ===
+ 
+2.3 Cross-listing Courses 
+ 
+Courses from AY22-23, 23-24, 24-25 Curriculum Framework 
+ 
+ 
+ 
+Cross-Listing/ Equivalent Courses from AY25-26 Curriculum Framework 
+ 
+ 
+ Course Code Course Title Total Credit Grading 
+System Course Code Course Title Total Credit Grading 
+System1 
+ENGL1011 Fundamentals of Academic Writing 3 L ENGL1030 Academic and Professional Writing 2 L 
+ARTS1010/
+MUSI1010 Art Courses  1 L ARTS1030 Arts Appreciation and Application 2 L 
+COSL1010 Community Service Learning 3 P/F COSL1010 Community Service Learning Non-credit P/F 
+MANA3010 Organizational Behavior and Human 
+Resource Management 3 L MANA3030 Organizational Behavior 3 L 
+HADM2040 Service Operations Management 3 L OLSM3010 Supply and Operations Management 3 L 
+MANA4020 Strategic Experience Management 3 L MANA4010 Strategic Management 3 L 
+COMP1010 Introduction to Programming and 
+Python (by CECS) 3 L BANA3020 Introduction to Programming and 
+Python 3 L 
+FINA3050 Applied Econometrics 3 L FINA3051 Quantitative Analysis for Finance 3 L 
+HADM1010 Fundamentals of Foodservice 
+Management 3 L HADM1011 Luxury Foods and Beverage 
+Management 3 L 
+HADM2010 Revenue Management Principles and 
+Practices 3 L HADM2011 Revenue Management for Luxury 
+Services 3 L 
+HADM1020 Fundamentals in Hotel Operations 3 L HADM1021 Luxury Hospitality Analytics and 
+Operations 3 L 
+MANA3200 Managing for Service Excellence 3 L MANA3201 Leading Service Excellence and 
+Innovations 3 L 
+MANA4100 Entrepreneurial Marketing and 
+Strategy 3 L MARK4100 Marketing Strategy 3 L 
+MANA3110 Corporate Entrepreneurship 3 L ENTR3030 Strategic Innovation & Technology 3 L 
+OLSM3510 Sourcing and Distribution Planning 3 L OLSM3270 Strategic Sourcing and Procurement 3 L 
+CISM2010 Database Concepts and Skills for Big 
+Data 3 L CISM2020 Big Data Management for  Revenue 
+Enhancement 3 L 
+HADM3030 Business Planning and Development 
+in Tourism and Hospitality 3 L HADM3030 Hospitality Planning and 
+Development 3 L 
+  
+ 
+1 L = Letter Grade or P/F = Pass-Fail 
+
+=== p13 ===
+ 
+2.4 Curriculum Planner 
+2.4.1 For students who take Business Internship Path (Students can register for electives starting from the first year if they are eligible for 
+the course). A sample planner as below: 
+ 
+ CODE Sem 1 Credits Note  CODE Sem 2 Credits Note 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year 1 
+ Sustainability and Global Citizenship 
+(Selective) 
+2 VinCore  
+HASS1010 
+Marxism-Leninism Philosophy 
+(Philosophy, Science and Society) 
+3 VinCore 
+ 
+ENTR1021 
+Agile Innovation and 
+Entrepreneurship 
+2 VinCore  
+   ENGL1031 
+ 
+Academic and Professional Writing 
+2 VinCore 
+VCOR1021 Healthy Lifestyle 1 0 VinCore VCOR1022 Healthy Lifestyle 2 0 VinCore 
+MANA3021 Business Ethics 2 VinCore COSL1010 Community Service Learning 0 VinCore 
+VCOR1011 OASIS 0 VinCore BANA3050 Management Information System 3 BBA Core 
+MANA3030 Organizational Behavior 3 BBA Core STAT2020 Business Statistics 3 BBA Core 
+MARK1010 Marketing 3 BBA Core ACCT2010 Introduction to Financial Accounting 3 BBA Core 
+    VCOR1030 National Defense Education 
+(During summer semester - tentatively) 
+0 VinCore 
+ Total Credit 12   Total Credit 14  
+ CODE Sem 1 Credits Note CODE Sem 2 Credits Note 
+ 
+ 
+ 
+ 
+ 
+ 
+Year 2 
+ 
+HASS1041 
+Ho Chi Minh Ideology (Vietnam: 
+History and Cultures II) 
+2 VinCore  
+HASS1030 
+Scientific Socialism (Politics and Social 
+Change) 
+2 VinCore 
+MANA1011 Introduction to Managing Skills 2 VinCore  
+HASS1020 
+Marxism-Leninism Political Economy 
+(Global Political Economy) 
+2 VinCore 
+LAW1010 Introduction to Law 2 VinCore MATH1040 Business Mathematics 3 BBA Core 
+IDEA1010/ 
+11/12 
+Big Ideas 2 VinCore ACCT2020 Introduction to Managerial Accounting 3 BBA Core 
+OLSM3010 Supply and Operation management 3 BBA Core LAW2010 Business Law 3 BBA Core 
+FINA2010 Financial Management 3 BBA Core  Concentration 1 3 MAJ 
+ECON1015 Managerial Economics 3 BBA Core     
+ Total Credit 17   Total Credit 16  
+ 
+
+=== p14 ===
+ 
+ CODE Sem 1 Credits Note  CODE Sem Credits Note 
+     2   
+  
+HASS1050 
+History of the Communist Party 
+(Vietnam: History and Cultures I) 2 VinCore 
+ Working with Technology (Selective) 2 VinCore 
+Year 3 
+(Offer all 
+THINK1010 Critical and Creative Thinking 2 VinCore LEAD1030 Leadership and Teambuilding Boot 
+Camp 2 
+VinCore 
+3rd year CECS1031 Computational Thinking 2 VinCore MANA4010 Strategic Management 3 BBA Core 
+courses in  Creative Arts (Selective) 2 VinCore  Concentration 3 3 MAJ 
+both OLSM4300 Project Management 3 BBA Core  Concentration 4 3 MAJ 
+semesters) 
+MANA3040 Human Resource Management 3 BBA Core  Elective 1 3 ELT 
+  Concentration 2 3 MAJ GENB0870 Internship Orientation 0 INT 
+     GENB1870 Business Internship 3 INT 
+  (During summer semester)   
+  Total Credit 17   Total Credit 19  
+ CODE Sem 1 Credits Note CODE Sem Credits Note 
+     2   
+  Concentration 5 3 MAJ  Concentration 7 3 MAJ 
+Year 4 
+ Concentration 6 3 MAJ  Elective 5 3 ELT 
+ Elective 2 3 ELT GEN4900/GEN497 
+0 
+Graduation Dissertation/Capstone 6 GRA 
+  Elective 3 3 ELT     
+  Elective 4 3 ELT     
+  Total Credit 15   Total Credit 12  
+
+=== p15 ===
+ 
+ 
+2.4.2 For students who take Industrial Placement Path (Students can register for electives starting from the first year if they are eligible 
+for the course). A sample planner as below: 
+ 
+ CODE Sem 1 Credits Note  CODE Sem 2 Credits Note 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year 1 
+ Sustainability and Global Citizenship 
+(Selective) 
+2 VinCore  
+HASS1010 
+Marxism-Leninism Philosophy 
+(Philosophy, Science and Society) 
+3 VinCore 
+ 
+ENTR1021 
+Agile Innovation and 
+Entrepreneurship 
+2 VinCore  
+   ENGL1031 
+ 
+Academic and Professional Writing 
+2 VinCore 
+VCOR1021 Healthy Lifestyle 1 0 VinCore VCOR1022 Healthy Lifestyle 2 0 VinCore 
+MANA3021 Business Ethics 2 VinCore COSL1010 Community Service Learning 0 VinCore 
+VCOR1011 OASIS 0 VinCore BANA3050 Management Information System 3 BBA Core 
+MANA3030 Organizational Behavior 3 BBA Core STAT2020 Business Statistics 3 BBA Core 
+MARK1010 Marketing 3 BBA Core ACCT2010 Introduction to Financial Accounting 3 BBA Core 
+    NDE1010 National Defense Education 
+(During summer semester) 
+0 VinCore 
+ Total Credit 12   Total Credit 14  
+ CODE Sem 1 Credits Note CODE Sem 2 Credits Note 
+ 
+ 
+ 
+ 
+ 
+ 
+Year 2 
+ 
+HASS1041 
+Ho Chi Minh Ideology (Vietnam: 
+History and Cultures II) 
+2 VinCore  
+HASS1030 
+Scientific Socialism (Politics and Social 
+Change) 
+2 VinCore 
+MANA1011 Introduction to Managing Skills 2 VinCore  
+HASS1020 
+Marxism-Leninism Political Economy 
+(Global Political Economy) 
+2 VinCore 
+LAW1010 Introduction to Law 2 VinCore MATH1040 Business Mathematics 3 BBA Core 
+IDEA1010/ 
+11/12 
+Big Ideas 2 VinCore ACCT2020 Introduction to Managerial Accounting 3 BBA Core 
+OLSM3010 Supply and Operation management 3 BBA Core LAW2010 Business Law 3 BBA Core 
+FINA2010 Financial Management 3 BBA Core  Concentration 1 3 MAJ 
+ECON1015 Managerial Economics 3 BBA Core     
+ Total Credit 17   Total Credit 16  
+
+=== p16 ===
+ 
+ 
+ 
+ 
+ CODE Sem 1 Credits Note  CODE Sem 2 Credits Note 
+ 
+ 
+ 
+Year 3 
+(Offer all 
+3rd year 
+courses in 
+both 
+semesters) 
+HASS1050 History of the Communist Party 
+(Vietnam: History and Cultures I) 2 VinCore 
+ Working with Technology (Selective) 2 VinCore 
+THINK1010 Critical and Creative Thinking 2 VinCore LEAD1030 Leadership and Teambuilding Boot 
+Camp 2 
+VinCore 
+CECS1031 Computational Thinking 2 VinCore MANA4010 Strategic Management 3 BBA Core 
+ Creative Arts (Selective) 2 VinCore  Concentration 3 3 MAJ 
+OLSM4300 Project Management 3 BBA Core  Concentration 4 3 MAJ 
+MANA3040 Human Resource Management 3 BBA Core  Elective 1 3 ELT 
+ Concentration 2 3 MAJ     
+        
+ Total Credit 17   Total Credit 16  
+ CODE Sem 1 Credits Note CODE Sem 2 Credits Note 
+ 
+ 
+Year 4 
+ Concentration 5 3 MAJ GENB0870 Internship Orientation 0 INT 
+ Concentration 6 3 MAJ GENB4870 Industrial Placement 6 INT 
+ Concentration 7 3 MAJ GEN4970 Graduation Capstone 6 GRA 
+ Elective 2 3 ELT     
+ Elective 3 3 ELT     
+ Elective 4 3 ELT     
+ Total Credit 18   Total Credit 12  
+
+=== p17 ===
+20 | P a g e  
+2.5. Course Descriptions 
+2.5.1 VINCORE Courses 
+ENTR1022 Agile Innovation and Entrepreneurship 2 credits 
+On successful completion of this course, students will be able to: 
+1. Explain how an entrepreneurial mindset supports and accelerates innovation and growth in the 
+contexts of businesses, industries, and countries. 
+2. Evaluate the multifaceted nature of entrepreneurship in Vietnam and internationally, and how 
+it impacts the economy, society, and environment. Have access to insights on VinGroup's 
+governance principles (the 6 Hóa). 
+3. Recommend strategies to evaluate the entrepreneurial mindset, values, and behaviors, and to 
+further develop the entrepreneurial mindset, both individually and organizationally. 
+4. Grow your own entrepreneurial mindset and innovation-related skills, including identifying and 
+evaluating opportunities, taking calculated risks, solving problems creatively, communicating 
+effectively, and influencing stakeholder groups. 
+5. Demonstrate the ability to work productively in teams to collaboratively explore opportunities, 
+generate ideas, and find and communicate solutions to a predefined challenge during the course 
+hackathon. 
+ 
+IDEA1012 Big Ideas         2 credits 
+On successful completion of this course, students will be able to: 
+1. Describe and explain a “big idea”, which may be a new solution to a problem, a disrupting 
+technology, or an innovative method or way of doings things 
+2. Identify the implications of a big idea for everyday life or a professional setting 
+3. Develop a strategy for using a big idea to improve an existing approach or create a new 
+application 
+4. Evaluate the application of a big idea, including an assessment of its positive impacts, negative 
+impacts, and mitigating strategies for the theme of the year 
+ 
+LEAD1031 Leadership and Teambuilding Bootcamp     2 credits 
+On successful completion of this course, students will be able to: 
+1. Define foundational concepts of leadership traits, leadership styles, values, and trends, and their 
+applications to real-life situations, especially in a turbulent world. 
+2. Describe and evaluate the differences and similarities between management and leadership, 
+and their application in an organizational setting. 
+3. Evaluate the multifaceted nature of leadership in Vietnam and internationally, and their impact 
+on work environments, particularly in a VUCA context. Have access to insights on Vingroup's 
+mission, vision, and core values. 
+4. Develop your own leadership mindset by setting a vision, developing self-awareness, 
+understanding others' perspectives, understanding situational contexts, communicating 
+effectively, and making informed decisions. setting a vision, accepting accountability, 
+understanding self and others' limits, inspiring and motivating others, and creating the 
+collaborative conditions for success 
+5. Apply basic leadership values and skills through action-based learning, self-building, 
+interpersonal, and team leadership during the leadership bootcamp. 
+ 
+VCOR1030 National Defense Education      Hours: 165 
+On successful completion of this course, students will be able to: 
+1. Understand and articulate knowledge of the National Defense and Security policies of the 
+Communist Party of Vietnam. 
+
+=== p18 ===
+21 | P a g e  
+2. Understand basic concepts of national defense and security work. 
+3. Understand and practice the fundamental rules and disciplinary regulations in military 
+organization. 
+4. Practice the fundamental techniques and tactics of infantry combat 
+ 
+LAW1010 Introduction to Law        2 credits 
+On successful completion of this course, students will be able to: 
+1. Explain the history, contemporary nature, and purpose of the Vietnamese legal system, 
+including its key institutions, doctrines, and principles. 
+2. Describe and evaluate key differences and similarities between legal system management in 
+Vietnam and internationally. 
+3. Understand the mechanisms of legal duty, justification of punishment, and the roles of courts 
+and juries. 
+4. Apply fundamental legal rules and principles in a wide range of selected areas of the law, 
+demonstrating critical thinking and ethical considerations. 
+5. Develop a mindset of compliance and appreciate the importance of adhering to legal standards 
+in professional and personal context 
+ 
+CAS2010 Applied Ethics         2 credits 
+On successful completion of this course, students will be able to: 
+1. Identify and explain a range of ethical concerns across different professional and real-world 
+domains of human interaction. 
+2. Apply ethical theories and offer rational justification to moral dilemmas. 
+3. Understand the moral stakeholders involved and the ethical obligations required for certain 
+professional standards/codes, as well as the rationale behind them. 
+4. Apply ethical theories and offer rational justification to moral dilemmas where no professional 
+standards/codes are established 
+ 
+MANA3021 Business Ethics        2 credits 
+On successful completion of this course, students will be able to: 
+1. Understand and explain the relevance of values applied to business, such as integrity, 
+accountability, transparency, respect for stakeholders, corporate social responsibility (CSR), 
+fairness, and compliance) 
+2. Identify business practices that produce unethical behavior or harm to the individual, society, or 
+environment 
+3. Apply relevant ethical theories to moral dilemmas in the context of business 
+4. Evaluate different responses to ethical practice in business and justify an opinion based on 
+ethical theory 
+ 
+NURS3240 Medical Ethics         2 credits 
+On successful completion of this course, students will be able to: 
+1. Understand and explain the relevance of principles and values applied to healthcare, medical 
+research, and health policy, covering topics such as respect for patients, beneficence and non- 
+maleficence, justice, and honesty and transparency) 
+2. Identify medical practices that produce unethical behavior or harm to patients, the profession, 
+society, or the environment 
+3. Apply relevant ethical theories to moral dilemmas in the context of medical treatment 
+
+=== p19 ===
+22 | P a g e  
+4. Evaluate different responses to ethical practice in medicine and justify an opinion based on 
+ethical theory 
+5. Understand the influence of religious ethics in patient treatment and decision-making 
+ 
+TECH101 Technology Ethics        2 credits 
+On successful completion of this course, students will be able to: 
+1. Understand and explain the principles and values applied to technology, including privacy and 
+data protection, algorithmic fairness and bias, digital inclusion, accountability and transparency, 
+sustainability, and ethical AI and machine learning) 
+2. Identify uses of technology that produce unethical behavior or harm to users, society, or the 
+environment 
+3. Apply relevant ethical theories to moral dilemmas involving technology 
+4. Evaluate different responses to ethical practice in technologies and justify an opinion based on 
+ethical theory 
+ 
+COSL1010 Community Service Learning       45 hours 
+On successful completion of this course, students will be able to: 
+1. Define and understand the essential components of service learning, including benefits, impact, 
+and key attributes. 
+2. Critically reflect on social issues and UNESCO’s sustainable development goals (SDGs) with 
+reference to a planned service project 
+3. Plan and implement a service project in accordance with local laws and regulations 
+4. Reflect on the outcomes of that service project and how it could have been improved 
+5. Develop sensitivity and empathy to local community members 
+ 
+THINK1010 Critical and Creative Thinking      2 credits 
+On successful completion of this course, students will be able to: 
+1. Appreciate the purpose and importance of creative and critical thinking. 
+2. Identify, develop, and criticize claims and arguments in accordance with principles of logical 
+reasoning and scientific evidence 
+3. Apply creative and critical thinking with supporting tools and techniques for problem-solving. 
+4. Embed creative and critical thinking in workplace idea generation. 
+5. Build foundations for enhancing individual and team effectiveness. 
+ 
+CECS1031 Computational Thinking       2 credits 
+On successful completion of this course, students will be able to: 
+1. Identify and analyze problems from life and business in order to determine computational 
+solutions. 
+2. Break down problems into logical steps and data requirements. 
+3. Use basic data structures and algorithms for problem-solving. 
+4. Design simple algorithms and computational models. 
+5. Implement solutions using basic programming skills. 
+6. Evaluate and optimize computational solutions. 
+ 
+CECS1050 Introduction to Data Literacy       2 credits 
+On successful completion of this course, students will be able to: 
+1. Read, understand, create, and communicate data as information. 
+2. Analyze and visualize data using tools like Excel and Python. 
+
+=== p20 ===
+23 | P a g e  
+3. Understand the importance of data in business strategy and apply data-driven insights for 
+decision-making. 
+4. Develop skills to improve data collection designs and ensure data quality. 
+5. Utilize statistical methods and probability to interpret, present and effectively tell stories about 
+data. 
+ 
+CECS1040 Introduction to AI Literacy       2 credits 
+On successful completion of this course, students will be able to: 
+1. Understand basic AI principles, including machine learning and neural networks. 
+2. Use AI tools like ChatGPT for work and study tasks. 
+3. Recognize ethical implications, such as data privacy and algorithmic bias. 
+4. Apply AI to improve efficiency and innovation in academic and professional settings. 
+5. Design and evaluate user interfaces for better human-AI interaction 
+ 
+ENGL1030 Academic and Professional Writing      2 credits 
+On successful completion of this unit, students will be able to: 
+1. Identify and explain core attitudes, values, and practices of academic culture and how academic 
+writing reflects these. 
+2. Reflect critically on the differences between academic and opinion writing and apply this 
+understanding in the composition of academic essays, including referencing, quoting, and 
+paraphrasing. 
+3. Evaluate the differences between academic and professional writing in terms of style, purpose, 
+target audience, and techniques. 
+4. Develop your clear, concise, and well-structured writing skills, focusing on the most critical 
+documents and situations in academic and professional work such as academic essays, newspaper 
+articles, business reports, proposals, speeches... 
+5. Use AI to develop, enhance, and revise writing in both academic and professional contexts. 
+ 
+ENGL1040 Interpersonal and Multimedia Communication    2 credits 
+On successful completion of this course, students will be able to: 
+1. Identify and explain the fundamental concepts, scope, and diversity of oral and visual 
+communication. 
+2. Identify communication expectations based on an understanding of different professional 
+audiences and contexts and apply this knowledge in delivering communication. 
+3. Demonstrate responsible, ethical, and respectful attitudes as the field undergoes disruptive 
+changes fueled by rapid technological advancements. 
+4. Develop your own oral communication skills in key situations, from speeches to conversation, 
+discussion, giving feedback. 
+5. Grow your skills in developing digital content for multimedia, including presentations, pitches, 
+blog posts, viral videos, podcasts, and basic media management. 
+ 
+MANA1011 Introduction to Managing Skills      2 credits 
+On successful completion of the course, students will be able to: 
+1. Apply the SMART technique to define specific, measurable, achievable, relevant, and time- 
+bound goals, ensuring clarity and focus on their objectives. 
+2. Develop skills to effectively organize tasks and prioritize them based on importance and 
+urgency, facilitating efficient and systematic progress towards achieving objectives. 
+
+=== p21 ===
+24 | P a g e  
+3. Understand how to assign tasks based on team members' individual strengths, skills, and 
+expertise, ensuring optimal use of resources, and enhancing team performance. 
+4. Learn to create and manage project schedules, monitor progress, and employ motivational 
+techniques to keep team members engaged and productive, overcoming challenges and 
+maintaining momentum. 
+5. Acquire the ability to give professional, accurate, and timely feedback, fostering a positive 
+energy and environment within the team. 
+ 
+OASIS           45 hours 
+On successful completion of this course, students will be able to: 
+1. Cultivate self-leadership, enhancing self-confidence, self-esteem, self-determination, and self- 
+control. 
+2. Self- acquire and apply college readiness skills, life-long learning, effectively adapting to 
+academic, social, and personal challenges of university life 
+3. Self- develop essential career skills, preparing for personal and professional success. 
+4. Embrace community involvement by actively participating in community service, 
+demonstrating a commitment to positive societal impact and a pay-it-forward spirit. 
+5. Regularly reflect on personal growth and practice self-leadership throughout your university 
+life, from the initial enrollment CV to the Individual Development Plan (IDP) and the pre- 
+graduation CV, ensuring ongoing development and readiness for life after graduation. 
+ 
+VCOR1021/22 Healthy Lifestyle        45 hours 
+On successful completion of this course, students will be able to: 
+1. Understand the important principles of a healthy lifestyle, including balanced nutrition, regular 
+physical activity, and mental well-being. 
+2. Understand your own health, develop your own personal health strategies, including techniques 
+for managing stress effectively and maintaining a balanced life. 
+3. Engage in self-discipline for nutrition, exercise, and rest, and actively participate in various 
+physical and mental well-being clubs at the university. 
+4. Recognize the impact of lifestyle choices on long-term health and well-being, and make 
+informed decisions to enhance your quality of life. 
+5. Be motivated to promote well-being within communities through various means such as 
+research, awareness campaigns, and participation in health clubs. 
+ 
+Internship 
+On successful completion of the internship, students will be able to: 
+1. Develop work habits, skills and attitudes necessary for job success 
+2. Identify, record, and carry out performance objectives (agreed upon by the employer, or 
+supervisor) related to their job assignment 
+3. Develop communication, interpersonal and other critical skills needed to function successfully 
+in the role and similar roles 
+4. Develop industry-specific technical skills and knowledge needed to function successfully in the 
+role and similar roles 
+5. Acquire employment contacts leading directly to a full-time job following graduation from 
+college. 
+ 
+HASS1010 Marxism Leninism Philosophy (Philosophy, Science and Society)  3 credits 
+On successful completion of this course, students will be able to: 
+
+=== p22 ===
+25 | P a g e  
+1. Understand the basic philosophical foundations of Marxism-Leninism, including dialectical 
+materialism and historical materialism 
+2. Explain its significance in the development of Vietnam’s state ideology and relevance to other 
+areas of society including history, politics and economics 
+3. Know that Vietnamese philosophy features elements of syncretism and be able to describe 
+those elements (e.g., Marxism-Leninism, Confucianism, Buddhism, Daoism, etc.) 
+4. Describe, evaluate and compare different answers to foundational philosophical questions such 
+as “what exists?”, “what is knowledge?”, and “what is right and wrong?” 
+5. Understand and assess different approaches to the nature of science and scientific progress 
+ 
+HASS1020 Marxism-Leninism Political Economy (Global Political Economy)  2 credits 
+On successful completion of this course, students will be able to: 
+1. Demonstrate an understanding of the complexity of how the world is interconnected through 
+the political economy. 
+2. Develop an informed understanding of conceptual terms and theoretical approaches used in 
+understanding the global economy. 
+3. Understand the transformation of Vietnam in the context of the global political economy. 
+4. Cultivate a critical-minded awareness of major trends in the global political 
+economy. 
+5. Acquire an informed understanding of the rise of China and India and the resulting impacts on 
+Vietnam, ASEAN, and the world. 
+ 
+HASS1030 Scientific Socialism (Politics and Social Change)    2 credits 
+On successful completion of this course, students will be able to: 
+1. Describe and explain the concepts of politics and social change of Vietnam and around the 
+region, and acquire some lexicon of the subject; 
+2. Understand how politics and political systems are key to socio-economic developments, 
+including but not limited to the Marxist-Leninist views; 
+3. Understand the ways politics affects economic management, and help determine national 
+success 
+4. Compare Vietnam’s national development with national efforts elsewhere in Asia; 
+ 
+ 
+HASS1041/42 Ho Chi Minh Ideology (Vietnam History and Culture II)  2 credits 
+On successful completion of this course, students will be able to: 
+1. Know the major events, persons, and historical conditions the led to the creation and 
+development of Ho Chi Minh Ideology and engage Ho Chi Minh Ideology as both a historical and 
+living body of thought. 
+2. Consider the ongoing transformation of Ho Chi Minh thought and its significance in history and 
+for Vietnam's future. 
+3. Critically review historical artifacts, including textual documents, art, literature, archeology, and 
+accounts of informants and grasp the historical factors and precedents that relate to 
+contemporary issues 
+4. Gain ability to apply historical and cultural knowledge to understanding and analyzing 
+contemporary problems 
+5. Present historical evidence-based arguments and conduct probing discussions about 
+challenging historical subjects 
+6. Explore multiple perspectives about the past, especially the past as understood from the 
+vantage of former historical actors. 
+
+=== p23 ===
+26 | P a g e  
+HASS1050 History of the Communist Party (Vietnam History and Culture I)  2 credits 
+On successful completion of this course, students will be able to: 
+1. Know the major events, persons, and historical conditions the led to the creation and 
+development of the Vietnamese Communist Party 
+2. Critically review historical artifacts, including textual documents, art, literature, archeology, and 
+accounts of informants. 
+3. Grasp the historical factors and precedents that relate to contemporary issues and gain the 
+ability to apply historical and cultural knowledge to understanding and analyzing contemporary 
+problems 
+4. Present historical evidence-based arguments 
+5. Explore multiple perspectives about the past, especially the past as understood from the 
+vantage of former historical actors. 
+ 
+HASS1070 Cross-Cultural Navigation       2 credits 
+On successful completion of this course, students will be able to: 
+1. Understand the ways in which individual identities, values, and perceptions and biases are 
+shaped by cultures and different forms of life 
+2. Know the theories and practice related to the impact of culture in our daily ecologies in local 
+and global contexts 
+3. Identify and understand the intersection of one’s own and others’ cultural identities 
+4. Apply knowledge of practice, theory, and personal reflection of different cultures to a particular 
+issue that requires collaboration or cooperation between individuals or groups from different 
+cultural backgrounds 
+ 
+HASS1100 Introduction to International Relations     2 credits 
+On successful completion of this course, students will be able to: 
+1. Know the main actors, structures, and processes of international relations 
+2. Understand the basic theoretical principles of international relations and compare the 
+competing underlying frameworks on human and social nature 
+3. Identify the respective objectives of international organizations in international politics, 
+collaboration, and cooperation 
+4. Explore a case study, problem-solving scenario or dilemma involving international relations and 
+devise a strategy/solution supported by theory and solid argumentation 
+5. Critically assess alternative strategies and points of view on complex scenarios requiring 
+international relations 
+ 
+ARTS1030 Art Appreciation and Application      2 credits 
+On successful completion of this course, students will be able to: 
+1. Demonstrate an understanding and appreciation of arts and visual arts in general, including their 
+function, and historical, religious, cultural, social, and environmental contexts and relevance. 
+2. Understand and define the basic principles of arts, visual arts, and design; explain and analyze a 
+work of art from an informed and objective viewpoint, its physical attributes and formal 
+construction. 
+3. Identify how art works are created and processed. 
+4. Make reference to the significance and application of the arts in students’ own field of studies and 
+interests. 
+5. Analyze Vietnam arts and situate Vietnam arts in the global context. 
+
+=== p24 ===
+27 | P a g e  
+PERF1010 Artistic Performance and Application     2 credits 
+On successful completion of this course, students will be able to: 
+1. Show improved skill in their chosen artistic field (e.g., music, dance, theatre, visual arts) and 
+express their creativity and individuality through performance(s). 
+2. Evaluate and discuss different forms of artistic performance, identifying key elements and 
+techniques, and write reflective assessments on their personal artistic development. 
+3. Work well with peers to create and perform artistic pieces, and effectively give and receive 
+constructive feedback. 
+4. Clearly communicate the artistic vision and choices behind their performances both verbally 
+and in writing (if required) and develop their skills in presenting artistic work to an audience, 
+including stage presence and audience engagement. 
+5. Explore and appreciate a variety of artistic traditions from around the world, with a special 
+focus on Vietnamese culture, and place their own artistic work in a wider cultural and historical 
+context. 
+6. Plan, organize, and complete an artistic performance project from start to finish, demonstrating 
+good time management and organizational skills. 
+7. Understand and apply ethical considerations in artistic performance, including respecting 
+intellectual property and cultural sensitivities, and behave professionally during rehearsals, 
+performances, and collaborative projects. 
+ 
+Study Abroad 
+On successful completion of the study abroad program, students will be able to: 
+1. Develop skills and self-confidence for interacting with people from a different location and 
+culture 
+2. Competently navigate living, studying and potentially working in a different location and 
+culture 
+3. Understand how different backgrounds and cultures impact one another's views, values, 
+behaviours, and biases 
+4. Reflect on how the experience has produced a global mindset and the values of being a global 
+citizen 
+5. Build life-long connections and a network of partners for academic study, professional and 
+personal life 
+ 
+2.5.2 BBA Core Courses 
+ 
+ACCT2010: Introduction to Financial Accounting 
+ 
+Credits: 3 
+Comprehensive introduction to financial accounting concepts and applications. Focuses primarily 
+on recording and communicating financial information for use by external users such as investors, 
+creditors and regulators, and is intended to provide a basic understanding of the accounting cycle, 
+elements of financial statements, Generally Accepted Accounting Principles. (GAAP), International 
+Financial Reporting Standards, and financial statement interpretation (IFRS). Topics include 
+accounting for inventory, receivables, depreciation, bonds, equity, and cash flows. 
+ 
+ACCT2020: Introduction to Managerial Accounting 
+ 
+Credits: 3 
+This course provides an introduction to the basic concepts, analyses, uses, and procedures of 
+accounting and control used by internal company managers when they are faced with planning, 
+directing, controlling, and decision -making activities in their organi zation. Topics covered focus 
+on the relationship between strategy and decision -making, and include product and service 
+costing, budget setting, decision -making, profitability analysis, pricing, and performance 
+measurement. 
+
+=== p25 ===
+28 | P a g e  
+ECON1015: Managerial Economics 
+ 
+Credits: 3 
+This course provides an overview of economic tools and analytic approaches available to the 
+manager for business decision making. It includes such topics as pricing, forecasting, demand 
+analysis, production and cost analysis, and macroeconomic policy as it  affects the business 
+environment. The purpose of this course is to develop an economic perspective that is appropriate 
+for students aspiring to manage business units or entire companies in a wide variety of industries. 
+LAW2010: Business Law 
+Pre-requisite: LAW1010 
+Credits: 3 
+This is an introductory course dealing with legal principles and procedures and an introduction to 
+contract law. Along with learning the basics of our legal foundation, case studies will be used to 
+apply knowledge gained. Every day of our lives we are involved in business transactions: when we 
+buy a newspaper, a meal, groceries, an automobile, or write a check. The primary purpose of this  
+course, therefore, is to develop an understanding of the legal framework of business- the basic 
+principles of the law that apply to business transactions. The course will equip you with the 
+necessary knowledge and ability to use various tools for analysis and problem-solving. 
+MARK1010: Marketing 
+ 
+Credits: 3 
+The course covers: 
+• How customers behave and, in particular, what motivates their purchasing decisions. 
+• The components of an organization’s strategic marketing program including how to plan, 
+price, promote, and distribute goods, services, ideas, people, and places. 
+• Marketing’s relationship to other departments within the firm and to factors outside the 
+organization, such as the economy, competition, suppliers, and political-legal groups. 
+The application of marketing principles to “for-profit” companies and to “not for profit” 
+businesses. 
+MANA3030: Organizational Behavior 
+Pre-requisite: MANA1011  
+Credits: 3 
+This course guides students in exploring how members of organizations think, feel, and behave both 
+on the job and in their interactions with others at the individual, team, and organizational levels. 
+Organizational Behavior (OB) is an applied field of study, meaning that the theories and concepts 
+students learn are directly applicable to their own productivity and well -being, teamwork, 
+understanding of organizations, and ultimately, their career success. Although the course will 
+primarily focus on work-related contexts, students will find that the course concepts have valuable 
+applications to various organizations such as non-profits, student teams, social clubs, and religious 
+or political groups. 
+MANA3040: Human Resource Management 
+Pre-requisite: MANA3030 
+Credits: 3 
+This course provides a general introduction to concepts and topics in human resource 
+management (HRM). It covers theories and applications involved in effectively managing people 
+in organizations, including strategic HRM, work design, staffing, training, p erformance 
+management, compensation, and international HRM. The knowledge gained in this course can be 
+applied in small, medium, and large firms, as well as non-profits. 
+ 
+FINA2010 Financial Management Credits: 3 
+Pre-requisite: ACCT2010 
+This course aims to cover the basic concepts of financial management that are of primary concerns 
+to corporate managers. The course provides necessary knowledge related to net present value, 
+stock and bond valuation, risk and return, dividend policy, capital budgeting, cost of capital, and 
+working capital management. Upon completion of this course, students will be able to understand 
+the considerations needed to make financial decisions of a firm. 
+
+=== p26 ===
+29 | P a g e  
+The format of this course is primarily lecture and tutorial with real -world case studies and guest 
+lectures to build the linkage with business operations and to gauge your understanding of the 
+material. At the end of the course, students will participate i n a marked simulation to apply their 
+knowledge to make various financial decisions for a hypothetical firm. All class activities are 
+expected to be delivered offline on campus. 
+MANA4010: Strategic Management 
+Pre-requisite: MANA1011  
+Credits: 3 
+This course develops concepts and analytical frameworks for developing and adapting business 
+strategies. The perspective adopted is that of the general manager who has overall responsibility 
+for the performance of the firm or of a business unit within the firm. Such a manager needs to 
+understand the basis for the current performance of the firm and to identify those changes (inside 
+or outside the firm) that are most likely to affect future performance adversely or that provide 
+opportunities for the firm to improve its performance. The manager must then use the firm's 
+resources to formulate and implement strategies to compete successfully in its new environment. 
+The strategy must define the scope of the firm's activities, the logic through which the activitie s 
+result in better performance, and what it is about the firm that allows it to better carry out those 
+activities than its competitors. The complexity of today’s (and tomorrow’s) competitive 
+environment dictates that strategy cannot be the domain of top ma nagers alone. In particular, 
+functional specialists and mid-level managers will be challenged increasingly to think strategically 
+when confronting day -to-day issues, and to ground operational contributions in the strategic 
+realities of the business. Our ai m is to increase your ability to take the initiative and assume a 
+leadership role in your company, no matter what your formal position might be. One way to do this 
+is through cultivating the ability to make well -grounded and uncommonly insightful 
+recommendations as to how the business actually is or should be competing. 
+OLSM 3010: Supply and Operations Management 
+Pre-requisite: STAT2020 
+Credits: 3 
+This course provides three fundamental OM skills: Process Analysis, Inventory Management, and 
+Quality Control. Process Analysis covers the evaluation of the performance of business processes 
+as well as how to identify opportunities for improvement. Inventory Management teaches how to 
+recognize the different types of inventories in a supply chain and the reasons for their 
+accumulation, as well as tools for deciding how much inventory a business should hold under 
+different circumstances. Finally, Quality Control teaches how to measure and control the quality of 
+the output of a business process. Throughout the course, the course also covers the more 
+advanced topics of Queuing (how to measure and reduce waiting times), Revenue Management 
+(how to manage prices and product availability), and Supply Chain Coordination (how to establish 
+mutually beneficial relationships among partners in a supply chain). 
+ 
+BANA 3050 Management Information System Credits: 3 
+Pre-requisite: STAT2020 
+This course covers the fundamental concepts of Management Information Systems (MIS) and their 
+application in modern business operations. Over the last decade, the entire world has seen 
+constant changes in technology, management, and business. In this course, we will teach students 
+the fundamentals of the role and importance of information systems in general, and digital firms 
+in particular, in today's society. The course covers new concepts in information technology 
+innovation, new business models, the expansion of E -commerce, mobile computing, and big 
+maturing data and cloud computing solutions. We will learn how to use these changes to design 
+and develop business MIS solutions. This course will also cover global IT network management, 
+knowledge management with IT, E-Commerce, E-Business, and related security and ethical issues. 
+Please keep in mind that the emphasis of this course is "business first, technology second," a 
+viewpoint that emphasizes how MIS/IT can improve business operations and meet business 
+requirements. 
+ 
+STAT2020 Business Statistics Credits: 3 
+
+=== p27 ===
+30 | P a g e  
+In this course, the students are introduced to the subject of business statistics to include the 
+need for quantitative analysis in business, the basic procedures in problem solving, and the 
+sources and types of data used by business firms using business application software. Basic 
+probability concepts and normal probability distribution are used by the student to solve real 
+world business problems which involve business applications. 
+ 
+MATH1040: Business Mathematics 
+Pre-requisite: ACCT2010 
+Credits: 3 
+The course covers differentiation of algebraic and transcendental functions; applications of the 
+derivative, differentials, indefinite integrals, definite integrals; and applying these concepts to 
+problem solving and “real world application”. 
+ 
+OLSM 4300: Project Management 
+Pre-requisite: MANA1011  
+Credits: 3 
+This course explores the stages of managing a project, including project initiation, planning, 
+scheduling, implementation and control, using quantitative and qualitative methods. This course 
+introduces the tasks and challenges fundamental to project manage ment, the vital function of 
+managing complex projects across multiple, and even global functions. Successful project 
+managers possess the skills necessary to manage their teams, schedules, risks, and resources to 
+produce a desired outcome. The methodologie s and philosophies of the Project Management 
+Institute (PMI) are discussed and following this course, students are encouraged to work towards 
+the Certified Associate in Project Management (CAPM) certification. 
+ 
+2.5.3 Finance Concentration Courses 
+ 
+FINA3010: Corporate Finance 
+Pre-requisite: FINA2010 
+Credits: 3 
+Builds on the prerequisite courses of financial accounting and financial reporting. The course 
+focuses on the mathematics of finance, valuation, and the economics of managerial decisions, 
+corporate financial policy, risk management, and investments. Topics  include applications of 
+discounting techniques, evaluation of capital expenditures, estimation of cost of capital, bond and 
+stock valuation, portfolio theory, asset-pricing models, and capital-structure decisions. The course 
+emphasizes valuation skills as a means to bring together the cost of capital, financing, and 
+operating issues faced by a firm. Students come to understand the financial impact of managerial 
+decisions, know how to differentiate decisions that increase the value of a firm, and know how to 
+properly evaluate investment and financing decisions. They also learn standard techniques of 
+financial analysis, such as discounted cash -flow valuation, capital budgeting, risk analysi s, and 
+estimation of the cost of debt and equity. 
+FINA3030: Behavioral Finance 
+ 
+Credits: 3 
+This course is designed to provide students with both theoretical and practical understandings of 
+behavioral finance. This course introduces the concepts of psychological biases and how such 
+biases affect the financial decisions of investors, fund managers, as well as firm managers, and 
+ultimately lead to market anomalies. The ultimate goal is to al low students to effectively make 
+financial decisions. 
+FINA4010: Futures, Options and Financial Derivatives 
+Pre-requisite: FINA2010 
+Credits: 3 
+This course covers the pricing of derivatives and how derivatives can be used for the purpose of 
+risk management and speculation. A portion of this course involves the use of spreadsheets or 
+other computer programs. 
+
+=== p28 ===
+31 | P a g e  
+FINA4040: Portfolio Management 
+Pre-requisite: FINA4010 
+Credits: 3 
+The focus of this course is on the examination and valuation of the major investment vehicles and 
+strategies popular today. In particular, we will consider how investors allocate their financial 
+assets by forming, managing, and evaluating portfolios containing instruments such as stocks, 
+bonds, futures and option contracts, and mutual funds. 
+ 
+FINA3050: Applied Econometrics 
+Pre-requisite: STAT2020 
+Credits: 3 
+This course provides an introduction to the econometric techniques utilized for analyzing data 
+sets in the fields of economics, business, and finance. It builds upon fundamental principles of 
+statistics, inference, and regression covered in introductory statistics courses. The primary focus 
+is to develop an understanding of the methods involved, employ statistical software to derive 
+results, and subsequently interpret and comment on the findings. The course begins with a review 
+of basic statistics, regressi on, and inference, and subsequently delves into multiple regression 
+analysis. The remainder of the course explores panel regression analysis and regression models 
+with dummy variables as the dependents. Throughout the course, there will be many empirical 
+examples using a wide variety of data sets. 
+ 
+FINA4100: Fixed Income Securities and Interest Rate Options 
+ 
+Credits: 3 
+Designed to study the pricing, hedging, and risk management of fixed -income securities, interest 
+rate and credit derivatives. Topics include the term structure of interest rates, interest rate swaps 
+(caps, floors, collars), credit risk, corporate bond valuation, and credit derivatives. The method of 
+instruction is lectures and discussion, with computer illustrations. A secondary theme of the 
+course is the use of models in practice for risk management. 
+FINA3100 FinTech: Shaping the Financial World 
+ 
+Credits: 3 
+This course is for students wishing to explore the ways in which new technologies are disrupting 
+the financial services industry —driving material change in business models, products, 
+applications and customer user interface. Amongst the significant technological trends affecting 
+financial services into the 2020’s, the class will explore AI,  deep learning, blockchain technology, 
+and open APIs. We will then turn to four sectors of specific opportunities: payments, credit, trading 
+and risk management. We will explore the competitive and strategic landscape amongst FinTech 
+start-ups, incumbents from big finance and big tech in the U.S., China, India, and Europe. Students 
+will gain an understanding of the key technologies, market structure, participants, regulations and 
+the dynamics of change being brought about by FinTech. 
+ 
+2.5.4 Marketing Concentration Courses 
+ 
+MARK3010: Consumer Behavior 
+Pre-requisite: MARK1010 
+Credits: 3 
+When does spending money give consumers happiness, not emotional pain? Why are many female- 
+targeted products sold at a higher price than male -targeted ones? What makes a default option so 
+important than other options available to consumers? The consumer mind is often called a black 
+box; it is not easy to fully understand how they think, feel, and (consciously and unconsciously) 
+respond to market information. This course is designed to take you a step closer to the consumer 
+black box and explore fascinating, multi -faceted aspects of consumer psychology and behavior. It 
+will take you throug h a journey focusing on core psychological and social issues of consumer 
+behavior - what motivates people (not) to purchase, what influences on consumer perceptual 
+processes and sensory experience, which design thinking approach to consumer insights, how 
+consumer memory works and is distorted, how to engineer behavioral changes, how to increase 
+consumer happiness through spending, how to create meaningful engagement with AI, robots, and 
+
+=== p29 ===
+32 | P a g e  
+evolving social media, and so forth. This course thus aims to make you a savvier consumer in your 
+own day-to-day life, and a manager and public policy maker who truly understands how to better 
+design marketing strategies and policies to influence consumer behavior. 
+ 
+MARK3020: Digital Marketing                 Credits: 3 
+Pre-requisite: MARK1010 
+The aim of the Digital Marketing Course is to provide students with the knowledge about business 
+advantages of the digital marketing and its importance for marketing success; to develop a digital 
+marketing plan; to make SWOT analysis; to define a target group; to get introduced to various 
+digital channels, their advantages and ways of integration; how to integrate different digital media 
+and create marketing content; how to optimize a Website and SEO optimization; how to create 
+Google Ad Words campaigns; social media planning; to get basic knowledge of Google Analytics 
+for measuring effects of digital marketing and getting insight of  future trends that will affect the 
+future development of the digital marketing. The application of the gained knowledge, skills and 
+competences will help future managers in forming digital marketing plans in order to manage a 
+digital marketing performance efficiently. 
+ 
+MARK4010: Brand Management 
+Pre-requisite: MARK1010 
+Credits: 3 
+This course will focus on the art and science of branding as a fundamental element of marketing 
+strategy. In our global economy, product and service offerings can be replicated by competing 
+firms, while the knowledge and attitudes consumers have about bran ds is not easily duplicated. 
+Therefore, many companies recognize that the investment they make in the creation and 
+communication of their brand will become a strategic differentiator in the future. Students will get 
+hands-on experience with strategies, frameworks, and specific tactics for building, leveraging, and 
+defending strong brands in any industry. All aspects covered will be in the context of actual 
+applications of brand concepts to real -world challenges. Discussions will focus on current 
+opportunities and challenges facing brand managers in a variety of industries and markets. 
+BANA4010: Data Communication and Visualization 
+Pre-requisite: STAT2020 
+Credits: 3 
+Firms are collecting extensive information (Big Data!) about consumers’ choices under different 
+scenarios, but few firms have the expertise to intelligently act on such information. In this course, 
+students will learn how to use state -of-the-art data tools (R, Python, Tableau) to collect, analyze, 
+visualize and communicate data. A special emphasis will be placed on understanding how to 
+display data for precise, effective, and quick analysis. Outcome 1: Develop a better understanding 
+of quantitative marketing Outcome 2: Demonstrate state -of-the-art data visualization tools 
+Outcome 3: Explain the value of testing and experimentation Outcome 4: Communicate and defend 
+their insights Outcome 5: Critically examine and build upon the recommendations of classmates, 
+both quantitatively and qualitatively 
+ 
+MARK4040: Marketing Research 
+Pre-requisite: MARK1010 
+Credits: 3 
+This course explores the strategies and analytical techniques employed to address both classical 
+and contemporary problems faced by retailers. Case study analysis provides a principal 
+pedagogical approach. Cases come from a broad spectrum of retailing sectors: food, mass, fashion, 
+on-line, international. Project required. Selected retail executives will participate. 
+ 
+MARK4100: Marketing Strategy        Credits: 3 
+The process of finding, capturing, and retaining customers is perhaps the single most important 
+contributor to a business’s success. Doing so requires not only great products, but an effective 
+marketing strategy based on a keen understanding of how those products fit into customers’ lives 
+
+=== p30 ===
+33 | P a g e  
+relative to competition. The four main modules of this course deal with the process of developing 
+a firm’s product strategy; building a viable competitive strategy; managing customer 
+relationships; and effective allocation of marketing resources. The material will be covered via 
+lectures, case presentations and discussions, and talks by gues t speakers. This course focuses on 
+strategic marketing planning at the product group/senior executive level for the development of 
+competitive marketing strategies through analysis of a firm’s external environment. Enrolled 
+students will apply the concepts and methods to build a comprehensive marketing strategy plan 
+for an actual product of their choosing over the course of the semester. This course will be useful 
+for those students who wish to gain a deeper knowledge of marketing in their path toward 
+becoming general managers and consultants. 
+ 
+CISM2020: Big Data Management for Revenue Enhancement 
+ 
+Credits: 3 
+Introduces the principals and functions of relational database management systems (DBMS) and 
+their business application. Students will explore both logical and physical database designs and 
+develop a clear understanding of the concepts and terminology related to DBMS. A small relational 
+database will be designed, and students will learn to run SQL queries. Students will learn  a set of 
+skills to describe what happened in the past using queries, descriptive statistics, data visualization, 
+and some data mining techniques. Excel add-ins and other DBMS software may also be employed. 
+2.5.5 Entrepreneurship Concentration Courses 
+ 
+ENTR3010: Entrepreneurship Perspectives 
+ 
+Credits: 3 
+This course is intended to distinguish between entrepreneurship and small business 
+management. Emphasis will be placed on the integration of key management principles from 
+prerequisite courses. A real-world case study will be used as the lens through which students will 
+develop an operational business plan. Readings, videos and other reference materials from 
+practitioners, academics and business leaders will be used to make the class reflective of and 
+relevant to the current business environment. 
+ 
+MANA3110: Corporate Entrepreneurship 
+ 
+Credits: 3 
+This is an overview course on corporate entrepreneurship. It is not designed to cover all of the 
+aspects of the corporation that affect the firm’s organization, strategy and performance, but rather 
+is designed to introduce students to some of the core concepts and analytical tools used in 
+corporate entrepreneurship as part of the overall corporate strategy to renew a company’s 
+product lines or services, or offer totally new products and servic es, which can include new 
+technologies, major new markets entered, and importantly, new ventures created within or spun 
+off by the company. Specifically, the course will focus on four broad areas: 
+2.5.5.1 Company needs for entrepreneurial behaviors 
+2.5.5.2 People required for entrepreneurial behaviors 
+2.5.5.3 How the firms capitalize on entrepreneurial behaviors 
+2.5.5.4 How firms develop and sustain competitive advantage through corporate 
+entrepreneurship 
+2.5.5.5 Conducting and writing an entrepreneurial assessment of several mature companies 
+MANA3150: Designing New Ventures 
+ 
+Credits: 3 
+Designing New Ventures is a comprehensive introduction to the key aspects of envisioning, 
+starting and running a new business. New Ventures focuses both on concepts and frameworks in 
+entrepreneurship and on "doing" entrepreneurship. Students will form teams, ideate new 
+businesses, complete customer development, construct business models and work towards 
+defining minimum viable products. Topics covered will include definition of the market, sales and 
+
+=== p31 ===
+34 | P a g e  
+distribution, competition, hiring and management of people, cash flow and financial management, 
+making compelling pitches and raising capital. The course culminates in a capstone project of 
+writing a business plan and presenting it to a group of entrepreneurs and investors. 
+ 
+MANA3130: Entrepreneurial Finance 
+ 
+Credits: 3 
+ 
+ Pre-requisite: FINA2010  
+This course examines venture capital and private equity firms as an important category of 
+financial institutions. Private equity is an umbrella covering venture capital, growth equity, and 
+buyout firms. These entities play a major role in providing capital  to startup companies, those in 
+the growth industries and medium -sized entities that are in the process of restructuring. Also, 
+private equity firms supply funding to buyout initiatives. The primary focus of the course is on 
+financial, economic, and legal issues that develop between general and limited partners and 
+between private venture capital firms and the startup companies in which they invest. More 
+specifically, the course will explore the following processes: (1) how venture capital firms raise 
+capital; (2) how they deal with entrepreneurial companies in which they invest; (3) how they exit 
+investments; and (4) how new frontiers are reshaping the private equity business. 
+ 
+MANA4100: Entrepreneurial Marketing and Strategy 
+ 
+Credits: 3 
+The course is focused on the tools and frameworks that assist a startup entrepreneur in exploring 
+the feasibility of a new idea. After establishing an understanding of the funding process for new 
+ventures, students will learn about and practice market research techniques involving both formal 
+(survey, focus group) and informal (expert interviews, social media) ways to understand the 
+adoption behavior and urgent needs/wants of prospective customers. In addition, participants 
+will learn how to take findings from market research to formulate business models and strategies. 
+In the final seven weeks of the course, students will participate in teams using a computer 
+platform that simulates running a startup in a team setting. 
+• Outcome 1: After establishing an understanding of the funding process for new ventures, 
+students will learn about and practice market research techniques involving both formal 
+(survey, focus group) and informal (expert interviews, social media) ways to  understand 
+the adoption behavior and urgent needs/wants of prospective customers. 
+• Outcome 2: Learn how to take findings from market research to formulate business 
+models and strategies. 
+• Outcome 3: Participate in teams using a computer platform that simulates running a 
+startup in a team setting. 
+MANA 4000: Business Model Innovation and Design 
+ 
+Credits: 3 
+The movement towards a service -based economy has coincided with a fundamental shift in 
+technology and manufacturing ventures to a business model and plan in which the value 
+proposition and customer experience has become central. As a result, the service co mponent of 
+products, based on the value they provide to consumers, has become dominant. Additionally, 
+business modeling for service -based businesses is inherently different from for product or 
+technology ventures. Students interested in starting service -based companies as well as those 
+interested in developing service-based business models for technology and new product startups 
+will find this course relevant and useful. This is an experientially based course. Students will be 
+engaged in the process of business model and business plan development throughout the 
+semester. 
+ 
+CISM2020: Big Data Management for Revenue Enhancement 
+ 
+Credits: 3 
+
+=== p32 ===
+35 | P a g e  
+Introduces the principals and functions of relational database management systems (DBMS) and 
+their business application. Students will explore both logical and physical database designs 
+anddevelop a clear understanding of the concepts and terminology related to DBMS. A small 
+relational database will be designed, and students will learn to run SQL queries. Students will learn 
+a set of skills  to describe what happened in the past using queries, descriptive statistics, data 
+visualization, and some data mining techniques. Excel add-ins and other DBMS software may also 
+be employed. 
+2.5.6 Business Analytics Concentration Courses 
+BANA3010: Data Driven Analytics Credits: 3 
+Pre-requisite: STAT2020 & MATH1040 
+The practice of business is changing. Due to increasing desktop computing power and companies 
+amassing large amounts of data, business decisions are becoming more and more data based. This 
+holds in many sectors such as in internet marketing and retailing where the only interaction with 
+the customer is in digital form. This course aims at conveying some core principles of business 
+analytics such as testing, ANOVA, linear regression, introduction to predictive models. This course 
+is very hands-on, and emphasis will be placed on solving real analytic problems using real data 
+using R-programming language. 
+ 
+BANA3020: Introduction to Programming and Python 
+Pre-requisite: STAT2020 & MATH1040 
+Credits: 3 
+Programming and problem -solving using a popular programming language. Emphasizes 
+principles of software development, style, and testing. Topics include procedures and functions, 
+iteration, recursion, arrays and vectors, strings, an operational model of pro cedure and function 
+calls, algorithms, exceptions, object-oriented programming, and GUIs (graphical user interfaces). 
+Weekly labs provide guided practice on the computer, with staff present to help. Assignments use 
+graphics and GUIs to help develop fluency and understanding. 
+ 
+BANA4020 Computational Machine Learning for Business Analytics 
+Pre-requisite: BANA3020 
+Credits: 3 
+Learn and apply key concepts of modeling, analysis and validation from machine learning, data 
+mining and signal processing to analyze and extract meaning from data. Implement algorithms 
+and perform experiments on images, text, audio and mobile sensor measurements. Gain working 
+knowledge of supervised and unsupervised techniques including classification, regression, 
+clustering, feature selection, and dimensionality reduction. 
+ 
+BANA4040: Predictive Analytics 
+Pre-requisite: BANA3010 or BANA3020 
+Credits: 3 
+Prediction of future is a core task in business. This course covers cross-sectional prediction and 
+time series forecast (time series decomposition, exponential smoothing, ARMA, etc.) 
+ 
+CISM2020: Big Data Management for Revenue Enhancement 
+ 
+Credits: 3 
+Introduces the principals and functions of relational database management systems (DBMS) and 
+their business application. Students will explore both logical and physical database designs and 
+develop a clear understanding of the concepts and terminology related to DBMS. A small relational 
+database will be designed, and students will learn to run SQL queries. Students will learn  a set of 
+skills to describe what happened in the past using queries, descriptive statistics, data visualization, 
+and some data mining techniques. Excel add-ins and other DBMS software may also be employed. 
+ 
+BANA4010: Data Communication and Visualization 
+Pre-requisite: STAT2020 
+Credits: 3 
+Information visualization strategies and associated software, emphasizing communication to 
+
+=== p33 ===
+36 | P a g e  
+diverse audiences. Select between geospatial (GIS) and qualitative data foci. Develop graphics 
+and/or multimedia products supporting research projects in concurrent courses. Compile 
+iterative digital portfolio. Outcome 1: Students will be able to select and create the most 
+appropriate information display strategy (e.g., graphs, maps, infographics, matrices and/or 
+multimedia pieces), accompanying text and formatting details for a given data objective and 
+audience. Outcome 2: Students will be able to effectively employ a broad  range of visual 
+communication techniques in publishable elements to support and enhance a field research 
+project in the natural or social sciences. 
+ 
+BANA 4030: Advanced Machine Learning for Business Analysts             3 credits 
+This course aims to introduce students to advanced materials in Machine Learning: neural 
+network, ensemble methods, marketing analytics... Students will learn to apply the new 
+techniques and concepts in business -oriented problems such customer segmentation , customer 
+lifetime value prediction, recommender systems. The main programming tools for the course are 
+Python, scikit-learn, tensorflow. 
+ 
+ 
+2.5.7 Operations, Logistics, and Supply Management Concentration Courses 
+ 
+MANA3200: Managing for Service Excellence 
+Pre-requisite: OLSM3010 
+Credits: 3 
+This course provides an in-depth understanding of service excellence and its critical role in 
+achieving customer satisfaction and loyalty. It focuses on service design, quality management, and 
+customer relationship strategies, equipping students with tools to manage and innovate in 
+service-oriented businesses. 
+ 
+OLSM3110: Total Quality Management 
+ 
+Credits: 3 
+Total quality management principles and practices, tools and techniques, implementation of 
+continuous quality improvement programs, links to manufacturing and competitive strategies. Six 
+Sigma and statistical quality control. 
+ 
+BANA3010: Data Driven Analytics 
+Pre-requisite: STAT2020 & MATH1040 
+Credits: 3 
+The practice of business is changing. Due to increasing desktop computing power and companies 
+amassing large amounts of data, business decisions are becoming more and more data based. This 
+holds in many sectors such as in internet marketing and retailing where the only interaction with 
+the customer is in digital form. This course aims at conveying some core principles of business 
+analytics such as testing, ANOVA, linear regression, introduction to predictive models. This course 
+is very hands-on and emphasis will be placed on solving real analytic problems using real data 
+using R-programming language. 
+ 
+OLSM3500: Operations Planning and Control 
+Pre-requisite: OLSM3010 
+Credits: 3 
+This course helps students in the area of Operations & Supply Chain Management to develop an 
+understanding of the following tangible and practical skills that are valued by employers: 
+2.4.7.1 Communicate professionally including using the correct terminology of business 
+and the profession 
+2.4.7.2 Understand the structure of operations planning and control systems in a variety of 
+applications 
+2.4.7.3 Understand and apply the conceptual and analytical tools for improved operational 
+decision making 
+2.4.7.4 Solve problems, analyze situations, take corrective action and make managerial 
+recommendations related to operations areas of forecasting, the management of inventory 
+and capacity, and scheduling to meet independent and dependent demand 
+2.4.7.5 Practice making operations planning and control decisions. 
+
+=== p34 ===
+37 | P a g e  
+OLSM3510: Sourcing and Distribution Planning 
+Pre-requisite: OLSM3010 
+Credits: 3 
+This course serves as an introduction to the organization and operations of the procurement 
+function inside a global world -class companies Supply Chain organization. We will explore how 
+superior sourcing and distribution planning is linked directly to the competitive success of the 
+company. The course will focus on the fundamental tools, techniques and processes deployed in 
+today is market and identify ways a company’s supply chain organization can create both value to 
+the shareholder and in the end to the customer. We will also discuss the ethical, contractual and 
+legal issues faced by procurement, with a focus on the expanding strategic nature of the role of the 
+supply chain organization. Students who take this course will be prepared for entry -level 
+procurement and sourcing positions in global companies. 
+ 
+OLSM4250: Global Supply Chain Management and Strategy 
+Pre-requisite: OLSM3010 
+Credits: 3 
+The course focuses on the strategic and operational use of supply chain technologies such as 
+transportation management systems, warehouse management systems, and inventory 
+management systems, along with hardware and other applications. The objective of the class is to 
+provide a strong knowledge and understanding of the technology used in logistics and supply 
+chain management. Students are assigned to group projects to research and present how logistics 
+technology works in their community, country or region 
+ 
+ 
+OLSM4210: Technology and Product Innovation Management 
+ 
+Credits: 3 
+Technology, innovation and development of new products and services are essential for the 
+success of any organization. At the same time, designing and launching new products is risky. 
+Managing the new product development therefore involves identifying new product ideas that 
+have great potential and lowering the risk of their failure. This course discusses the stages in the 
+new product development process and avenues for making the process more productive. Specific 
+topics covered include creative techniques for idea generation, designing new products and 
+services using analytical techniques, sales forecasting, testing, and tactics and strategies for new 
+product launch. The course uses lectures, cases, and outside speakers. Moreover, the course 
+includes a project wherein student teams will use the creativity techniques covered in this class 
+to come up with new product ideas and perform a concept test in order to evaluate their feasibility. 
+The course has a quantitative focus and delves on issues that are very relevant to managers on a 
+day-to-day basis. The course will be especially useful for those interested in product/brand 
+management, management consulting, and entrepreneurship. 
+ 
+2.5.8 Hospitality Leadership 
+ 
+HADM1000: Introduction to Hospitality & Tourism Management 
+ 
+Credits: 3 
+This course is an introduction to hospitality and tourism management, including an overview of 
+management in the hospitality industry and professional opportunities. The concepts and 
+practices of hospitality management are examined and discussed. The scope  and forms of 
+hospitality and tourism organizations are reviewed, as well as trends within these organizations. 
+ 
+HADM1010: Fundamentals in Foodservice Management 
+ 
+Credits: 3 
+This course provides students with the knowledge and practical skills for effective foodservice 
+operations. It introduces the principles of hygiene and food safety, covers global service and 
+beverage styles, examines food production principles, culinary techniques, equipment functions 
+and kitchen organization, and provides a guide to front -of-house operations, i ncluding 
+reservations taking, service sequencing, and payment handling.  By integrating theory and 
+practice, students acquire professional, social, a nd intellectual skills and knowledge needed for 
+
+=== p35 ===
+38 | P a g e  
+food and beverage operations. 
+ 
+HADM2010: Revenue Management Principles and Practices 
+ 
+Credits: 3 
+This course first introduces Revenue Management (RM) concepts and principles, before showing 
+how to effectively implement RM techniques. Emphasis will be placed on integrating techniques 
+and information technology. While the course focuses on implementation of RM in hotels, other 
+application areas in travel and retail will be discussed.  In addition, students will be expected to 
+express technical revenue management terms in clear, managerial language. 
+ 
+HADM1020: Fundamentals in Hotel Operations 
+ 
+Credits: 3 
+This course is designed to introduce students to the hotel industry, the organizational structure 
+and operational mechanics of how key departments within an individual hotel operate. 
+Understanding the scope of the industry involves identifying the major organizations, their brands 
+and their market segments. Students will learn about hotel operations and how activities between 
+key departments (front office, housekeeping, food & beverage, etc.) are coordinated. By 
+completing this course, students will acquire the abilities to conduct hotel industry analytics, hotel 
+math fundamentals, property level benchmarking (STAR Reports), and industry performance 
+reports. 
+MARK3020: Digital Marketing 
+Pre-requisite: MARK1010 
+Credits: 3 
+This course examines innovations and trends in new media, and ways to leverage them towards 
+the goal of maximizing revenue.  Students will consider how new media can improve marketing 
+efforts by managing customer expectations and enhancing the consumer experience and discuss 
+how to measure the success of those efforts. 
+MANA3200: Managing for Service Excellence 
+Pre-requisite: OLSM3010 
+Credits: 3 
+World-class service organizations deeply understand the needs and behaviors of their customers, 
+and design, manage, and improve their operating models accordingly. This course investigates the 
+distinct challenges inherent in leading service operations, which make up more than 63% of the 
+global economy. In this course, students learn how to design distinctive and sustainable service 
+strategies, how to manage customers and employees, how to de velop a cohesive service culture, 
+how to fund service excellence, how to leverage big data to enhance performance, and how to 
+reshape their organizations to suit evolving consumer needs and changing competitive 
+landscapes. The course draws upon cutting edg e research and examples from a broad array of 
+industries, including business services, entertainment, financial services, food services, 
+government, healthcare, hospitality, retail, and transportation. 
+HADM3030 Hospitality Planning and Development 
+ 
+Credits: 3 
+Students are introduced to the issues and opportunities inherent in the development and planning 
+of hospitality facilities, specifically hotels and restaurants. Course components include the project 
+development sequence, conceptual and space planning, architectural design criteria, construction 
+management, and the interpretation of architectural design and consultant drawings. There is an 
+emphasis on setting appropriate facilities requirements, understanding industry practice, and 
+implementing properties decisions within a balanced design, operations, and financial framework. 
+ 
+2.5.9 Electives 
+ 
+MANA4150: Business Research Methods 
+Pre-requisite: STAT2020 
+Credits: 3 
+Building on Principles of Research Design, this course aims to extend and deepen the understanding 
+of different research approaches and methodologies in order to prepare students for their own 
+research projects in their business discipline. This course wil l assist students in identifying,  
+
+=== p36 ===
+39 | P a g e  
+discussing and formulating a research problem, in selecting and applying appropriate research 
+approaches and  methods of  inquiry (both quantitative or  qualitative), and  in presenting their  
+results. Successful completion of this course  should be sufficient for students to undertake a 
+research project. 
+ 
+3 APPENDICES 
+Appendix 1: Mapping of VinUni generic graduate attributes and learning goals 
+Appendix 2: Rubrics for each learning goals 
+
+=== p37 ===
+34 | P a g e  
+ 
+Appendix 1: MAPPING OF VINUNI GENERIC GRADUATE ATTRIBUTES AND LEARNING GOALS 
+ 
+ Program Learning Goals 
+ 
+ 
+ 
+ 
+Vin Uni Graduate 
+Attributes 
+PLG1 - Graduates will 
+have an understanding of 
+ethical action, integrity, 
+responsibility and the 
+obligations of being a 
+business professional. 
+PLG2 - Graduates 
+will have 
+independence of 
+mind in decision 
+making and 
+opinion forming, 
+working either 
+individually or 
+within a team. 
+PLG3 - Graduates will 
+have a knowledge of 
+the broad business 
+environment and 
+specific business 
+specialties and an 
+applied 
+understanding of its 
+integration in 
+business generally. 
+PLG 4 - Graduates 
+will be capable of 
+identifying, 
+analyzing and 
+evaluating 
+business data 
+from diverse 
+sources in 
+decision making. 
+PLG 5 - Graduates 
+will have an 
+understanding of 
+the role of 
+Vietnamese history 
+and culture in the 
+evolution of the 
+Vietnamese 
+business 
+environment. 
+PLG 6 - Graduates 
+will have a broad 
+understanding of the 
+Vietnamese 
+economy and its 
+relativity to global 
+economies. 
+EMPATHY ✓  ✓  ✓ ✓ 
+EXCEPTIONAL 
+CAPABILITIES 
+ ✓ ✓ ✓ ✓ ✓ 
+CREATIVITY  ✓  ✓   
+LEADERSHIP SPIRIT ✓ ✓   ✓ ✓ 
+ENTREPRENEURSHIP 
+MINDSET 
+✓ ✓   ✓ ✓ 
+
+=== p38 ===
+35 | P a g e  
+Appendix 2: RUBRICS FOR EACH LEARNING GOALS 
+Program Learning Goal 1 (PLG1): Graduates will have an understanding of ethical action, 
+integrity, responsibility and the obligations of being entrepreneurially minded business 
+professionals. 
+ 
+PLO 1.1: Have an awareness of ethical principles and practices of entrepreneurially minded 
+business professionals. 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Identify ethical 
+principles and 
+practices for 
+application: 
+Identify the relevant 
+ethical principles and 
+practices for the 
+situation. 
+Fails to exhibit an 
+awareness of 
+ethical principles 
+and practices nor 
+their potential 
+incidence in 
+business. 
+Exhibits an 
+awareness of ethical 
+principles and 
+practices and their 
+potential application 
+in business. 
+Demonstrates a clear 
+understanding of 
+ethical principles and 
+practices and their 
+consistently correct 
+application in 
+business. 
+ PLO 1.2: Identify issues of integrity and appropriate courses of action in a business setting  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Identify situation 
+when integrity issue 
+arises and action to be 
+taken to maintain 
+integrity: 
+Distinguish situations 
+in which an integrity 
+challenge arises and 
+the relevant integrity 
+action for application 
+in the situation. 
+Fails to exhibit an 
+awareness of 
+situations giving 
+rise to integrity 
+issues nor the 
+potential actions 
+required to 
+maintain integrity 
+in business. 
+Exhibits an 
+awareness of 
+situations giving rise 
+to integrity issues 
+and the potential 
+actions required to 
+maintain integrity in 
+business. 
+Demonstrates a clear 
+understanding of 
+situations giving rise 
+to integrity issues 
+and the requisite 
+actions required to 
+maintain integrity in 
+business. 
+PLO 1.3: Have an understanding of the role and responsibilities of being an entrepreneurially  
+minded business professional 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Rationalize the role 
+and responsibility of 
+the entrepreneurially- 
+minded business 
+professional in the 
+situation where a 
+challenge to 
+professionalism 
+occurs: 
+Consider range of 
+outcomes and logically 
+comprehend. 
+Fails to exhibit an 
+awareness of the 
+role and 
+responsibility of the 
+entrepreneurially- 
+minded business 
+professional nor the 
+possible courses of 
+action should a 
+challenge to 
+professionalism 
+occur. 
+Exhibits an 
+awareness of the role 
+and responsibility of 
+the entrepreneurially 
+-minded business 
+professional and the 
+possible courses of 
+action should a 
+challenge to 
+professionalism 
+occur. 
+Demonstrates a clear 
+understanding of the 
+role and 
+responsibility of the 
+entrepreneurially- 
+minded business 
+professional and the 
+appropriate course of 
+action should a 
+challenge to 
+professionalism 
+occur. 
+
+=== p39 ===
+36 | P a g e  
+Program Learning Goal 2 (PLG2): Graduates will have independence of mind in decision 
+making and opinion forming, working either individually or within a team 
+ 
+PLO 2.1: Have an understanding of the importance of individual opinion for a business 
+professional 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Rationalize the 
+application of 
+independence of mind in 
+a situation where 
+independence of mind 
+may be required: 
+Consider range of option 
+and logically 
+comprehend. 
+Fails to understand 
+or model 
+independence of 
+mind in situations 
+where required. 
+Understands and 
+models 
+independence of 
+mind in situations 
+where required. 
+Logically 
+comprehends and 
+actively models 
+independence of 
+mind in situations 
+where required. 
+ PLO 2.2: Be capable of leading and participating in teams to achieve tangible outcomes  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Apply team skills to 
+making collective 
+decisions: 
+Articulate principles and 
+practice of team work to 
+decision making. 
+Demonstrates a lack 
+of contribution to 
+the team and does 
+not facilitate a 
+collaborative team 
+environment. 
+Demonstrates a 
+contribution to the 
+team and facilitates 
+a collaborative team 
+environment. 
+Demonstrates an 
+active contribution to 
+the team and 
+positively facilitates a 
+collaborative team 
+environment. 
+ PLO 2.3: Demonstrate effective interpersonal skills  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Exhibit an awareness of 
+the effectiveness of 
+verbal and non-verbal 
+communication skills 
+applied: 
+Consider the impact of 
+verbal and non-verbal 
+communication upon the 
+recipient. 
+Fails to 
+demonstrate verbal 
+and non -verbal 
+communication 
+skills. 
+Demonstrates 
+verbal and non - 
+verbal 
+communication 
+skills. 
+Effectively applies 
+verbal and non - 
+verbal 
+communication skills. 
+ 
+Program Learning Goal 3 (PLG3): Graduates will have a knowledge of the broad business 
+environment and specific business specialties and an applied understanding of their 
+integration in business generally 
+ PLO 3.1: Have a comprehension of core business knowledge  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehends core 
+business processes such 
+as accounting, economics, 
+finance, information 
+processing technology, 
+management, marketing 
+and quantitative methods: 
+Articulate the basis of such 
+core business processes. 
+Fails to understand 
+the core business 
+processes nor their 
+interactions. 
+Understands each 
+business process 
+and appreciates 
+that interactions 
+exist between each. 
+Logically 
+comprehends each 
+core business 
+process and fully 
+understands their 
+respective 
+interactions. 
+
+=== p40 ===
+37 | P a g e  
+ PLO 3.2: Exhibit a detailed understanding of business-specialty knowledge  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehend business 
+specialties, occupation 
+and strategy: 
+Articulate the basis of such 
+business specialty 
+principles. 
+Fails to understand 
+key business 
+specialty principles 
+nor their 
+interactions. 
+Understands 
+business specialties 
+and appreciates 
+that interactions 
+exist. 
+Logically 
+comprehends each 
+business specialty 
+principle and fully 
+understands their 
+respective 
+interactions. 
+PLO 3.3: Be capable of modelling the soft skills required in the business environment and  
+profession 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehend the practice 
+of presentation, co- 
+operative working, public 
+speaking, persuasion and 
+influencing and 
+leadership skills: 
+Demonstrate such skills. 
+Fails to 
+demonstrate soft 
+skills in 
+professional 
+interactions. 
+Demonstrates soft 
+skills in 
+professional 
+interactions. 
+Effectively applies 
+the full range of soft 
+skills in 
+professional 
+interactions. 
+ 
+Program Learning Goal 4 (PLG4): Graduates will be capable of identifying, analyzing and 
+evaluating business data from diverse sources in decision making 
+ PLO 4.1: Be capable of applying evidence-based reasoning  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Identify, analyze, evaluate 
+and rationalize evidence 
+and draw conclusions 
+from such evidence: 
+Present a logical route 
+from identification to 
+conclusion which is 
+evidentiary based. 
+Fails to identify, 
+analyze and 
+evaluate evidence 
+in order to draw 
+rationally based 
+conclusions. 
+Capable of 
+identifying, 
+analyzing and 
+evaluating evidence 
+in order to draw 
+rationally based 
+conclusions. 
+Confidently 
+synthesizes 
+evidence to draw 
+rationally based 
+conclusions. 
+ PLO 4.2: Apply interdisciplinary knowledge appropriately in a business context  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Identify, analyze and 
+rationalize relevant 
+discipline knowledge to 
+draw inter-disciplinary 
+conclusions in a business 
+context: 
+Consider range of 
+discipline knowledge and 
+logically comprehend. 
+Fails to understand 
+knowledge from 
+relevant disciplines 
+nor that 
+interactions exist. 
+Understands 
+knowledge from 
+relevant disciplines 
+and appreciates 
+that interactions 
+exist. 
+Logically 
+comprehends 
+knowledge from 
+relevant disciplines 
+and fully 
+understands the 
+various 
+interactions. 
+
+=== p41 ===
+38 | P a g e  
+ 
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Identify and rationalize 
+the contribution of each 
+of fact, supposition and 
+assumption to decision 
+making: 
+Consider range of fact, 
+supposition and 
+assumption and logically 
+comprehend. 
+Unable to 
+distinguish facts 
+from suppositions 
+from assumptions 
+nor to address the 
+relevance of each in 
+decision making. 
+Ability to 
+distinguish facts 
+from suppositions 
+from assumptions 
+and exhibit 
+awareness of the 
+relevance of each in 
+decision making. 
+Capable of 
+practically 
+distinguishing facts 
+from suppositions 
+from assumptions 
+and consciously 
+considers relevance 
+of each in decision 
+making. 
+ 
+Program Learning Goal 5 (PLG5): Graduates will have an understanding of the role of 
+Vietnamese history and culture in the evolution of the Vietnamese business environment 
+ PLO 5.1: Have a broad understanding of the structure of the Vietnamese business environment  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehend the 
+interaction of the 
+Vietnamese economy 
+and the Vietnamese 
+business environment: 
+Articulate the 
+economic/capital/finan 
+cial markets 
+interaction in 
+contemporary Vietnam. 
+Fails to understand 
+the role and 
+contribution of the 
+economy, capital 
+and financial 
+markets to the 
+business 
+environment in 
+Vietnam nor that 
+interactions exist. 
+Understands the role 
+and contribution of 
+the economy, capital 
+and financial markets 
+to the business 
+environment in 
+Vietnam and 
+appreciates that 
+interactions exist. 
+Logically 
+comprehends the 
+role and contribution 
+of the economy, 
+capital and financial 
+markets to the 
+business 
+environment in 
+Vietnam and fully 
+understands the 
+various interactions 
+between each. 
+PLO 5.2: Have an awareness of how Vietnamese history and culture impact upon the Vietnamese  
+business environment. 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehend the role 
+of colonial market 
+structures and 
+contemporary 
+government structures 
+on the contemporary 
+business environment: 
+Identify colonial 
+market structures and 
+contemporary 
+government structures 
+and assess their role in 
+today’s business 
+environment. 
+Fails to understand 
+the contributions of 
+colonial market and 
+contemporary 
+government 
+structures to 
+Vietnam’s business 
+environment nor 
+that interactions 
+exist. 
+Understands the 
+contributions of 
+colonial market and 
+contemporary 
+government 
+structures to 
+Vietnam’s business 
+environment and 
+appreciates that 
+interactions exist. 
+Logically 
+comprehends the 
+contributions of 
+colonial market and 
+contemporary 
+government 
+structures to 
+Vietnam’s business 
+environment and the 
+various interactions 
+between each. 
+PLO 4.3: Have an understanding of the roles of fact, supposition and assumption in the decision- 
+making process 
+
+=== p42 ===
+39 | P a g e  
+ 
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehend the role 
+of Vietnamese central 
+government and local 
+government in the 
+regulation and 
+operation of 
+businesses: 
+Identify government’s 
+role in today’s real 
+estate market 
+regulation and 
+operation. 
+Fails to understand 
+the contributions of 
+central and local 
+government to 
+Vietnam’s business 
+environment nor 
+that interactions 
+exist. 
+Understands the 
+contributions of 
+central and local 
+government to 
+Vietnam’s business 
+environment and 
+appreciates that 
+interactions exist. 
+Logically 
+comprehends the 
+contributions of 
+central and local 
+government to 
+Vietnam’s business 
+environment and the 
+various interactions 
+between each. 
+ 
+Program Learning Goal 6 (PLG6): Graduates will have a broad understanding of how the 
+Vietnamese economy relates to all economies in the Asia Pacific Economic Cooperation 
+(APEC) region including the US, China, Japan and ASEAN 
+ PLO 6.1: Demonstrate an awareness of the key characteristics of APEC economies  
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehend the 
+characteristics of the 
+Vietnamese economy 
+in the APEC 
+economies: 
+Articulate the role of 
+the Vietnamese 
+economy in the APEC 
+economies. 
+Fails to understand 
+the characteristics 
+of the Vietnamese 
+economy in the 
+APEC economies 
+nor that 
+interactions exist. 
+Understands the 
+characteristics of the 
+Vietnamese economy 
+in the APEC 
+economies and 
+appreciates that 
+interactions exist. 
+Logically 
+comprehends 
+characteristics of the 
+Vietnamese economy 
+in the APEC 
+economies and the 
+various interactions 
+between each. 
+ 
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehend the 
+structure and 
+operation of the 
+Vietnamese economy 
+in APEC economies: 
+Articulate the real 
+estate, capital and 
+financial markets 
+structure and 
+operation in western 
+countries. 
+Fails to understand 
+the structure and 
+operation of the 
+Vietnamese 
+economy in APEC 
+economies nor that 
+interactions exist. 
+Understands the 
+structure and 
+operation of the 
+Vietnamese economy 
+in APEC economies 
+and appreciates that 
+interactions exist. 
+Logically the 
+structure and 
+operation of the 
+Vietnamese economy 
+in APEC economies 
+and the various 
+interactions between 
+each. 
+PLO 5.3: Exhibit an understanding of the relationship between Vietnamese political structures and 
+the structure and operation of the Vietnamese business environment 
+PLO 6.2: Have an understanding of the interaction of the Vietnamese economy and APEC 
+economies. 
+
+=== p43 ===
+40 | P a g e  
+ 
+ 
+Criterion Below Expectations Meets Expectations Exceeds Expectation 
+Comprehend the 
+structure, operation 
+and interaction 
+between the 
+Vietnamese economy 
+and APEC economies: 
+Articulate the overlaps 
+and gaps between the 
+Vietnamese economy 
+and APEC economies. 
+Fails to understand 
+the respective 
+structures and 
+operation of the 
+Vietnamese 
+economy and APEC 
+economies nor that 
+interactions exist. 
+Understands the 
+respective structures 
+and operation of the 
+Vietnamese economy 
+and APEC economies 
+and appreciates that 
+interactions exist. 
+Logically 
+comprehends the 
+respective structures 
+and operation of the 
+Vietnamese economy 
+and APEC economies 
+and the various 
+interactions between 
+each. 
+ 
+PLO6.3: Exhibit an awareness of the differences between the structure of the Vietnamese economy 
+and the structures of APEC economies 

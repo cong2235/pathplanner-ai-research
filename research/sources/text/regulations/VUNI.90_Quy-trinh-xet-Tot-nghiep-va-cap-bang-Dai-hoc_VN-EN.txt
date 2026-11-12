@@ -1,0 +1,858 @@
+=== p1 ===
+2024-11-12 VinUniversity - All Rights Reserved 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Theo dõi lịch sử tài liệu 
+  
+Phiên bản Ngày phát hành Ngày hiệu lực Phê duyệt Mô tả thay đổi 
+V1.0 12/11/2024 07/11/2024 
+Soạn thảo: Phòng Quản lý Đào tạo 
+Thẩm định: Phó Hiệu trưởng Vận hành Học thuật 
+Phê duyệt: Hiệu trưởng 
+Phát hành lần đầu 
+  
+ 
+  
+ 
+QUY TRÌNH XÉT TỐT NGHIỆP VÀ CẤP BẰNG ĐẠI HỌC 
+CHÍNH QUY CỦA TRƯỜNG ĐẠI HỌC VINUNI 
+Mã văn bản : VUNI.90 
+Ngày phát hành : 12/11/2024  
+Ngày hiệu lực : 07/11/2024  
+Phạm vi áp dụng  : Toàn trường 
+Mức độ truy cập : Công khai 
+
+
+=== p2 ===
+2024-11-12 VinUniversity - All Rights Reserved 2 
+1. MỤC ĐÍCH 
+ 
+Quy trình được xây dựng nhằm chuẩn hóa các bước thực hiện trong quá trình xét, công nhận 
+tốt nghiệp và cấp bằng tốt nghiệp cho sinh viên, đảm bảo tính thống nhất và chất lượng trong quá 
+trình cấp bằng, tạo cơ sở pháp lý cho việc quản lý và cấp bằng theo quy định.  
+2. ĐỐI TƯỢNG VÀ PHẠM VI ÁP DỤNG 
+ 
+2.1 Đối tượng áp dụng: Sinh viên có hình thức đào tạo hệ chính quy bậc Đại học đã hoàn thành 
+chương trình đào tạo và đủ điều kiện xét tốt nghiệp; các Viện đào tạo; Phòng Quản lý Đào tạo, 
+Hội đồng xét tốt nghiệp và cấp bằng. 
+2.2 Phạm vi áp d ụng: Áp dụng trong toàn b ộ quá trình xét, công nh ận tốt nghiệp và c ấp bằng 
+trình độ Đại học cho tất cả các chuyên ngành đào tạo hệ chính quy tại VinUni. 
+3. CĂN CỨ PHÁP LÝ 
+ 
+a) Quyết định số 1824/QĐ-TTg ngày 17 tháng 12 năm 2019 của Thủ tướng Chính phủ về 
+việc thành lập Trường Đại học VinUni;  
+b) Luật Giáo dục đại học ngày 18 tháng 06 năm 2012; Luật sửa đổi, bổ sung một số điều của 
+Luật giáo dục đại học ngày 19 tháng 11 năm 2018 và Nghị định 99/2019/NĐ-CP ngày 30 
+tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều 
+của Luật sửa đổi, bổ sung một số điều của Luật giáo dục đại học; 
+c) Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 03 năm 2021 của Bộ Giáo dục và Đào 
+tạo về việc ban hành Quy chế Đào tạo trình độ Đại học; 
+d) Thông tư số 21/2019/TT-BGDĐT ngày 29 tháng 11 năm 2019 của Bộ Giáo dục và Đào 
+tạo về việc ban hành Quy chế quản lý bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp 
+trung học phổ thông, bằng tốt nghiệp trung cấp sư phạm, bằng tốt nghiệp cao đẳng sư 
+phạm, văn bằng giáo dục Đại học và chứng chỉ của hệ thống giáo dục quốc dân; 
+e) Quy chế Quản lý văn bằng, chứng chỉ ban hành ngày 01 tháng 07 năm 2023 của Trường 
+Đại học VinUni.  
+f) Quy chế Đào tạo Đại học hiện hành của Trường Đại học VinUni; 
+ 
+4. CÁC TỪ VIẾT TẮT 
+ 
+- CTĐT  : Chương trình Đào tạo 
+- DSSV  : Danh sách sinh viên 
+- GDQP-AN  : Giáo dục Quốc phòng – An ninh 
+- GV   : Giảng viên 
+- P.CTSV  : Phòng Công tác Sinh viên 
+- P.QLĐT  : Phòng Quản lý Đào tạo 
+- P.TCKT  : Phòng Tài chính Kế toán 
+- QĐ   : Quyết định 
+- SV   : Sinh viên 
+- THPT  : Trung học phổ thông 
+
+=== p3 ===
+2024-11-12 VinUniversity - All Rights Reserved 3 
+5. QUY TRÌNH 
+5.1. Lưu đồ quy trình 
+  
+Thành lập Hội đồng xét tốt 
+nghiệp 
+Xây dựng kế hoạch xét tốt nghiệp năm 
+Hoàn thành kết quả đánh giá học phần học kỳ 
+Thông báo tiếp nhận hồ sơ xét tốt nghiệp 
+Sinh viên đăng ký xét 
+tốt nghiệp 
+Điều chỉnh 
+(nếu có) 
+Kiểm tra các chứng chỉ, điều kiện tốt nghiệp; cập nhật 
+hồ sơ, chứng chỉ hợp lệ, đúng quy định 
+Tính điểm trung bình và xét hạng tốt nghiệp dự kiến 
+
+=== p4 ===
+2024-11-12 VinUniversity - All Rights Reserved 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Họp Hội đồng xét tốt nghiệp (cấp Viện) 
+Điều chỉnh 
+(nếu có) 
+Công bố DSSV và kiểm tra 
+thông tin SV đủ điều kiện 
+tốt nghiệp 
+Họp Hội đồng xét tốt nghiệp (cấp Trường) 
+Quyết định công nhận tốt nghiệp và cấp bằng 
+Cấp giấy chứng nhận tốt nghiệp tạm thời 
+In bằng tốt nghiệp và phụ lục văn bằng 
+Nhận bàn giao và phát bằng tốt nghiệp, phụ lục văn 
+bằng cho SV 
+Lưu trữ hồ sơ và thực hiện 
+chế độ báo cáo 
+
+=== p5 ===
+2024-11-12 VinUniversity - All Rights Reserved 5 
+5.2. Mô tả quy trình chi tiết 
+ 
+STT Nội dung chi tiết Trách nhiệm Thời gian  
+thực hiện 
+1 
+Thành lập Hội đồng xét và công nhận tốt nghiệp của 
+năm. 
+Thành viên Hội đồng: 
+- Hiệu trưởng – Chủ tịch Hội đồng 
+- Phó Hiệu trưởng phụ trách lĩnh vực học thuật – Phó 
+Chủ tịch 
+- Viện trưởng/ Viện phó các Viện đào tạo 
+- Giám đốc các chương trình đào tạo 
+- Trưởng các đơn vị: Phòng Quản lý Đào tạo, Phòng 
+Công tác sinh viên 
+- Các thư ký 
+[Biểu mẫu 01. Quyết định thành lập Hội đồng xét tốt 
+nghiệp] 
+P.QLĐT 
+Tháng 1 hàng 
+năm 
+Hoặc khi có 
+thay đổi nhân 
+sự theo quyết 
+định đã ban 
+hành 
+2 
+Lên kế hoạch xét và công nhận tốt nghiệp được xây 
+dựng theo năm. 
+- Nội dung công việc 
+- Trách nhiệm cá nhân, đơn vị thực hiện 
+- Thời gian thực hiện 
+Kế hoạch xét tốt nghiệp ngay sau khi được thông qua 
+phải được công bố cho sinh viên qua các hình thức 
+email/website. 
+[Biểu mẫu 02. Kế hoạch xét tốt nghiệp] 
+P.QLĐT Tháng 1 hàng 
+năm 
+3 
+Lập danh sách sinh viên dự kiến tham gia xét tốt 
+nghiệp và tiến hành tự động xét tốt nghiệp lần đầu để 
+xác định sinh viên đủ điều kiện tốt nghiệp trong năm. 
+[Biểu mẫu 03. Danh sách sinh viên tham gia xét tốt 
+nghiệp] 
+P.QLĐT Tháng 2 hàng 
+năm 
+4 
+Giảng viên/Viện hoàn thành các kết quả học tập của 
+sinh viên dự kiến tốt nghiệp và gửi bảng điểm chính thức 
+về P.QLĐT. 
+GV/ 
+P.QLĐT 
+Theo thời 
+gian quy định 
+5 
+Nộp đơn xét tốt nghiệp và kiểm tra thông tin cá nhân 
+ghi trên văn bằng và kết quả học tập trên phụ lục văn 
+bằng, tự rà soát các điều kiện xét tốt nghiệp để xác định 
+đủ điều kiện hay không theo hướng dẫn của P.QLĐT. 
+[Biểu mẫu 04. Đơn xin xét tốt nghiệp] 
+[Biểu mẫu 05. Degree audit checklist] 
+Lưu ý:   
+- SV không có tên trong danh sách, đã tích lũy đủ điều 
+kiện tốt nghiệp và có nguyện vọng xét tốt nghiệp sớm 
+hoặc SV có tên trong danh sách, đã tích lũy đủ điều 
+kiện tốt nghiệp nhưng không có nguyện vọng xét tốt 
+nghiệp có thể đăng ký xét tốt nghiệp hoặc hoãn xét tốt 
+nghiệp với Phòng QLĐT theo hướng dẫn.   
+SV 
+P.QLĐT 
+Tháng 3 hàng 
+năm (04 tuần) 
+
+=== p6 ===
+2024-11-12 VinUniversity - All Rights Reserved 6 
+- Sinh viên có tên trong danh sách nhưng chưa thực 
+hiện học phần tốt nghiệp hoặc chưa tích lũy đủ điều 
+kiện tốt nghiệp không cần đăng ký HOÃN xét tốt 
+nghiệp.  
+6 
+Kiểm tra các chứng chỉ và điều kiện tốt nghiệp: 
+- Hoàn thành và tích lũy đúng, đủ học phần, số tín chỉ 
+theo yêu cầu của CTĐT. 
+- Đảm bảo SV đã hoàn thành nghĩa vụ tài chính đối với 
+Nhà trường. 
+- Đảm bảo cho đến thời điểm xét tốt nghiệp, SV không 
+trong thời gian bị truy cứu trách nhiệm hình sự hoặc 
+không trong thời gian bị kỷ luật ở mức đình chỉ học tập. 
+- Đảm bảo SV đủ điều kiện tốt nghiệp đã hoàn thành các 
+nghĩa vụ trả sách/tài liệu học tập, trang thiết bị mượn 
+Thư viện. 
+- Đảm bảo SV đủ điều kiện về chứng chỉ và chuẩn đầu ra 
+theo yêu cầu của Bộ: 
++ Bằng tốt nghiệp THPT 
++ Chuẩn đầu ra Ngoại ngữ 
++ Chứng chỉ tin học/tương đương 
++ Giáo dục Quốc phòng – An ninh 
++ Giáo dục Thể chất 
+[Biểu mẫu 06. Biên bản xác nhận kiểm tra chuẩn đầu ra 
+từ các bên] 
+P.QLĐT 
+P.TCKT 
+P.CTSV 
+Thư viện 
+Tháng 4 hàng 
+năm 
+ 
+Tháng 7 cập 
+nhật KQ các 
+trường hợp 
+phát sinh 
+7 
+Xét tốt nghiệp cấp Viện: 
+- Hướng dẫn SV và giải đáp các vấn đề liên quan 
+- Phối hợp xét tốt nghiệp cấp Viện 
+- Kiểm tra, tổng hợp danh sách SV đủ điều kiện tốt 
+nghiệp 
+- Phối hợp rà soát xét hạng tốt nghiệp của SV theo quy 
+chế đào tạo 
+[Biểu mẫu 07. Biên bản họp Hội đồng xét tốt nghiệp cấp 
+Viện] 
+Thành viên Hội 
+đồng cấp Viện 
+P.QLĐT 
+Tháng 5 hàng 
+năm (01 tuần 
+làm việc) 
+ 
+Tháng 7 cập 
+nhật KQ các 
+trường hợp 
+phát sinh 
+8 
+Xét tốt nghiệp cấp Trường: 
+- Họp Hội đồng xét tốt nghiệp cấp trường 
+- Hồ sơ họp xét tốt nghiệp theo danh mục quy định 
+[Biểu mẫu 08. Biên bản họp Hội đồng xét tốt nghiệp cấp 
+Trường (phiên kết thúc)] 
+Thành viên Hội 
+đồng cấp 
+Trường 
+P.QLĐT 
+Tháng 8 hàng 
+năm 
+9 
+Thông báo kết quả xét tốt nghiệp cho sinh viên qua 
+email hoặc website. Kiểm tra, xử lý và phản hồi nếu có 
+sai sót. 
+SV có thông tin bị sai nhưng không thực hiện sửa sai 
+phải tự chịu trách nhiệm với thông tin in trên văn bằng 
+tốt nghiệp. 
+P.QLĐT 
+Tháng 8 hàng 
+năm (01 tuần 
+làm việc) 
+10 
+Trình đề xuất về việc công nhận tốt nghiệp và cấp 
+bằng tốt nghiệp cho sinh viên.  
+Xin phê duyệt in bằng và phụ lục văn bằng theo phôi đã 
+được phê duyệt. 
+P.QLĐT 
+Ngay sau khi 
+hoàn thiện kết 
+quả công nhận 
+tốt nghiệp 
+
+=== p7 ===
+2024-11-12 VinUniversity - All Rights Reserved 7 
+[Biểu mẫu 09. Tờ trình về việc công nhận tốt nghiệp và 
+cấp bằng] 
+11 
+Báo cáo Ban Lãnh đạo về tổng quan khóa sinh viên tốt 
+nghiệp. 
+[Biểu mẫu 10. Báo cáo tổng quan về khóa sinh viên tốt 
+nghiệp] 
+P.QLĐT 
+Ngay sau khi 
+hoàn thiện kết 
+quả công nhận 
+tốt nghiệp 
+12 
+Ban hành Quyết định công nhận tốt nghiệp và cấp bằng 
+cho sinh viên đủ điều kiện theo quy định. 
+[Biểu mẫu 11. Quyết định công nhận tốt nghiệp và cấp 
+bằng] 
+Hiệu trưởng 
+P.QLĐT 
+07 ngày sau 
+khi hoàn thiện 
+kết quả công 
+nhận tốt 
+nghiệp 
+13 
+Cấp giấy chứng nhận tốt nghiệp tạm thời cho sinh viên 
+theo quy định. Sinh viên đăng ký nhận giấy chứng nhận 
+tốt nghiệp tạm thời khi có nhu cầu. 
+P.QLĐT 
+07 ngày sau 
+khi có QĐ 
+công nhận tốt 
+nghiệp và cấp 
+bằng 
+14 In bằng tốt nghiệp và phụ lục văn bằng theo quy định P.QLĐT 
+Trong vòng 
+01 tháng sau 
+khi có QĐ 
+công nhận tốt 
+nghiệp và cấp 
+bằng 
+15 
+Bàn giao bằng tốt nghiệp và phụ lục văn bằng (bảng 
+điểm) đã được ký và đóng dấu tại P.QLĐT 
+[Biểu mẫu 12. Sổ gốc cấp phát văn bằng] 
+P.QLĐT Theo quy định 
+16 
+Lưu trữ hồ sơ tốt nghiệp và thực hiện chế độ báo cáo để 
+theo dõi và quản lý 
+- Quyết định thành lập hội đồng xét tốt nghiệp 
+- Kế hoạch xét tốt nghiệp của năm 
+- Danh sách sinh viên đáp ứng đủ điều kiện xét tốt 
+nghiệp 
+- Biên bản kiểm tra chuẩn đầu ra 
+- Biên bản họp hội đồng cấp Viện và cấp Trường 
+- Tờ trình đề nghị cấp phát văn bằng 
+- Các quyết định công nhận tốt nghiệp và danh sách đính 
+kèm 
+- Báo cáo tổng quan về khóa tốt nghiệp 
+- Sổ gốc cấp phát văn bằng 
+- Báo cáo phôi sau khi sử dụng gửi về BGDĐT 
+P.QLĐT Theo quy định 
+ 
+5.3. Danh mục biểu mẫu kèm theo quy trình: 
+- Biểu mẫu 01. Quyết định thành lập Hội đồng xét tốt nghiệp 
+- Biểu mẫu 02. Kế hoạch xét tốt nghiệp 
+- Biểu mẫu 03. Danh sách sinh viên tham gia xét tốt nghiệp 
+- Biểu mẫu 04. Đơn xin xét tốt nghiệp 
+- Biểu mẫu 05. Degree audit checklist 
+- Biểu mẫu 06. Biên bản xác nhận kiểm tra chuẩn đầu ra từ các bên 
+
+=== p8 ===
+2024-11-12 VinUniversity - All Rights Reserved 8 
+- Biểu mẫu 07. Biên bản họp Hội đồng xét tốt nghiệp cấp Viện 
+- Biểu mẫu 08. Biên bản họp Hội đồng xét tốt nghiệp cấp Trường (phiên kết thúc) 
+- Biểu mẫu 09. Tờ trình về việc công nhận tốt nghiệp và cấp bằng 
+- Biểu mẫu 10. Báo cáo tổng quan về khóa sinh viên tốt nghiệp 
+- Biểu mẫu 11. Quyết định công nhận tốt nghiệp và cấp bằng 
+- Biểu mẫu 12. Sổ gốc cấp phát văn bằng 
+ 
+*Các biểu mẫu trên chỉ lưu hành nội bộ. Vui lòng liên hệ phòng Quản lý Đào tạo để được 
+hướng dẫn chi tiết. 
+6. HIỆU LỰC THI HÀNH 
+ 
+Quy trình này có hiệu lực từ ngày 07/11/2024. Trong quá trình thực hiện, nếu có vướng mắc, các 
+đơn vị đề xuất với Phòng Quản lý Đào tạo để sửa đổi, bổ sung cho phù hợp với tình hình thực 
+tế./. 
+ 
+
+=== p9 ===
+2024-11-12 VinUniversity - All Rights Reserved 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Record of Change 
+  
+Version Published 
+Date 
+Effective 
+Date 
+Approval Description 
+V1.0 12/11/2024 07/11/2024 
+Drafted by: Office of University Registrar 
+Reviewed by: Associate Vice Provost Academic 
+Administration 
+Approved by: Provost 
+First Release 
+  
+ 
+ 
+PROCEDURE FOR UNDERGRADUATE GRADUATION 
+REVIEW AND DEGREE CONFERRAL AT VINUNIVERSITY 
+Reference number : VUNI.90 
+Published Date : 12/11/2024 
+Effective Date : 07/11/2024 
+Applicable Department : VinUniversity 
+Access level : Public 
+
+
+=== p10 ===
+2024-11-12 VinUniversity - All Rights Reserved 10 
+ 
+ 
+1. PURPOSE 
+ 
+This procedure standardizes the steps in the process of graduation review and degree conferral 
+for students, ensuring consistency and quality in the degree -granting process and establishing a 
+legal framework for diploma management and issuance according to regulations. 
+2. SCOPE AND APPLICATION 
+ 
+2.1 Scope: This procedure applies to full -time undergraduate students who have completed their 
+academic program and meet graduation requirements; Colleges; Office of University Registrar, 
+Graduation Review Board Committee. 
+2.2 Application: This procedure applies to the entire process of graduation review and degree 
+conferral for all full-time undergraduate programs at VinUni. 
+3. LEGAL BASIS 
+ 
+a) Decision No. 1824/QD-TTg dated December 17, 2019, by the Prime Minister regarding 
+the establishment of VinUniversity; 
+b) Higher Education Law dated June 18, 2012; Amendments to the Higher Education Law 
+dated November 19, 2018, and Decree 99/2019/ND-CP dated December 30, 2019; 
+c) Circular No. 08/2021/TT-BGDDT dated March 18, 2021, by the Ministry of Education 
+and Training on Undergraduate Education Regulations; 
+d) Circular No. 21/2019/TT-BGDDT dated November 29, 2019, by the Ministry of 
+Education and Training on Management of Academic Credentials; 
+e) VinUniversity's Academic Credentials Management Regulations effective July 01, 2023; 
+f) VinUniversity's current Academic Regulations for Full-time Undergraduates. 
+ 
+4. ABBREVIATIONS 
+ 
+- FIN   : Finance and Accounting 
+- MOET  : Ministry of Education and Training 
+- NDE   : National Defense & Education 
+- QD   : Decision 
+- REG   : Office of University Registrar 
+- SAM   : Student Affairs Management 
+ 
+  
+
+=== p11 ===
+2024-11-12 VinUniversity - All Rights Reserved 11 
+5. PROCEDURES 
+5.1. Process Flow Diagram 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Establish Graduation Review 
+Board 
+Develop the master plan for graduation review of the 
+academic year 
+Complete course assessment results 
+Announce graduation application period 
+Students apply for 
+graduation review 
+Adjust  
+(if any) 
+Verify certificates, graduation requirements; update 
+valid documentation 
+Calculate GPA and preliminary degree classifications 
+
+=== p12 ===
+2024-11-12 VinUniversity - All Rights Reserved 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graduation Committee meeting at College-level 
+Adjust  
+(if any) 
+Publish student list and 
+verify information of 
+eligible graduates 
+Graduation Committee meeting at University-level 
+Issue Decision on graduation recognition and degree 
+conferral 
+Issue temporary graduation certificates 
+Print degrees and academic transcripts 
+Handover and distribute degrees and academic 
+transcripts to students 
+Archive documentation and 
+report 
+
+=== p13 ===
+2024-11-12 VinUniversity - All Rights Reserved 13 
+5.2. Detailed Process Description 
+ 
+No. Detailed content Responsibility Timeline 
+1 
+Establish the Graduation Review Board of the 
+academic year. 
+Committee members: 
+- Provost – President 
+- Vice Provost Academic Affairs – Vice Chair 
+- Dean/ Vice Dean of Colleges 
+- Program Directors 
+- Head of Departments: Office of University Registrar, 
+Student Affairs Management 
+- Secretaries 
+[Form 01. Decision on the Establishment of the 
+Graduation Review Board] 
+REG 
+January 
+annually 
+Or upon 
+personnel 
+changes 
+according to 
+issued 
+decisions 
+2 
+Develop the master plan for graduation review of the 
+academic year. 
+- Work content 
+- Individual and unit responsibilities 
+- Implementation timeline 
+The graduation review plan must be announced to 
+students via email/website after approval. 
+[Form 02. Graduation Review Master Plan] 
+REG January 
+annually 
+3 
+Create a preliminary list of students for graduation 
+review and conduct an initial automatic graduation 
+review to identify students eligible for graduation within 
+the academic year. 
+[Form 03. List of Students for Graduation Review] 
+REG February 
+annually 
+4 
+Faculty/College complete academic results of 
+prospective graduates and submit official grade books to 
+Office of University Registrar. 
+Faculty/ 
+REG As scheduled 
+5 
+Submit graduation application and verify personal 
+information on degree and academic results, self-review 
+graduation requirements according to Office of 
+University Registrar guidelines. 
+[Form 04. Graduation Review Application Form] 
+[Form 05. Degree Audit Checklist] 
+Notes:   
+- Students not on the list who have fulfilled graduation 
+requirements and wish to graduate early, or students 
+on the list who have fulfilled requirements but do not 
+wish to graduate may register for or defer graduation 
+review with the Office of University Registrar as 
+instructed. 
+- Students on the list who haven't completed their 
+capstone/graduation requirements do not need to 
+register for graduation deferral. 
+Students 
+REG 
+March 
+annually  
+(04 weeks) 
+
+=== p14 ===
+2024-11-12 VinUniversity - All Rights Reserved 14 
+6 
+Verify certificates and graduation requirements: 
+- Completion and accumulation of correct courses and 
+credits as required by the program. 
+- Ensure student has fulfilled financial obligations. 
+- Ensure student is not under criminal investigation or 
+academic suspension. 
+- Ensure eligible students have returned all library 
+books/materials/equipment. 
+- Ensure student meets certificate and exit requirements 
+according to MOET: 
++ High school diploma 
++ Foreign language requirements 
++ IT certificate or equivalent 
++ National Defense & Education certificate 
++ Physical Education  
+[Form 06. Exit Requirements Verification Minutes] 
+REG 
+FIN 
+SAM 
+Library 
+April annually 
+ 
+July update 
+for special 
+cases 
+7 
+Graduation review at College-level: 
+- Guide students and address related issues 
+- Coordinate College-level graduation review 
+- Review and compile a list of eligible graduates 
+- Review degree classifications according to academic 
+regulations 
+[Form 07. College-level Graduation Committee Meeting 
+Minutes] 
+College-level 
+Committee 
+members 
+REG 
+May annually 
+(01 working 
+week) 
+ 
+July update 
+for special 
+cases 
+8 
+Graduation review at University-level: 
+- University-level Graduation Committee meeting 
+- Graduation review documentation as required 
+[Form 08. University-level Graduation Committee 
+Meeting Minutes (final session)] 
+University-level 
+Committee 
+members 
+REG 
+August 
+annually 
+9 
+Announce graduation review results to students via 
+email or website. Review, process and respond to any 
+errors. 
+Note: Students who do not request correction of 
+incorrect information must take responsibility for 
+information printed on their degree. 
+REG 
+August 
+annually  
+(01 working 
+week) 
+10 
+Submit proposal for graduation recognition and 
+degree conferral.  
+Request approval for printing degrees and academic 
+transcripts according to approved templates. 
+[Form 09. Proposal for Graduation Recognition and 
+Degree Conferral] 
+REG 
+Immediately 
+after 
+finalizing 
+graduation 
+recognition 
+results 
+11 Report to Leadership on graduating class overview. 
+[Form 10. Graduating Class Overview Report] REG 
+Immediately 
+after 
+finalizing 
+graduation 
+recognition 
+results 
+
+=== p15 ===
+2024-11-12 VinUniversity - All Rights Reserved 15 
+12 
+Issue Decision on graduation recognition and degree 
+conferral for eligible students. 
+[Form 11. Decision on Graduation Recognition and 
+Degree Conferral] 
+Provost 
+REG 
+07 days after 
+finalizing 
+graduation 
+recognition 
+results 
+13 Issue temporary graduation certificates to students upon 
+request. REG 
+07 days after 
+Decision on 
+graduation 
+recognition 
+and degree 
+conferral 
+14 Print degrees and academic transcripts according to 
+regulations REG 
+Within 1 
+month after 
+Decision on 
+graduation 
+recognition 
+and degree 
+conferral 
+15 
+Handover degrees and diploma supplements (transcripts) 
+with signatures and seal at Office of University 
+Registrar. 
+[Form 12. Degree Issuance Record Book] 
+REG As regulated 
+16 
+Archive graduation documentation and implement 
+reporting requirements for monitoring and management: 
+- Decision establishing graduation review board 
+- Graduation review master plan 
+- List of students meeting graduation requirements 
+- Exit requirements verification minutes 
+- College-level and University-level committee meeting 
+minutes 
+- Proposal for degree issuance 
+- Graduation recognition decisions and students list 
+- Graduating class overview report 
+- Degree issuance record book 
+- Report on the number of used degree templates to 
+Ministry of Education and Training 
+REG As regulated 
+ 
+5.3. List of Associated Forms: 
+- Form 01. Decision on the Establishment of the Graduation Review Board 
+- Form 02. Graduation Review Master Plan 
+- Form 03. List of Students for Graduation Review 
+- Form 04. Graduation Review Application Form 
+- Form 05. Degree Audit Checklist 
+- Form 06. Exit Requirements Verification Minutes 
+- Form 07. College-level Graduation Committee Meeting Minutes 
+- Form 08. University-level Graduation Committee Meeting Minutes 
+- Form 09. Proposal for Graduation Recognition and Degree Conferral 
+
+=== p16 ===
+2024-11-12 VinUniversity - All Rights Reserved 16 
+- Form 10. Graduating Class Overview Report 
+- Form 11. Decision on Graduation Recognition and Degree Conferral 
+- Form 12. Degree Issuance Record Book 
+* These forms are for internal use only. Please contact Office of University Registrar for 
+further guidance.  
+6. IMPLEMENTATION 
+This procedure takes effect from 07/11/2024. During implementation, if there are any issues, 
+departments should propose amendments to the Office of University Registrar for appropriate 
+modifications based on practical situations./. 
+ 

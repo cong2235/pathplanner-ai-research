@@ -1,0 +1,1458 @@
+=== p1 ===
+1 
+ 
+ 
+ 
+CURRICULUM FRAMEWORK  
+BACHELOR OF SCIENCE IN MECHANICAL ENGINEERING 
+PROGRAM CODE: 7520103 
+ 
+Applicable for Cohort 2023 – 2027, Academic Year 2025-2026 
+ 
+(Decision No.481/2025/QĐ-VUNI dated August 15, 2025, by Provost of VinUniversity) 
+ 
+ 
+This curriculum framework has been reviewed and validated 
+by Cornell University 
+ 
+ 
+ 
+
+
+=== p2 ===
+2 
+Records of changes 
+Version Published 
+date 
+Effective 
+Date 
+Approved by Description of 
+changes 
+1.0 27/2/2024 27/2/2024 Developed by Curriculum Review Taskforce 
+Reviewed by College Academic Committee; 
+Scientific and Educational Committee  
+Approved by: Provost (Decision No. 
+89/2024/QĐ-VUNI dated Februry 27, 2024, 
+by Provost of VinUniversity).  
+First release for 
+Cohort 2023-2027 
+1.1 15/8/2025 15/8/2025 Developed by Curriculum Review Taskforce 
+Reviewed by College Academic Committee; 
+Scientific and Educational Committee  
+Approved by: Provost (Decision 
+No.480/2025/QĐ-VUNI dated August 15, 
+2025, by Provost of VinUniversity). 
+Cross-listing 
+ 
+  
+
+=== p3 ===
+3 
+Table of Contents 
+ 
+1. VINUNI GRADUATE ATTRIBUTES ................................ ................................ ..................  4 
+2. PROGRAM EXPECTED OUTCOMES ................................ ................................ ......... 4 
+2.1 Program Profile .............................................................................................. 4 
+2.2 Program Purpose ........................................................................................... 4 
+2.3 Program Educational Objectives  and  Student Outcomes .......................... 5 
+2.3.1 Program Educational Objectives ............................................................... 5 
+2.3.2 Student Outcomes ....................................................................................... 5 
+3. CURRICULUM STRUCTURE ................................ ................................ ...................... 6 
+3.1 Curriculum Composition ............................................................................... 6 
+3.2 Courses and Credit Distribution by Courses ................................................ 7 
+3.3 Curriculum Planner ...................................................................................... 11 
+3.4 Course Descriptions ..................................................................................... 14 
+ 
+  
+
+=== p4 ===
+4 
+1. VINUNI GRADUATE ATTRIBUTES 
+Generic graduate attributes are a set of skills, attributes, and values that all 
+learners should achieve regardless of discipline or field of study; should be 
+measurable and broad. The five Generic Graduate Attributes for VinUni, framed 
+around the EXCEL Model, are listed as below: 
+ 
+ 
+ 
+ 
+2. PROGRAM EXPECTED OUTCOMES 
+2.1 Program Profile 
+Name of the 
+program degree 
+Bachelor of Science in Mechanical engineering 
+ 
+Program duration to be completed in  4 years on a full-time basis 
+Total credits Option 1 Single major:  125 credits  
+Option 2  Major + minor in Robotics or Product Design 
+or Technopreneur or another minor: 140 credits 
+ 
+2.2 Program Purpose 
+The overall aim of the program is to nurture and develop young leaders in mechanical 
+engineering with clear direction and vision, creativity and sound personal values; who 
+pave the way for the development of science and technology, to increase labor 
+productivity and to benefit society. 
+ 
+
+
+=== p5 ===
+5 
+2.3 Program Educational Objectives  and  Student Outcomes 
+2.3.1 Program Educational Objectives 
+The educational objectives of the Bachelor of Science in Mechanical Engineering 
+program are that within a few years of graduation, a majority of our graduates will 
+demonstrate excellence in top graduate programs; or in technical and managerial 
+leadership t racks in technology -based industries or other sectors; or pursuing 
+entrepreneurial ventures. In these roles they will: 
+1. Apply basic knowledge of mechanical engineering principles and in -depth 
+knowledge of one area of concentration to solve a full range of technical and societal 
+problems; 
+2. Conceive, design, and realize products, systems, and services, while properly 
+respecting economic, environmental, cultural, safety, and ethical standards or 
+constraints; 
+3. Be leaders with an entrepreneurial mindset, effective communicators, and 
+informed decision makers as members of multidisciplinary teams, supporting 
+collaborative and inclusive environments; 
+4. Discover and apply new knowledge, and engage in life -long learning for the 
+profession of engineering; 
+5. Engage with their communities, profession, the nation, and the world. 
+2.3.2 Student Outcomes 
+1. An ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics; 
+2.    An ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors; 
+3.    An ability to communicate effectively with a range of audiences; 
+4.   An ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts; 
+5.   An ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives; 
+6.    An ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions; 
+7.    An ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies; 
+8.  An e ntrepreneurial mindset and a recognition of the importance of traditional 
+values, national pride and global awareness. 
+
+=== p6 ===
+6 
+3. CURRICULUM STRUCTURE 
+3.1 Curriculum Composition 
+No. Curriculum Components Number of 
+Credits 
+Credit 
+Distribution 
+(%/Total Credits) 
+I GENERAL EDUCATION  27 21.6% 
+I.1 University Core Requirement 12 9.6% 
+I.2 Distributional Requirement 12 9.6% 
+I.3 Co-curricular Learning 3 2.4% 
+II NATIONAL DEFENSE EDUCATION   
+III PROFESSIONAL EDUCATION 98 78.4% 
+III.1 College Core Requirement 41 32.8% 
+III.2 Major Core Requirement 17 13.6% 
+III.3 Major Foundation Requirement 15 12% 
+III.4 Area of Concentration (Elective) 12 9.6% 
+III.5 Free Electives  7  5.6% 
+III.6 Minor* 15  
+III.7 Co-op/Internship Non-credit 
+(640 hours)  
+III.8 Capstone Design  6 4.8% 
+ TOTAL (without minor) 125  100% 
+ TOTAL (with minor) 140  
+* In accordance with Ministry of Education and Training’s regulations, students have the option to 
+obtain a minor in a different area of study. A minor needs to have at least 15 credits that are not 
+already counted towards the major program. Information about the available minors is provided 
+here: LINK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== p7 ===
+7 
+3.2 Courses and Credit Distribution by Courses  
+No Code Name of Courses Total Credit Allocation 
+Theory Practice 
+I GENERAL EDUCATION (GenED) 27   
+I.1 University Core Requirement 12   
+1 ENGL1011 Fundamentals of Academic Writing 3   
+2 ENTR1021 Agile Innovation and Entrepreneurship 3   
+3 LEAD1031 Leadership and Teambuilding Boot 
+Camp 2   
+4 THINK1010 Critical and Creative Thinking 2   
+5 HASS1070 Cross Cultural Navigation 2   
+6 VCOR1021 Healthy Lifestyle 1 45 hrs   VCOR1022 Healthy Lifestyle 2 
+I.2 Distributional Requirement 12   
+1 HASS1010 Marxism-Leninism Political Economy 
+(Philosophy, Science and Society) 3   
+2 HASS1020 Marxism-Leninism Philosophy (Global 
+Political Economy) 2   
+3 HASS1030 Scientific Socialism (Politics and Social 
+Change) 2   
+4 HASS1041 Ho Chi Minh Ideology (Vietnam: History 
+and Cultures II) 2   
+5 HASS1050 History of the Communist Party 
+(Vietnam: History and Cultures I) 2   
+6 ARTS1010/
+MUSI1010 
+Art Courses 
+(Students select one course in the pool, 
+i.e. ARTS1010, MUSI1010) 
+1   
+I.3 Co-curricular Learning    
+1 VCOR1012
+A/B 
+OASIS (Orientation, Advising, Skills, 
+Identity & Diversity, and Spirit of Pay-it-
+Forward) 
+Non-
+credit   
+2 COSL1010 Community Service Learning 3   
+II 
+ 
+NATIONAL DEFENSE EDUCATION (as required by 
+the Government for Vietnamese citizens) 165 hrs   
+II PROFESSIONAL EDUCATION    
+III.1  College Core Requirement 41   
+1 MATH2010 Probability and Statistics 4 3 1 
+2 MATH1010 Calculus I 4 3 1 
+3 MATH1020 Calculus II       4 3 1 
+4 MATH2030 Differential Equations 3 2 1 
+
+=== p8 ===
+8 
+No Code Name of Courses Total Credit Allocation 
+Theory Practice 
+5 MATH2050 Linear Algebra 4 3 1 
+6 PHYS1010 Physics I 4 3 1 
+7 PHYS2020 Physics II 3 2 1 
+8 PHYS2030 Physics III 2 2 0 
+9 CHEM2010 Chemistry 3 2 1 
+10 CECS1010 Introduction to Engineering and 
+Computer Science 4 2 2 
+11 COMP1010 Introduction to Programming   4 2 2 
+12 LAW3010 Introduction to Law 2 2  
+III.2 Major Core requirement 17   
+1 MECE3010 Statics and Mechanics of Solids 4 3 1 
+2 MECE3020 Thermodynamics 3 3 0 
+3 MECE3030 Dynamics 3 3 0 
+4 MECE3040 Mechanical Synthesis 4 3 1 
+5 MECE3050 Introductory Fluid Mechanics 3 2 1 
+III.3 Major Foundation requirement 15   
+1 MECE4010 Heat Transfer 3 3 0 
+2 MECE3060 Mechatronics 3 2 1 
+3 MECE4020 System Dynamics and Control 3 2 1 
+4 MECE3070 Mechanics of Engineering Materials 3 2 1 
+5 MECE3080 
+Intelligent Physical Systems 
+(Interdisciplinary Engineering Design 
+Project) 
+3 2 1 (lab + 
+project) 
+III.4 Area of Concentration (Select one)    
+III.4.1 Automotive Engineering 12   
+1 MECE3090 Automotive Engineering 3 2 1 
+2 MECE4030 Hybrid Electric Vehicles  3 2 1 
+3 MECE4040 Vehicle Dynamics and Control 3 2 1 
+4 MECE4050 Internal Combustion Engines 3 2 1 
+III.4.2 Systems and Manufacturing 12   
+1 MECE3100 Introduction to Manufacturing Systems 3 2 1 
+2 MECE4060 Innovative Product Design via Digital 
+Manufacturing 3 2 1 
+3 MECE4070 Additive Manufacturing 3 2 1 
+4 MECE4080 Feedback Control Systems 3 2 1 
+III.4.3 Energy and Sustainability 12   
+
+=== p9 ===
+9 
+No Code Name of Courses Total Credit Allocation 
+Theory Practice 
+1 MECE3110 Wind Power 3 3  
+2 MECE4090 Sustainable Energy Systems 3 3  
+3 MECE4100 Combustion Processes 3 3  
+4 MECE4110 Design of Sustainable Systems 3 3  
+II.4.4 Mechatronics    
+1 MECE4120 Sensors and Actuators 4 3 1 
+2 ELEC4020 Embedded Systems 4 3 1 
+3 ELEC4060 Robotics and Automation 4 3 1 
+III.5 
+Free Electives (Students may select courses from the 
+list below, offered either by VinUniversity or by 
+accredited partner institutions) 
+7 
+  
+1 CECS2020 Seminar on Advanced Topics in 
+Engineering and Computer Science 1  1 
+2 UROP1010/ 
+20/30/40 
+Undergraduate Research Opportunities 
+Program 1/2/3/4 1  1 
+3 UROP1011/
+21/31/41 
+Undergraduate Research Opportunities 
+Program 1/2/3/4 0   
+III.6 Minor 15   
+III.7 Co-op/Internship  0   
+1 MECE3870 Internship  640 hrs   
+III.8 Capstone Design 6  6 
+1 MECE4890 Capstone Design  6  6 
+Important Note:  
+- Students need to fulfill at least 125 earned credits to graduate.  
+- International students are exempted from National Defense Education. However, they are still 
+required to take ideology courses, including History of the Communist Party, Ho Chi Minh Ideology, 
+Scientific Socialism, Marxism -Leninism Political Economy, Marxis m-Leninism Philosophy (In line 
+with Decision No. 494/QĐ-TTg, issued on June 24, 2002, by the Prime Minister. 
+- Starting from Academic Year 2024–2025 (AY24–25), certain courses within the General Education 
+Program will be offered for the last time before the University transitions to the Vincore Program. 
+- Students who do not take these courses in AY24 –25 will need to follow the alternative courses 
+offered from AY25–26, which include changes in credit distribution. Students are advised to review 
+these changes carefully and adjust your study plan accordingly to ensure you accumulate at least 
+120 credits to be eligible for graduation. 
+- Details of the changes are as follows: 
+ Courses offered in AY24-25 Alternative Courses offered in AY25-26 
+No. Course Code Course Title Credit Course Code Course Title Credit 
+1 ENGL1011 Fundamentals of 
+Academic Writing 
+3 ENGL10301 Academic and Professional 
+Writing 
+2 
+ 
+1 Students of cohort 2023 and earlier who haven’t completed ENGL1011 in AY24-25 are required to take ENGL1030 with 
+2-credit recognition only. 
+
+=== p10 ===
+10 
+2 ARTS1010 
+MUSI1010 
+Art Courses 1 ARTS10302 Arts Appreciation and 
+Application 
+2 
+3 COSL1010 Community Service 
+Learning 
+3 COSL10103 Community Service 
+Learning 
+Non-
+credit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+2 Students of cohort 2023 and earlier complete half a semester, which is equivalent to the 1-credit course of 
+ARTS1010/MUSI1010 
+3  Students of cohort 2023 and earlier can claim credits or not, depending on the level of coursework submitted to course 
+instructors. 
+
+=== p11 ===
+11 
+3.3 Curriculum Planner 
+ There are two tracks: Main track and Pathway English track (for students who 
+need to improve English requirement) 
+ 
+Program frame work (Main track) 
+ 
+ 
+ 
+Program frame work (Pathway track) 
+  
+
+
+=== p12 ===
+12 
+❖ Main track  
+  
+GenED 
+Core
+College 
+Core
+Major core 
+and 
+Foundation
+Area of 
+Concentration
+Free 
+Electives/
+Minor
+Practice/
+Internship
+Graduatio
+n Thesis/
+Capstone
+Year 1 Fall Calculus I 4
+Introduction to Programming 4
+Introduction to Engineering and CS 4
+Agile Innovation & Entrepreneurship 3
+Academic English 3
+OASIS Non-Credit
+Healthy Lifestyle 1 Non-Credit
+   Total Semester Credits 18
+Year 1 Spring Calculus II    4
+Physics I 4
+Chemistry 3
+Critical Thinking 2
+Cross-cultural Navigation 2
+Leadership Development 2
+Healthy Lifestyle 2 Non-Credit
+   Total Semester Credits 17
+Summer 1 HASS course 1 3
+HASS course 2 2
+HASS course 3 2
+   Total Semester Credits 7
+Year 2 Fall Differential Equations 3
+Physics II 3
+Probability and Statistics 4
+Community Learning Service 3
+Arts 1
+Statics and Mechanics of Solids 4
+   Total Semester Credits 18
+Year 2 Spring Linear Algebra 4
+Physics III 2
+Dynamics 3
+Thermodynamics 3
+Mechatronics 3
+   Total Semester Credits 15
+Summer 2 Internship or exchange program Non Credit
+Year 3 Fall Mechanical Synthesis 4
+Introductory Fluid Mechanics 3
+Intelligent Physical Systems 
+(interdisciplinary Design project) 3
+Mechanics of Engineering Materials 3
+Heat Transfer 3
+Introduction to Law 2
+   Total Semester Credits 18
+Year 3 Spring
+   Total Semester Credits 0
+Summer 3 Internship or exchange No credit
+Year 4 Fall Capstone Design 3
+System Dynamics and Control 3
+Concentration 1 3
+Concentration 2 3
+HASS course 4 2
+Free Elective 1 3
+   Total Semester Credits 17
+Year 4 Spring Capstone  Design 3
+Concentration 3 3
+Concentration 4 3
+Free Elective 2 4
+HASS course 5 2
+   Total Semester Credits 15
+Total Program Credit Hours 125
+Credit Hour Distribution 27 39 32 12 7 0 6
+GenED 
+Core
+College 
+Core
+Major core 
+and 
+Foundation
+Area of 
+Concentration
+Free 
+Electives/
+Minor
+Practice/
+Internship
+Graduatio
+n Thesis/
+Capstone
+Co-op semester (No credit)
+Undergraduate Mechanical Engineering 
+Curriculum
+
+=== p13 ===
+13 
+❖ Pathway track: 
+ 
+ 
+  
+GenED 
+Core
+College 
+Core
+Major core and 
+Foundation
+Area of 
+Concentration
+Free Electives/
+Minor
+Practice/
+Internship
+Graduation 
+Thesis/
+Capstone
+Year 1 Fall Calculus I 4
+Introduction to Programming 4
+Introduction to Engineering and CS 4
+Pathway English Advanced A Non-Credit
+OASIS Non-Credit
+Healthy Lifestyle 1 Non-Credit
+   Total Semester Credits 12
+Year 1 Spring Calculus II    4
+Physics I 4
+Chemistry 3
+Leadership Boothcamp 2
+Pathway English Advanced B Non-Credit
+Healthy Lifestyle 2 Non-Credit
+   Total Semester Credits 13
+Summer 1 HASS course 1 3
+HASS course 2 2
+Academic English 3
+   Total Semester Credits 8
+Year 2 Fall Differential Equations 3
+Physics II 3
+Probability and Statistics 4
+Agile Innovation & Entrepreneurship 3
+HASS course 3 2
+Statics and Mechanics of Solids 4
+   Total Semester Credits 19
+Year 2 Spring Linear Algebra 4
+Physics III 2
+Critical Thinking 2
+Dynamics 3
+Thermodynamics 3
+Mechatronics 3
+   Total Semester Credits 17
+Summer 2 Internship or exchange program Non Credit
+Year 3 Fall Mechanical Synthesis 4
+Introductory Fluid Mechanics 3
+Intelligent Physical Systems 
+(interdisciplinary Design project) 3
+Mechanics of Engineering Materials 3
+Heat Transfer 3
+Introduction to Law 2
+Art 1
+   Total Semester Credits 19
+Year 3 Spring
+   Total Semester Credits 0
+Summer 3 Internship or exchange No credit
+Year 4 Fall Capstone Design 3
+System Dynamics and Control 3
+Concentration 1 3
+Concentration 2 3
+Community Learning Service 3
+Cross-cultural Navigation 2
+HASS course 4 2
+Free Elective 1 3
+   Total Semester Credits 22
+Year 4 Spring Capstone  Design 3
+Concentration 3 3
+Concentration 4 3
+Free Elective 2 4
+HASS course 5 2
+   Total Semester Credits 15
+Total Program Credit Hours 125
+Credit Hour Distribution 27 39 32 12 7 0 6
+GenED 
+Core
+College 
+Core
+Major core and 
+Foundation
+Area of 
+Concentration
+Free Electives/
+Minor
+Practice/
+Internship
+Graduation 
+Thesis/
+Capstone
+Co-op semester (No credit)
+Undergraduate Mechanical Engineering Curriculum
+
+=== p14 ===
+14 
+3.4 Course Descriptions 
+COSL1010 Community Service Learning 
+45 hours 
+Pre-requisite: N/A 
+The Introduction to Service-Learning is a P/F, course which aims to promote skill-
+building: reflection, empathy, teamwork, oral communication, written 
+communication (in your reflective journals), and attitudes: societal awareness and 
+social responsibility. Students can choose from different topics such as pollution, 
+teaching, or cultural preservation which change from year to year (see examples 
+below).  
+In addition, this class focuses on project-based activities during the 8 in-person 
+sessions and requires additional hours participating in a service-learning field 
+experience. 
+For this course, students will unpack their own motivations and identity related to 
+social issues using a public narrative and concepts related to civic engagement.  
+ 
+ARTS1030 Art Appreciation and Application 
+2 credits 
+Pre-requisite: N/A 
+On successful completion of this course, students will be able to: 
+1. Demonstrate an understanding and appreciation of arts and visual arts in general, 
+including their function, and historical, religious, cultural, social, and environmental 
+contexts and relevance;  
+2. Understand and define the basic principles of arts, visual arts, and design; explain 
+and analyze a work of art from an informed and objective viewpoint, its physical 
+attributes and formal construction;  
+3. Identify how art works are created and processed;  
+4. Make a reference to the significance and application of the arts in students’ own 
+field of studies and interests;  
+5. Analyze Vietnam arts and situate Vietnam arts in the global context. 
+ 
+ENGL1030 Academic and Professional Writing 
+Credit: 2 
+Pre-requisite: NA 
+On successful completion of this unit, students will be able to: 
+1. Identify and explain core attitudes, values, and practices of academic culture and 
+how academic writing reflects these. 
+
+=== p15 ===
+15 
+2. Reflect critically on the differences between academic and opinion writing and 
+apply this understanding in the composition of academic essays, including 
+referencing, quoting, and paraphrasing. 
+3. Evaluate the differences between academic and professional writing in terms of 
+style, purpose, target audience, and techniques. 
+4. Develop your clear, concise, and well-structured writing skills, focusing on the most 
+critical documents and situations in academic and professional work such as 
+academic essays, newspaper articles, business reports, proposals, speeches... 
+5. Use AI to develop, enhance, and revise writing in both academic and professional 
+contexts. 
+ 
+ENGL1011 Fundamentals of Academic Writing 
+3 credits 
+Pre-requisites: None 
+Fundamentals of Academic Writing is aimed at refining students’ formal academic 
+writing skills through a practical and active approach. The course focuses on much 
+more than simply writing, though, and students will strengthen their core academic 
+literacies and formal communication skills to thrive in other VinUniversity courses 
+and equip themselves with strategies for long-term success in academic and 
+professional communication. 
+The course begins by focusing on academic writing at the essay level, helping students 
+understand the aspects which make academic writing different from other styles of 
+writing. Students will develop confidence in critically evaluating information and 
+responding with sound argumentation and logical development of ideas. In this early 
+stage of the course, students will strengthen core academic literacies including 
+critical reading, summarizing, paraphrasing, and peer feedback. As the course 
+progresses, the focus shifts towards incorporating secondary research into writing, 
+developing students’ abilities to evaluate credible sources and synthesize 
+information with their original ideas to have a voice in the broader academic 
+community and develop authority in communicating ideas to a wider audience. 
+Students will develop essential academic literacies such as searching skills, strategies 
+for reading journal articles, synthesizing information, citing and referencing, 
+reference management, and other secondary research techniques. Finally, students 
+will summarize key information they have found in the form of an academic poster, 
+which is a common medium for visually communicating information in academic 
+contexts. 
+Fundamentals of Academic Writing places active learning at the core, and every 
+lesson includes practical activities to help students apply these skills. This course 
+follows a process writing approach, which includes drafting, peer and teacher 
+feedback, reflection, and revision before producing the final piece of writing. Working 
+together in interdisciplinary groups, students will present, critique, and revise their 
+
+=== p16 ===
+16 
+work with their peers to build autonomy, write for an audience, and gain confidence 
+as writers. 
+ 
+ENTR1021 Agile Innovation & Entrepreneurship 
+3 credits 
+Pre-requisites: None 
+The purpose of this course is to provide students with a basic understanding of the 
+entrepreneurial and innovation mindset and provide students the opportunity to 
+learn about and develop skills and behaviors correlated with impactful entrepreneurs 
+and innovators. Skills to be developed – through lecturing and in-class discussions, 
+plus coaching on assignments and in-class exercises – include observation of real-
+world facts, identifying status-quos or problems, identifying core causes leading to 
+status-quos, and to discover original ways to remove causes or to solve problems; 
+networking with people to identify technological contributions, optimizing creativity, 
+seeking feedback, and prototyping or mockup design. The pedagogical outcomes of 
+this course include (i) development of creativity & out-of-the-box thinking, (ii) critical 
+thinking through observation and abstractions, (iii) entrepreneurial mindset and (iv) 
+teamwork on a social or environmental issue. As part of the course all students will 
+engage in a 2-day hackathon to present and discuss optimization of team’s solution 
+to a real-world social or environmental problem. The course is intended for a mix of 
+students from various academic disciplines, such as medicine, nursing, engineering, 
+business, real estate, and hospitality. 
+ 
+LEAD1031 Leadership and Teambuilding Boot Camp  
+2 credits 
+Pre-requisites: None 
+This course is designed as a required course for freshmen to help the students’ 
+leadership development by introducing the basic concepts of leadership and 
+organizational behavior. This course has one big goal for you: to practice and apply 
+concepts and techniques learned in the class and your life to various scenarios. This 
+course is also intended to provide an overview of leadership trends rather than to 
+emphasize every detail and in-depth review of academic studies. Understanding a 
+landscape of leadership will be possible under the structure of four modules: (1) 
+Leader as a decision-maker, (2) Leader as a problem solver, (3) Leader as a designer, 
+and (4) Leader as a game-changer. A leader in this turbulent world is expected to be 
+a final decision-maker to find a creative solution for difficult challenges and will need 
+to organize a group of people with a formal and informal system. Leadership 
+Development offers a safe place for your learning of leadership. Practice, try, fail, and 
+try again! This is the philosophy of this course. 
+The Boot Camp instills foundational leadership values and skills into students, while 
+bringing the class together, building lasting cohesion, and creating esprit de corps. 
+
+=== p17 ===
+17 
+Students will learn and apply basic leadership concepts and skills through hands-on 
+and experiential learning. Organized into individual and team-based events, the 
+students will have to work individually and together to solve complex and dynamic 
+problems taken from the military, government, and business sectors. This includes 
+but is not limited to conducting long distance land navigation, negotiating physical 
+obstacle courses, analyzing leadership case studies, and much more. From developing 
+self-awareness and thinking critically to innovating ideas and displaying resilience, 
+students will learn critical elements of Self, Interpersonal, and Team Leadership. 
+Following this course, students will gain a foundational understanding of key 
+elements of leadership and better understand their strengths and how to effectively 
+work in teams and organizations. 
+ 
+THINK1010 Critical and Creative Thinking  
+2 credits 
+Pre-requisites: None 
+Developing your own ideas in a logical and critical manner is an essential part of being 
+a student in higher education. In this course you will learn about the nature of 
+argumentation, how to evaluate arguments, uncover hidden premises, and sharpen 
+your own thinking skills. We will start by looking at the difference between 
+arguments and non-arguments and why being able to present an argument is such an 
+important skill. Then we will look at different kinds of arguments, such as deduction, 
+induction, and arguments from inference to the best explanation. Not all arguments 
+are made equal. Some arguments are irrefutable - others barely convincing - and 
+others still completely misleading. We will look at how you can assess the quality of 
+an argument and avoid common logical pitfalls. Finally, we will finish by looking at 
+some philosophical puzzles and paradoxes involving logic and reasoning including 
+Hume's notorious problem of induction and the Sorites paradox. 
+ 
+HASS1070 Cross-Cultural Navigation 
+2 credits 
+Pre-requisites: None 
+This course aims to equip students an understanding of one aspect of the so-called 
+“global experience” and/or inter-cultural sensitivity, so that students can become 
+knowledgeable about the ways in which individual identities, values, and perceptions 
+and biases are shaped by cultures across the continentals through acquiring 
+knowledge of theories practice related to the impact of culture in our daily ecologies 
+in local and global contexts. In the end, students are able to identify and understand 
+the inter-sectional of one’s own and others’ cultural identities in order to reflect on 
+how various cultural concepts apply to your own life, communication and various 
+areas of study. 
+ 
+
+=== p18 ===
+18 
+VCOR1021/22 Healthy Lifestyle 1, 2 
+Non-credit, required min 45 hours across Year  
+Pre-requisites: None 
+“Healthy Lifestyle” is a mandatory and non-credit bearing course of the General 
+Education Program. Undergraduate students are required to enroll in this course to 
+fulfill part of the graduation requirements and are expected to complete it by the end 
+of their first-year study. This course provides the essential knowledge, skills and 
+practicum lessons (exercise/sport classes), whereby students are able to develop a 
+suitable approach in attaining a physically, mentally, socially and spiritually healthy 
+lifestyle. 
+Specifically, this course provides students with the knowledge to make better choices 
+during their daily routines to build a healthy lifestyle. A healthy lifestyle includes 
+physical wellbeing, psychosocial, and spiritual health. Students receive mentorship 
+that guides and shapes their perspective, showcasing the importance of having a well-
+balanced life. Components of a healthy lifestyle will be discussed as a process and 
+science that allows students to have a greater understanding of what it takes to 
+achieve their goals for overall wellbeing. Nutrition and diet will be taught to dispel 
+the myths about how and what you should eat to achieve desired health results. 
+Having a healthy mind, healthy body, clarity of thought and the ability to effectively 
+process information are key trademarks of a healthy lifestyle. 
+This course emphasizes practical application of the learned concepts in order to 
+integrate subject matter into students’ current daily routines and throughout life. The 
+majority of coursework will be held in different environments and venues in order to 
+expose students to the many varieties of fitness tools and resources to maintain a 
+healthy foundation. 
+ 
+HASS1010 Marxism-Leninism Philosophy (Philosophy Science and Society) 
+3 credits 
+Pre-requisites: None 
+Philosophy Science and Society is one of four courses in the General Education 
+Program forming the ideology/national education component required for higher 
+education curriculum as directed by the Ministry of Education & Training, Socialist 
+Republic of Vietnam. These four courses are written to achieve the primary objective 
+of helping students understand core values of both country and university through 
+objective and critical academic lenses in a global context. As these courses will be 
+taught in English to students for whom English is mainly a second language at 
+VinUniversity, each course is designed to be delivered in the spirit of content-based 
+language learning approach to help students both develop English language 
+competency (focusing on speaking, listening and reading) and basic understanding of 
+the content.  
+
+=== p19 ===
+19 
+Philosophy, Science & Society (PSS) provides students with a broad survey of key 
+ideas in Philosophy, its relevance to society and the way we think we understand the 
+world, or to put it broadly, “science.” We begin the course with an overview of the role 
+of Philosophy and Metaphysics as we embark on this journey of critically re-
+examining the way we look at our world. In the second part of the course, we take a 
+deep dive into questions of Epistemology, based on which students can orient and 
+develop their creative thinking, philosophy of humanity and action. We follow up with 
+an exploration of trends that came into being with the “social turn” of epistemology 
+found in the critical works of Thomas Kuhn and later in the burgeoning body of works 
+clustered as Sociology of Science. Following this radical re-thinking, we return to the 
+fundamental questions about humanity posed in Social Philosophy and Ethics, to 
+round up our critical inquiry of the complex relationship among philosophy, science 
+and society. 
+ 
+HASS1020 Marxism-Leninism Political Economy (Global Political Economy) 
+2 credits 
+Pre-requisites: None 
+Global Political Economy: Vietnam-Region-The World is one of four courses in the 
+General Education Program forming the ideology/national education component 
+required for higher education curriculum as directed by the Ministry of Education & 
+Training, Socialist Republic of Vietnam. These four courses are written to achieve the 
+primary objective of helping students understand core values of both country and 
+university through objective and critical academic lenses in a global context. This 
+course is designed to help students develop a critical lens to understand social reality 
+and social issues, including pressing questions, such as: What is Vietnam’s place in 
+the world? What are the opportunities and challenges for Vietnam in the current 
+configuration of the global political economy? To do so, we begin with a brief 
+introduction to the study of political economy, informed by different persuasions in 
+Marx-Leninism, political science, economic, sociology, anthropology and history. 
+Students will gain a nuanced understanding of this interdisciplinary field through 
+hands-on workshops and exercises on the principles of scientific and logical 
+arguments. The second part of this course will focus on specific issues related to 
+globalization and international integration. In particular, we focus on the role of 
+development, modernization, and regional development in Vietnam’s prospects in 
+the world. Our case studies pay special attention to the immediate regions 
+surrounding Vietnam, namely ASEAN, East Asia (in particular, China) and South Asia. 
+In the third and final part of this course, we examine the expressions of global 
+inequality and consider how individuals and communities within Vietnam can move 
+forward in an ever-globalizing world. 
+ 
+HASS1030 Scientific Socialism (Politics and Social Change) 
+2 credits 
+
+=== p20 ===
+20 
+Pre-requisites: None 
+Assuming a basic, strong, and even pivotal relationship between society and politics, 
+the course Politics and Social Change will guide participants to a deep understanding 
+of that relationship in Vietnam and the wider Asian region in the 20th and 21st 
+centuries. The course explores key concepts of politics and social change, and in 
+explication of those concepts, examine the dynamics of politics and social change in 
+concrete terms. 
+What can be learned? 
+Students at the end of course will become familiar with the concepts of politics and 
+social change of Vietnam. Students will also understand and compare Vietnam with 
+national development efforts elsewhere in Asia. Finally, they will become familiar 
+with major political and international relations developments from the 20th century. 
+The medium of instruction helps students to both develop English language 
+competency (focusing on speaking, and articulation, reading) and discourse skills 
+through continuous practice with classmates and instructor. 
+Broad outlines 
+The course begins with a basic appreciation of the concepts of politics and social 
+change, moving into Marxism-Leninism and its application to understanding politics 
+& social change, and extending into how Ho Chi Minh Thought applies Marxism-
+Leninism and also stands apart as a set of national and contextual ideas and practices. 
+The processes of politics and social change of other countries in the Asia-Pacific are 
+then explored for comparison and contrast. 
+Medium of learning 
+The guiding principle for learning at the Vin Uni is active learning. This approach 
+engages students to be active in the learning process with methods that are more 
+than, not without, the traditional base of lectures and tutorials. The instructor or 
+teacher plays the role of facilitator and provides the environment where students 
+responsibly and actively acquire as much as possible, rather than are passively given, 
+the learning points that the course desires. 
+Participants in this course will learn and share through a mix of lectures, tutorials, 
+non-judgmental journal writing, presentations, and learning to collaborate with 
+others through group projects. The learning environment should be safe, frank, 
+friendly, collaborative, and enlightening. 
+The weekly lists of readings are divided into two types. Basic readings are 
+recommended, and students should at least complete one for each week. Students 
+who wish to do more can pick up the other basic and optional/additional readings. 
+ 
+HASS1041/1042 Ho Chi Minh Ideology (Vietnam: History and Culture II)  
+2 credits 
+Pre-requisites: None 
+
+=== p21 ===
+21 
+Vietnam History and Culture since 1858 is continuation of the first period (from 
+ancient time to 1858) and covers the period from 1858 until today. 
+The main objective of the course is to analyze the development of Vietnam and its 
+people from 1858 when France attacked and colonized VN through two Indochina 
+wars (1946-1965) and (1954 -1975) until today as Vietnam reunified and reformed 
+and integrated into international system. 
+Due to its strategic geopolitical position, Vietnam has long been a global crossroads. 
+So, this course tries to show as much as possible the parallels, interactions between 
+Vietnam history and events and that happened in the world’s stage. 
+The course also aims to reflect Vietnam history and culture through the central figure 
+of Ho Chi Minh (1890-1969), the most famous Vietnamese during this period. His life 
+and career reflected the development of the very period of Vietnam history.  
+Students are encouraged to do research himself to have broader view, discover new 
+historical details. 
+ 
+HASS1050 History of the Communist Party (Vietnam: History and Culture I)  
+2 credits 
+Pre-requisites: None 
+The great American humorist and writer Mark Twain once said, “History doesn’t 
+repeat itself, but it often rhymes.” This course takes as its point of departure the 
+possibility of using those rhymes of the past to better help us navigate our present 
+and futu re. What lessons can we draw? As future businesspeople, health care 
+professionals, engineers, and computer scientists, these lessons have far more 
+relevance than you may imagine. 
+Vietnam History and Culture (I) examines Vietnamese history and cultural 
+production from its early origins to 1858 and the French Colonial project. The 
+curriculum is divided into five units. We begin the curriculum by considering the 
+study of both history and culture from theoretical perspectives and consider what 
+these mean in the Vietnamese context. Just what are “History” and “culture”? What 
+does it mean to be Vietnamese? In the second unit, we consider the ancient 
+construction of Vietnamese history and cultural production. The third portion of the 
+course examines the Lý and Tr ần dynasties as well as the Ming Occupation. Fourth, 
+we explore the movement of Vietnamese people southward and the Tây Sơn 
+Rebellion. And finally, fifth, we assess the unification of Vietnam under the Nguy ễn 
+and what is to come. 
+Too often Vietnamese are portrayed in history as vessels upon which events happen 
+to them. This course treats the Vietnamese as agents of their history, grappling with 
+big questions and great problems. We also explore the Vietnamese people’s historical 
+willingness to learn from and integrate foreign ideas and instruments to further 
+develop the Vietnamese culture. To this end, we will wrestle with questions such as: 
+
+=== p22 ===
+22 
+What are the forces that have shaped Vietnamese identity? What drives the 
+worldview(s) of Vietnamese? How has it been transformed over time? 
+ 
+ARTS1010 Arts Appreciation 
+1 credit 
+Pre-requisites: None 
+Art Appreciation is a one -credit elective course that provides a general introduction 
+to the visual arts, media, techniques, and history. This course takes on 
+interdisciplinary approaches to equip students with a broad knowledge of the 
+historical, practical, philosophical, cultural, and social contexts of the arts in order to 
+help students gain the ability to articulate their understanding and interpretation of 
+the arts. This course introduces students to aspects of arts research and curation, as 
+well as elements, media, and methods used in creative processes. The application of 
+the arts, especially visual arts in daily life and in the field of business, technology, and 
+medicine is explored in this course. This course also aims to develop students’ 
+appreciation for Vietnam arts and visual art forms by providing them with 
+opportunities to explore the diversity and richness of what Vietnam has to offer in 
+terms of the arts. 
+This course offers students opportunities to learn about how art is created and how 
+it evolves over time; it would cultivate and enrich students’ artistic senses, 
+experience, and enjoyment of different forms of arts even if the student is not an artist 
+or does not have an ability to draw/paint. In addition, this course fosters and supports 
+students’ development of oral and written presentation and communication, critical 
+and analytical thinking, and multicultural perspectives. 
+This course does not require students to have any prerequisite experience in art 
+theory or practice. Rather, it is a beginning -level course to help students familiarize 
+themselves with the different types of arts, as well as learn how to observe, 
+appreciate, speak, write intellectually about art. Furthermore, the course helps 
+students to think about how art can be integrated and applied in their daily lives and 
+their own fields of interest. 
+ 
+MUSI1010 Music Appreciation 
+1 credit 
+Pre-requisites: None 
+This course offers students opportunities to learn about how music is created and 
+how it evolves over time; it would enrich students’ musical sense, experience, and 
+enjoyment of all types of music even if the student is not a musician. In addition, this 
+course fosters and supports students’ development of oral and written presentation 
+and communication, critical and analytical thinking, and multicultural perspectives.  
+Specifically, students taking this course will have the opportunity to explore the 
+history of music, from the primitive musical forms through contemporary pieces 
+
+=== p23 ===
+23 
+around the world. Forms and genres of music include classical, jazz, theatrical music, 
+gospel, folk, soul, blues, Latin rhythms, country, rock & roll, and hip hop. Various 
+arrays of Vietnamese music (traditional, contemporary, theatrical, V -pop) are also 
+discussed in this course. The course explores the relationship between music and 
+people’s everyday life and social movements, and its cultural significance. Digital 
+music and the evolution of the Internet and AI impacting music industry, music 
+distribution, and global music access are also an important part of this course.  
+This course does not require students to have any prerequisite experience in musical 
+theory or performance; i.e. students are not required to be able to sight -read sheet 
+music, or play any musical instrument. Rather, it helps students become an active and 
+intellectual music listener, as well as it helps students to think further on how music 
+can be integrated and applied in the daily lives and their own fields of interest. This 
+course is delivered in class and outside class environment if appropriate. 
+ 
+VCOR1010A/B OASIS - Orientation, Advising, Skills, Identity & Diversity, and 
+Spirit of Pay it Forward 
+Non-credit 
+Pre-requisites: None 
+OASIS, which stands for Orientation, Advising, Skills, Identity & Diversity, and Spirit 
+of Pay it Forward, is an integral, non-credit-bearing mandatory component of the Co-
+curriculum Program and plays an important role as one of the graduation criteria.  
+OASIS is a distinctive signature program of VinUni that holds a registered trademark. 
+Its primary objective is to cultivate a self -leadership mindset and equips students 
+with essential skills, facilitating their transformation from high school students int o 
+effective university scholars, responsible global citizens, and be ready for future 
+career. OASIS is implemented in the first 4 years of bachelor’s degree to ensure there 
+is enough time for students to reflect and practice their own self -leadership 
+development, especially in developing essential qualities for work and life, including 
+self-confidence, self-esteem, self-determination, and self-control. 
+ 
+COSL1010: Community Service Learning  
+Credits: 3 
+Pre-requisite: none 
+VinUniversity aims to nurture students to become both competent professionals and 
+responsible citizens making contributions to their professions and the community. 
+Community Service Learning (CSL) provides students with the opportunities to serve 
+the community and to learn how to apply their professional knowledge in bettering 
+the lives of the public. As part of CSL, students must take the 1 credit Introduction to 
+Service-Learning course (equivalent to 15 hours) and fulfill the remaining 30 hours 
+of CSL doing independent volunteer work.   
+
+=== p24 ===
+24 
+CSL is increasingly recognized as a method for educating students to become socially 
+responsible citizens. Many universities over the world have incorporated CSL in their 
+academic undergraduate programs to varying degrees and in a variety of forms. CSL 
+can be a differentiating factor for VinUni students as they become global citizens.   
+“Service-learning is a form of experiential education in which students engage in 
+activities that address human and community needs, together with structured 
+opportunities for reflection designed to achieve desired academic learning outcomes” 
+(Service-Learning Essentials, Jacoby 2014; pg.2). Note: Activities must primarily take 
+place off VinUni campus and within the community.  
+All undergraduate students are required to first take the 1-credit bearing course 
+entitled: Introduction to Service Learning and then do volunteer work or continuing 
+education/independent study to complete 30 + hours of an independent CSL activity 
+(i.e., volunteer with a local NGO). 
+ 
+LAW3010 Introduction to Law 
+ 2 credits 
+Pre-requisites: None 
+Introduction to Law is designed to provide students with a foundational 
+understanding of legal principles and their application within the context of 
+engineering practice. First, the course introduces legal systems and sources of law 
+including an overview of different legal systems, sources of law (e.g., statutes, 
+regulations, case law), and the hierarchy of legal authority. Then, the course will 
+explore the intersection of law and engineering fields, emphasizing the legal 
+frameworks, regulations, and ethic al considerations that engineers encounter 
+throughout their careers. The topics covered but are not limited to contracts and 
+agreements, intellectual property rights, health and safety regulations, 
+environmental laws, standards compliance, professional cod es of conduct, conflicts 
+of interest, and ethical decision-making in engineering practice.  The course is taught 
+through a combination of lectures, case studies, discussions, and practical exercises.  
+ 
+MATH1010 Calculus I       
+ 4 credits 
+Pre-requisites: High school three years high school mathematics, including 
+trigonometry and logarithms, and at least one course in differential and integral 
+calculus 
+This course teaches  techniques of integration, finding areas and volumes by 
+integration, exponential growth, partial fractions, infinite sequences and series, tests 
+of convergence, and power series. 
+ 
+ 
+ 
+
+=== p25 ===
+25 
+MATH1020 Calculus II       
+ 4 credits 
+Pre-requisites: Calculus I 
+This course gives an i ntroduction to multivariable calculus. Topics include partial 
+derivatives, double and triple integrals, line and surface integrals, vector fields, 
+Green’s theorem, Stokes’ theorem, and the divergence theorem. 
+ 
+MATH2030 Equations  
+3 credits 
+Pre-requisites: Calculus II 
+Taking with Linear Algebra simultaneously is not recommended. 
+This course gives an i ntroduction to ordinary and partial differential equations. 
+Topics include first order equations (separable, linear, homogeneous, exact); 
+mathematical modeling (e.g., population growth, terminal velocity); qualitative 
+methods (slope fields, phase plots, eq uilibria and stability); numerical methods; 
+second order equations (method of undetermined coefficients, application to 
+oscillations and resonance, boundary value problems and eigenvalues); and Fourier 
+series. A substantial part of this course involves partial differential equations, such as 
+the heat equation, the wave equation, and Laplace's equation. 
+ 
+MATH2050 Linear Algebra  
+ 4 credits 
+Pre-requisites: Calculus II 
+Taking with Differential Equations simultaneously is not recommended. 
+This course teaches l inear algebra and its applications. Topics include matrices, 
+determinants, vector spaces, eigenvalues and eigenvectors, orthogonality and inner 
+product spaces; applications include brief introductions to difference equations, 
+Markov chains, and systems of linear ordinary differential equations. This course also 
+includes computer use in solving problems. 
+ 
+MATH2010 Probability and Statistics 
+ 4 credits 
+Pre-requisites: Calculus II 
+This course g ives students a working knowledge of basic probability and statistics 
+and their application to engineering  including computer analysis of data and 
+simulation. Topics include random variables, probability distributions, expectation, 
+estimation, testing, experimental design, quality control, and regression.  
+ 
+
+=== p26 ===
+26 
+PHYS1010 Physics I                          
+4 credits 
+Pre-requisites: Calculus (integration, finding areas and volumes by integration, 
+exponential growth, partial fractions, infinite sequences and series, tests of 
+convergence, and power series). 
+This co urse c overs the mechanics of particles with focus on kinematics, dynamics, 
+conservation laws, central force fields, periodic motion. Mechanics of many -particle 
+systems: center of mass, rotational mechanics of a rigid body, rotational equilibrium, 
+and fluid mechanics.  Temperature, heat, the laws of thermodynamics. 
+ 
+PHYS2020 Physics II                        
+3 credits 
+Pre-requisites: Physics I 
+This course covers electrostatics, the behavior of matter in electric fields, DC circuits, 
+magnetic fields, Faraday’s law, AC circuits, and electromagnetic waves. 
+PHYS2030 Physics III: Oscillations, Waves, and Quantum Physics           
+2 credits 
+Pre-requisites:  Physics II (Electromagnetism), Calculus II 
+This course covers the physics of oscillations and wave phenomena, including driven 
+oscillations and resonance, mechanical waves, sound waves, electromagnetic waves, 
+standing waves, Doppler effect, polarization, wave reflection and transmission, 
+interference, diffraction, geometric optics and optical instruments, wave properties 
+of particles, particles in potential wells, light emission and absorption, and quantum 
+tunneling. 
+ 
+CHEM2010 Chemistry 
+3 credits 
+Pre-requisites:  High school chemistry 
+This course covers basic chemical concepts, such as reactivity and bonding of 
+molecules, introductory quantum mechanics, and intermolecular forces in liquids 
+and solids and  gases. Attention will be focused on aspects and applications of 
+chemistry most pertinent to engineering. 
+ 
+CECS1010 Introduction to Engineering and Computer Science  
+4 credits 
+Pre-requisites:                         
+This course provides  a general introduction to the engineering design process – 
+spanning core topics from problem definition through prototyping and testing, as 
+
+=== p27 ===
+27 
+well as other important considerations such as sustainability, failure analysis, and 
+engineering economics. This course also emphasizes multidisciplinary design via a 
+design project (e.g., design a line following robot) which involves students from 
+different majors of college of engineering and computer science.  
+ 
+COMP1010 Introduction to Programming  
+4 credits 
+Pre-requisites:                         
+This course teaches programming and problem -solving using Python. Emphasizes 
+principles of software development, style, and testing. Topics include procedures and 
+functions, iteration, recursion, arrays and vectors, strings, an operational model of 
+procedure and function calls, algorithms, exceptions, object -oriented programming, 
+and GUIs (graphical user interfaces).  
+ 
+MECE3010 Statics and Mechanics of Solids 
+4 credits 
+Pre-requisites: Physics I, Calculus II 
+This course covers principles of statics, force systems, and equilibrium in solid 
+structures. Topics include free body diagrams in two and three dimensions; frames; 
+mechanics of deformable solids; stress and strain; axial force; shear force, bending 
+moment, and torsion in bars and beams; thermal stress; pressure vessels; statically 
+indeterminate problems; buckling and yielding. 
+ 
+MECE3020 Thermodynamics 
+3 credits 
+Pre-requisites: Physics I, Calculus II 
+This course presents the definitions, concepts, and laws of thermodynamics. Topics 
+include the first and second laws, thermodynamic property relationships, and 
+applications to vapor and gas power systems, refrigeration, and heat pump systems. 
+Examples and problems are related to contemporary aspects of energy and power 
+generation and to broader environmental issues. 
+ 
+MECE3030 Dynamics 
+3 credits 
+Pre-requisites: Statics and Mechanics of Solids , Differential Equations, Corequisite: 
+Linear Algebra 
+This course teaches Newtonian dynamics of a particle, systems of particles, rigid 
+bodies, simple mechanisms , and simple harmonic oscillators.   Impulse, momentum, 
+angular momentum, work , and energy. Two -dimensional (planar) kinematics 
+
+=== p28 ===
+28 
+including motion relative to a moving reference frame. Three-dimensional rigid-body 
+dynamics are  also introduced.  Setting up the differential equations of motion and 
+solving them both analytically and numerically with MATLAB. In -lecture laboratory 
+demonstrations illustrate basic principles. 
+ 
+MECE3040 Mechanical Synthesis 
+4 credits 
+Pre-requisites: Statics and Mechanics of Solids,  Corequisite: Dynamics 
+This course provides a hands-on introduction to the mechanical design process, from 
+conceptualization through prototype construction and testing. Design projects 
+provide experience in basic prototyping skills using machine tools, 3D printing , and 
+laser cutting, as needed, as well as basic instruction in CAD and technical sketching. 
+ 
+ 
+MECE3050 Introductory Fluid Mechanics 
+3 credits 
+Pre-requisites: Statics and Mechanics of Solids, Dynamics 
+This course covers physical properties of fluids, hydrostatics, conservation laws using 
+control volume analysis and using differential analysis, Bernoulli's equation, 
+potential flows, simple viscous flows (solved with Navier -Stokes equations), 
+dimensional analysis, pipe flows, boundary layers. Introduction to compressible flow. 
+ 
+MECE4010 Heat Transfer 
+3 credits 
+Pre-requisites: Introductory Fluid Mechanics 
+This course covers the following topics:  steady and unsteady heat conduction; forced 
+and free convection; external and internal flows; radiation heat transfer; and heat 
+exchangers. 
+ 
+MECE3060 Mechatronics 
+3 credits 
+Pre-requisites: Physics II, Differential Equations 
+At the intersection of mechanical and electrical engineering, Mechatronics involves 
+technologies necessary to create automated systems. This course introduces students 
+to the functional elements of modern controlled dynamic systems. Topics include 
+analog circuits - both passive and active components, filter design, diodes, transistors, 
+MOSFETs and power amplification, pulse width modulation, transduction - 
+mechanical and electro -mechanical devices such as electromagnetic systems, gear 
+
+=== p29 ===
+29 
+trains, optical encoders, discretization, aliasing, and  microprocessors and 
+programming. Lab experiments culminate in the design, fabrication, and 
+programming of a microprocessor -controlled robotic vehicle, which laboratory 
+groups enter into a class-wide competition. 
+ 
+MECE3080 Intelligent Physical Systems 
+3 credits 
+Pre-requisites: Introduction to Engineering, Programming language 
+This is an interdisciplinary design project course which involves students from 
+different engineering and computer science programs. In this course, s tudents will 
+engage in a holistic design approach to Intelligent Physical Systems which can 
+perceive, reason about, and act upon their environment. This course includes topics 
+on algorithms, sensors, actuators, power, and mechanics. Students will learn the value 
+and trade-offs between theory, simulation, and physical implementations, and gain 
+familiarity with rapid prototyping techniques, system debugging, teamwork, 
+leadership skills, time management, and how to disseminate work to a broader 
+audience through wiki-pages. 
+ 
+MECE4020 System Dynamics and Control 
+3 credits 
+Pre-requisites: Differential Equations, Linear Algebra, Dynamics 
+This course teaches d ynamic behavior of mechanical systems: modeling, analysis 
+techniques, and applications; vibrations of single - and multi-degree offreedom 
+systems; feedback control systems. Computer simulation and experimental studies of 
+vibration and control systems. 
+ 
+ MECE3070 Mechanics of Engineering Materials 
+3 credits 
+Pre-requisites: Statics and Mechanics of Solids 
+This course gives an introduction to  the broad range of properties and behaviors of 
+engineering materials as they relate to mechanical performance.   Emphasis is placed 
+on general states of stress and strain, on elasticity and combined loading 
+effects.  Failure criteria including yielding, fr acture and fatigue are developed.   A 
+general introduction to the function/constraints/objectives approach to material 
+selection associated with mechanical design is provided with candidate material 
+systems coming from metals, polymers, ceramics and/or comp osites.  A general 
+overview of material processing will be presented within this context of material 
+selection. 
+ 
+ 
+
+=== p30 ===
+30 
+ MECE3090 Automotive Engineering 
+3 credits 
+Pre-requisites: Dynamics 
+This course covers  the analysis and design of vehicle components and vehicle 
+systems. Emphasis on automobiles. Engines, transmissions, suspension, brakes, and 
+aerodynamics are discussed. The course uses first principles and applies them to 
+specific systems. The course is hi ghly quantitative, using empirical and analytical 
+approaches. 
+ 
+MECE4030 Hybrid Electric Vehicles 
+3 credits 
+Pre-requisites: Dynamics 
+This course covers electrified powertrain concepts, Energy for Transportation; 
+environmental impact, APUs for hybrid electric vehicles, Modeling of power split 
+devices for hybrid vehicles, Vehicle control hierarchy and power management, 
+Modeling and analysis of series electric hybrid powertrains, Power electronic devices 
+and motors, Modeling and analysis of split hybrid power‐trains, Modeling and control 
+issues of batteries, Major design issues and consideration of Hybrids … 
+ 
+MECE4040 Vehicle Dynamics and Control 
+3 credits 
+Pre-requisites: Dynamics 
+This course focuses on tire mechanics and provides a fundamental understanding of 
+feedback control, vehicle handling and ride performance through the development, 
+analysis and critical interpretation of vehicle/system models.  
+ 
+MECE4050 Internal Combustion Engines  
+3 credits 
+Pre-requisites: Thermodynamics 
+This course covers the analytical approach to the engineering problem  and 
+performance analysis of internal combustion engines. Topics include  
+thermodynamics, combustion, heat transfer, friction, and other factors affecting 
+engine power, efficiency, and emissions , d esign and operating characteristics of 
+different types of engines.  
+ 
+MECE3100 Introduction to Manufacturing Systems 
+3 credits 
+Pre-requisites: 
+
+=== p31 ===
+31 
+This course provides ways to analyze manufacturing systems in terms of material 
+flow and storage, information flow, capacities, and times and durations of events. 
+Topics include probability, inventory and queuing models, forecasting, optimization, 
+process analysis, and linear and dynamic systems; flow planning, bottleneck 
+characterization, buffer and batch-size tactics, seasonal planning, and dynamic 
+behavior of production systems. This course also covers automation process, 
+CAD/CAM/CAE and CIMS. 
+ 
+MECE4060 Innovative Product Design via Digital Manufacturing 
+3 credits 
+Pre-requisites:  
+This course combines lecture and laboratory on the new product development cycle: 
+iterative design based on prototyping, testing, consumer feedback, and limitations set 
+by mass manufacturing. The course instructs students on methods to identify product 
+concepts for machine de signs with commercial potential. Design teams will perform 
+market analysis and explore the intellectual property space around their ideas and 
+rapidly iterate them into a final prototype via digital manufacturing (e.g., 3D CAD files 
+manifested via robotic p rinting or machining); advanced instruction on these tools 
+will be given, and quantitative marketing will be used as feedback. Early stage 
+prototypes will progress into more sophisticated designs. Scale -up (cost, pricing, 
+tooling) considerations for mass manufacturing will be taken into account, as well as 
+quantitative analysis of machine designs for the expected utility. 
+ 
+MECE4070 Additive Manufacturing 
+3 credits 
+Pre-requisites: Introductory Fluid Mechanics 
+This course teaches fundamental additive manufacturing, 3D printing approaches, 
+including extrusion-based deposition, stereolithography, powder bed-based melting, 
+and inkjet-based deposition. Cultivate a design for-additive manufacturing skillset for 
+CAD and CAM methodologies to produce successful 3D prints. 
+ 
+MECE4080 Feedback Control Systems 
+3 credits 
+Pre-requisites: System Dynamics and Control 
+This course covers the analysis and design of linear systems in both the frequency 
+and time domains. The course includes a laboratory that examines the modeling and 
+control of representative dynamic processes. The frequency domain aspects are 
+analyzed via Laplace transforms, transfer functions, root locus, and frequency 
+response methods. The time domain aspects are analyzed via state space models, 
+stability, controllability, observability, state feedback, and observers. 
+
+=== p32 ===
+32 
+ 
+MECE3110 Wind Power 
+3 credits 
+Pre-requisites: Introductory Fluid Mechanics 
+This course covers the main features of energy conversion by wind turbines. 
+Emphasis on the characterization of the atmospheric boundary layer, the 
+aerodynamics of horizontal axis wind turbines, and performance prediction. 
+Structural effects, power train considerations, siting, and wind farm planning.  
+ 
+MECE4090 Sustainable Energy Systems  
+3 credits 
+Pre-requisites: Introductory Fluid Mechanics, Heat transfer 
+This course c ritically examines the technology of energy systems that will be 
+acceptable in a world faced with global climate change, local pollution, and declining 
+supplies of oil. The focus is on renewable energy sources (wind, solar, biomass), but 
+other non -carbon-emitting sources (nuclear) and lowered -carbon sources (co -
+generative gas turbine plants, fuel cells) also are studied. Both the devices and the 
+overall systems are analyzed. 
+ 
+MECE4100 Combustion Processes 
+3 credits 
+Pre-requisites: Introductory Fluid Mechanics, Heat transfer 
+This course gives an introduction to combustion and flame processes, with emphasis 
+on fundamental fluid dynamics, heat and mass transport, and reaction -kinetic 
+processes that govern combustion rates. Topics include thermochemistry, kinetics, 
+vessel explosions, laminar premixe d and diffusion flames, and droplet combustion. 
+Optional topics may include complex combustion systems, turbulent flames, fuel cells, 
+or combustion of solids. 
+ 
+MECE4110 Design of Sustainable Systems 
+3 Credits 
+Pre-requisites: 
+This course will focus on the analysis, design , and production of renewable energy 
+(solar, wind, nuclear, hydro, and geothermal, etc.) systems, with a focus on 
+understanding the critical material challenges as well as the design and 
+manufacturing challenges of sustainable energy systems.  
+ 
+MECE4120 Sensors and Actuators 
+4 credits 
+
+=== p33 ===
+33 
+Pre-requisites: Intelligent Physical Systems 
+This course aims to provide students with in -depth knowledge of sensors and 
+actuators through the technologies, future advances, and their applications. Students 
+will learn about instrumenting an engineering system by incorporating sensors, 
+actuators, and associated interface hardware. This course treats the types of sensors, 
+actuators, and interface hardware in separate chapters in which the operating 
+principles, modeling, design considerations and integration, performance 
+specifications, and applications of the individual components are discussed. 
+Throughout the course, students are engaged with case studies, work examples, and 
+exercises related to robotic manipulators, industrial machinery, vehicles, aircraft, 
+thermal and fluid process plants, and computer components.  
+ 
+ELEC4020 Embedded Systems 
+4 credits 
+Pre-requisites: Digital Logic and Computer Organization or Mechatronics  
+This course provides a n introduction to  the design of embedded systems, with an 
+emphasis on understanding the interaction between hardware, software, and the 
+physical world. Topics covered include assembly language programming, interrupts, 
+I/O, concurrency management, scheduling, resource manag ement, and real -time 
+constraints.  
+ 
+ELEC4060 Robotics and Automation 
+4 credits 
+Pre-requisites: Control Systems or Mechatronics 
+This course introduces fundamental concepts in robotics and applications. Topics 
+include basics of manipulators, coordinate transformation and kinematics, trajectory 
+planning, control techniques, sensors and devices, robot applications in industrial 
+automation.  
+ 
+MECE3870 Practice/Internship 
+ Non-credit course 
+Pre-requisites: Students must have completed sophomore year. 
+The professional structured internship offers students opportunities to apply 
+theoretical knowledge to a  real-world work environment and know more about 
+companies that students may be interested in  joining after graduation. During the 
+internship, students will have the opportunity to discover and/or  confirm their 
+career interests, develop their major knowledge and gain valuable professional skills 
+and connections with industry professionals. Students will complete the program 
+under the guidance and support of a company advisor or Principal Investigator (PI), 
+an industry mentor/ project researcher, and  a faculty advisor, who will jointly help 
+
+=== p34 ===
+34 
+students to create SMART learning outcomes (specific,  measurable, achievable, 
+relevant and time-bound). 
+ 
+MECE4890 Graduation Thesis/Capstone 
+ 6 credits 
+Pre-requisites: Practice/Internship; Determined by the advisor 
+This Capstone course is developed for students in the College of Engineering and 
+Computer Science (CECS) to apply technical knowledge and skills acquired in earlier 
+coursework to a  project involving actual designs and experiments. Students are 
+strongly encouraged to work on  multidiscipline-major topics to produce an end -to-
+end solution to a complex real -world problem  from industry or academia. The 
+assessment methods are formulated from discussions and  agreements between the 
+industry and VinUni in accordance  with ABET requirements. More  specially, the 
+project involves the development of engineering systems or design alternatives,  
+along with testing the implemented systems. The project should focus on advanced 
+technologies, new applications, and their usefulness and benefits in the development 
+of economy and management. In this course, students work in teams of 3 to 5, with at 
+least one student from the  Mechanical Engineering (ME) Program and one from the 
+Electrical Engineering (EE) Program,  under the supervisi on of VinUni faculty 
+instructors. Students are enrolled in Capstone I in the  first semester to develop or 
+tailor a project proposal and secure instructor approval. In the  following semester, 
+they must take Capstone II to complete the project. Students are expected to  be 
+present in person for every meeting of the classes in which they are enrolled. They 
+should be able to deliver their work and contribution to the project and engage in 
+professional dialogues about their project during formal presentations. 

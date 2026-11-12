@@ -1,0 +1,130 @@
+=== p1 ===
+Procedures for the implementation of transferring of credit request 
+ 
+Step Responsibility Workflow Time Details 
+1 Student   
+ 
+Starts on the first week 
+of the semester 
+- Students must complete the application to obtain approval 
+for transfer credit to be applied to their College degree.  
+- Transfer courses must be equivalent in content, rigor, and 
+level to courses offered by the program.  
+- The application includes:  
++ Transfer credit application form (FRM11) – fill out the 
+information in Section A 
++ A course description/syllabus/handbook 
++ An academic record (e-transcripts or sealed paper 
+transcripts) 
+- All supporting documentation must be in English. Any 
+incorrect, incomplete, or misleading documentation may 
+result in: 
+• delay in processing the application; or 
+• rejection of the application; or 
+• cancellation of the student’s enrolment 
+2 Registrar  1 working day since 
+receiving the student’s 
+request.  
+- In accordance with current policy, the Registrar will 
+evaluate the legitimacy of the application as well as all 
+conditions for transferring credits. Plemininary Check 
+(eligibility criteria) No 
+Yes 
+Inform 
+student 
+Make a request for 
+transfer of credits 
+(FRM10 and submit 
+the application 
+
+=== p2 ===
+3 Program 
+Director 
+ 
+Faculty 
+/Course or 
+Block leader - 
+in charge 
+ 2 working days since 
+receiving the 
+application from 
+Registrar 
+- Registrar sends the application to the Program Director 
+for review and assessment. 
+- The Program Director assigns Faculty/Course Leader or 
+Block Leader-in-charge to review the application. He/she 
+will evaluate the application and propose the decision to 
+the Program Director 
+- Assessment of an application for credit transfer takes into 
+consideration the followings:  
+(i) type of studies undertaken 
+(ii) institution where the studies were undertaken 
+(iii) amount of study 
+(iv) learning outcomes 
+(v) University’s/College’s limits on credit transfer 
+(vi) any restrictions placed by relevant external 
+professional accreditation or registration bodies on the 
+amount and type of credit. 
+4 College Dean 
+(or his/her 
+designee)  
+ 
+Program 
+Director 
+ 
+ 
+1 working day since 
+the assessment of the 
+application 
+- The Program Director to proceed for Dean (or designee) 
+approval if she/he has no other objections.   
+- Dean (his/her designee) endorses the final decision of 
+transferring credits.  
+- Depending on the assessment, the decision may be:  
+Option 1: Decline (students need to enroll in the course) 
+Option 2: Fully Approve (students will be exempt from 
+the course and credits will be transferred, following the 
+current process).  
+Option 3: Conditionally Approve (students may be 
+required to make additional efforts to persuade the 
+equivalency) (i.e taking the proficiency exams (*), taking 
+the final exam with a passing score, taking the practical 
+sessions, etc). The relevant year Committee or the Program 
+Director/Faculty in charge will make the decision. 
+- College Assistant collects the signatures of approval and 
+submits the complete form FRM11 to the Registrar for 
+archive.  
+Approve 
+Review student’s 
+application/request 
+Yes 
+Inform 
+student 
+No 
+
+=== p3 ===
+5 Registrar  1 working day since 
+receiving the final 
+approval 
+ 
+ 
+- Registrar grants the transfer of credits on the SIS system 
+and updates the students’ status.  
+- Registrar informs the student of the result.  
+6 Registrar   - An official transcript (bearing the institutional seal) from 
+the transfer institution must be received by 
+the University Registrar Office for final approval and 
+processing. Any application lacking an official transcript 
+on file after 6 months will be null and void. A new 
+application will be required for further approvals.  
+ 
+(*) Specific requirements for Medical Doctor Program regarding the Proficiency Exam:  
+- Proficiency Exam for exemption decision shall be organized on the first weekday after the deadline.  The final score shall be 
+released within 05 working days after the test date. 
+- Before the proficiency exams, Course Syllabus would be provided for students within 05 working days after the form 
+submission which contains learning outcomes and topics covered.  
+- Students are exempted from the course with a passing score of ≥60%. 
+ 
+Grant the transfer of credits 
+Close out and file the 
+document 

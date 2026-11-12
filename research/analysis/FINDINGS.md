@@ -1,0 +1,9 @@
+# Phát hiện phân tích BSCS (v0.1, 2026-11-12)
+Chi tiết: `bscs-prereq-graph.md`. Mọi số liệu do parser heuristic → cần người duyệt trước khi dùng làm ground truth.
+
+1. **Tiên quyết thay đổi theo khóa dù môn giữ nguyên.** Computer Vision, NLP, Data Mining, Data Visualization đổi tiên quyết qua các phiên bản (VD Data Visualization: có "data mining" ở V2023-i4 và Cohort 5 AY24-25, bỏ ở 2024-28). Hệ quả: đồ thị phải gắn *phiên bản/khóa*; dùng nhầm bản sẽ cho lộ trình sai.
+2. **Lỗi/không nhất quán trong nguồn:** mã `COMP2020` dùng cho cả *Computer Organization* và *Software Construction* ở phần mô tả (bảng khung chương trình ghi Software Construction là COMP2030). Không thể khóa theo mã môn → cần khóa (phiên bản, tên môn) + bảng đối chiếu mã.
+3. **Tiên quyết dạng danh sách phẩy, không rõ AND/OR**, và có tên rút gọn ("statistics and probability" = Probability and Statistics). Một số là điều kiện không phải môn ("Practice/Internship; Determined by the advisor" cho Capstone; "completed sophomore year" ở ngành khác) → cần loại ràng buộc riêng (advisor-gated).
+4. **Đồ thị BSCS 2024-28 nhỏ và nông:** 20/49 môn có tiên quyết resolve được, chuỗi dài nhất 4 môn. Điểm nghẽn: *OOP & Data Structures* là tiên quyết của 9 môn; Probability and Statistics, Linear Algebra 4 môn mỗi môn. → Ràng buộc tiên quyết một mình thưa; khó khăn thực của SV nằm ở tải tín chỉ (14 / 18–22), mở lớp theo kỳ, GPA, concentration, hơn là tiên quyết. (Giả thuyết – cần pain point thật để kiểm chứng.)
+5. **Hệ quả cho thiết kế:** solver phải là CSP có phiên bản catalog; LLM chỉ đề xuất/giải thích trong tập nghiệm hợp lệ; cần trường `source_ref` (file, trang) cho từng ràng buộc để trích nguồn.
+6. **Chưa có trong tài liệu công khai:** lịch mở lớp theo học kỳ (offering), sĩ số, thời khóa biểu, điểm thật. Solver chỉ có thể kiểm tra *tính hợp lệ theo chương trình*, không đảm bảo lớp có mở. Đây là giới hạn cần nêu rõ.
