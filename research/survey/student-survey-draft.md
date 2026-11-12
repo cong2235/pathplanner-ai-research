@@ -90,7 +90,6 @@ Mục đích: thu pain point thật khi **lập kế hoạch học tập** để
 | # | Câu hỏi | Dạng |
 |---|---|---|
 | G1 | Nếu có **một thứ** làm việc lên kế hoạch học dễ hơn, đó là gì? | Tự do ngắn |
-| G2 | Bạn có sẵn lòng trả lời phỏng vấn 15 phút để nhóm hiểu sâu hơn? Nếu có, để lại **kênh liên hệ tùy chọn** (form riêng, không gắn với câu trả lời ở trên) | Có/Không + liên kết form riêng |
 
 ---
 
@@ -118,6 +117,6 @@ Mục đích: thu pain point thật khi **lập kế hoạch học tập** để
 
 1. Xin phép/thông báo nhà trường (đạo đức nghiên cứu, kênh phát hành).
 2. Công cụ form (Google Forms hay Microsoft Forms – ưu tiên tài khoản trường nếu được).
-3. Có thêm bản **tiếng Anh** cho sinh viên quốc tế không.
+3. Bản tiếng Anh: [student-survey-draft.en.md](student-survey-draft.en.md) (cần giữ đồng bộ với bản này).
 4. Soạn riêng bộ câu hỏi **phỏng vấn cố vấn** (5–8 người; khối lượng, công cụ, ca khó, cách duyệt lộ trình).
 5. Pilot 3–5 người, sửa rồi mới phát hành.
