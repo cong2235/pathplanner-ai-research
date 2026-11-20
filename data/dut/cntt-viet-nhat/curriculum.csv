@@ -1,0 +1,81 @@
+﻿tt,hoc_ky,ma_hp,ten_hp,so_tin_chi,loai,nhom_tu_chon,hoc_truoc,song_hanh,tien_quyet,bat_buoc_dk_song_hanh,ht_da,tq_da
+1,1,3190111,Giải tích 1,4,bat_buoc,,,,,0,1,0
+2,1,3190260,Đại số tuyến tính,3,bat_buoc,,,,,0,1,0
+3,1,1022970,Cấu trúc máy tính và vi xử lý,2,bat_buoc,,,,,0,1,0
+4,1,1023600,Nhập môn ngành (Nhật),2,bat_buoc,,,,,0,1,0
+5,1,1022863,Kỹ thuật lập trình,3,bat_buoc,,,3190260,,1,1,0
+6,1,1023060,TH kỹ thuật lập trình (1TC),0,bat_buoc,,,,,0,1,0
+7,1,2090150,Triết học Mác - Lênin,3,bat_buoc,,,,,0,1,0
+8,1,0130011,Giáo dục thể chất 1,0,bat_buoc,,,,,0,1,0
+9,1,5070030,Tiếng Nhật 1 (CNTT),1,bat_buoc,,,,,0,1,0
+10,2,3190121,Giải tích 2,4,bat_buoc,,3190111,,,0,1,0
+11,2,1021263,Toán rời rạc,3,bat_buoc,,1022863,,,0,1,0
+12,2,3050011,Vật lý 1,3,bat_buoc,,3190111,,,0,1,0
+13,2,1023280,Cấu trúc dữ liệu,2,bat_buoc,,1022863,,,0,1,0
+14,2,1020072,Phương pháp tính,3,bat_buoc,,1022863,,,0,1,0
+15,2,1022933,PBL1: Dự án lập trình tính toán,2,bat_buoc,,,1020072;1021263,,1,1,0
+16,2,5070040,Tiếng Nhật 2 (CNTT),1,bat_buoc,,,,,0,1,0
+17,3,5070050,Tiếng Nhật 3 (CNTT),1,bat_buoc,,,,,0,1,0
+18,3,2170020,Kinh tế chính trị Mác - Lênin,2,bat_buoc,,2090150,,,0,1,0
+19,3,3050670,TN Vật lý (Điện-Từ-Quang),1,bat_buoc,,3050011,,,0,1,0
+20,3,3190041,Xác suất thống kê,3,bat_buoc,,3190121,,,0,1,0
+21,3,1023720,Lập trình hướng đối tượng,3,bat_buoc,,1023280,,,0,1,0
+22,3,1020102,Cơ sở dữ liệu,2,bat_buoc,,1022863,,,0,1,0
+23,3,1022553,Lý thuyết thông tin,2,bat_buoc,,,3190041,,1,1,0
+24,3,1022913,Nguyên lý hệ điều hành,2.5,bat_buoc,,1022970;1023280,,,0,1,0
+25,3,1023690,PBL 2: Dự án cơ sở lập trình,2,bat_buoc,,1023280,1023720,,1,1,0
+26,3,1023730,TH Lập trình hướng đối tượng,0,bat_buoc,,,1023720,,1,1,0
+27,4,5070060,Tiếng Nhật 4 (CNTT),1,bat_buoc,,,,,0,1,0
+28,4,2090160,Chủ nghĩa Xã hội khoa học,2,bat_buoc,,2090150,,,0,1,0
+29,4,1022830,Phân tích & thiết kế giải thuật,2,bat_buoc,,1023280,,,0,1,0
+30,4,1020292,Mạng máy tính,2,bat_buoc,,1022913,,,0,1,0
+31,4,1023703,Lập trình .NET,2.5,bat_buoc,,1020102;1023720,,,0,1,0
+32,4,1023713,Lập trình Java,2.5,bat_buoc,,1020102;1023720,,,0,1,0
+33,4,1023220,Toán ứng dụng Công nghệ thông tin,3,bat_buoc,,1022863,,,0,1,0
+34,4,1023740,PBL 3: Đồ án lập trình ứng dụng,3,bat_buoc,,,1022830;1023703;1023713,,1,1,0
+35,5,5070070,Tiếng Nhật 5 (CNTT),1,bat_buoc,,,,,0,1,0
+36,5,2100010,Pháp luật đại cương,2,bat_buoc,,,,,0,1,0
+37,5,2090170,Lịch sử Đảng Cộng sản Việt Nam,2,bat_buoc,,2090150,,,0,1,0
+38,5,1021383,Vi điều khiển,2,bat_buoc,,1022863;1022970,,,0,1,0
+39,5,1020313,Trí tuệ nhân tạo,2,bat_buoc,,1022830,,,0,1,0
+40,5,1023870,PBL 4: Dự án Hệ thống thông minh,3,bat_buoc,,1020292,1020313;1021383,,1,1,0
+41,5,1023583,Lập trình di động,2,tu_chon,KY5_CHON2_TRONG11,1023713,,,0,1,0
+42,5,1020113,Chương trình dịch,2,tu_chon,KY5_CHON2_TRONG11,1023280,,,0,1,0
+43,5,1022843,Đồ họa máy tính,2,tu_chon,KY5_CHON2_TRONG11,1022863,,,0,1,0
+44,5,1022833,Lập trình trên Linux,2,tu_chon,KY5_CHON2_TRONG11,1022913,,,0,1,0
+45,5,1021523,Công nghệ Web,2,tu_chon,KY5_CHON2_TRONG11,1020292;1023720,,,0,1,0
+46,5,1022573,Mã hóa và mật mã,2,tu_chon,KY5_CHON2_TRONG11,1020292,,,0,1,0
+47,5,1023300,Thiết kế Hệ thống mạng,2,tu_chon,KY5_CHON2_TRONG11,1020292,,,0,1,0
+48,5,1022840,Kỹ thuật số ứng dụng,2,tu_chon,KY5_CHON2_TRONG11,1022863,,,0,1,0
+49,5,1022880,Kỹ thuật truyền số liệu,2,tu_chon,KY5_CHON2_TRONG11,1022863,,,0,1,0
+50,5,1023610,Điện toán đám mây,2,tu_chon,KY5_CHON2_TRONG11,1020292,,,0,1,0
+51,5,1023573,Lập trình Python,2,tu_chon,KY5_CHON2_TRONG11,1023720,,,0,1,0
+52,6,5070080,Tiếng Nhật 6 (CNTT),1,bat_buoc,,,,,0,1,0
+53,6,1022470,Xử lý tín hiệu số,2,bat_buoc,,3190121;3190260,,,0,1,0
+54,6,2090101,Tư tưởng Hồ Chí Minh,2,bat_buoc,,2090150,,,0,1,0
+55,6,1022873,Lập trình hệ thống nhúng,2,bat_buoc,,1021383,,,0,1,0
+56,6,1023880,Lập trình mạng,2.5,bat_buoc,,1020292;1023703;1023713,,,0,1,0
+57,6,1023890,TH Lập trình mạng (0.5TC),0,bat_buoc,,,1023880,,1,1,0
+58,6,1020252,Công nghệ phần mềm,2,bat_buoc,,,1020141,,1,1,0
+59,6,1020141,Phân tích & T.kế hướng đối tượng,2,bat_buoc,,1023720,,,0,1,0
+60,6,1021783,Quản lý dự án CNTT,2,bat_buoc,,,1020252,,1,1,0
+61,6,1023900,PBL 5: Dự án Công nghệ phần mềm,3,bat_buoc,,,1020252;1023880,,1,1,0
+62,7,5070090,Tiếng Nhật 7 (CNTT),1,bat_buoc,,,,,0,1,0
+63,7,1023910,Quản trị mạng,3,bat_buoc,,1020292,,,0,1,0
+64,7,1023930,TH Quản trị mạng (1TC),0,bat_buoc,,,1023910,,1,1,0
+65,7,1023140,Học máy và ứng dụng,2,bat_buoc,,1020313,,,0,1,0
+66,7,1020413,Kiểm thử phần mềm,2,bat_buoc,,1020252,,,0,1,0
+67,7,1021863,Các hệ thống đa phương tiện,2,tu_chon,KY7_CHON2_TRONG11,1022470,,,0,1,0
+68,7,1020503,An toàn Thông tin mạng,2,tu_chon,KY7_CHON2_TRONG11,1020292,,,0,1,0
+69,7,1023603,Chuyên đề công nghệ,2,tu_chon,KY7_CHON2_TRONG11,1023703;1023713,,,0,1,0
+70,7,1020553,Xử lý song song,2,tu_chon,KY7_CHON2_TRONG11,,1023910,,1,1,0
+71,7,1020533,Lập trình mạng nâng cao,2,tu_chon,KY7_CHON2_TRONG11,1023880,1023910,,1,1,0
+72,7,1021603,Hệ thống thời gian thực,2,tu_chon,KY7_CHON2_TRONG11,1020292,,,0,1,0
+73,7,1021893,Kiến trúc hướng dịch vụ,2,tu_chon,KY7_CHON2_TRONG11,1023880,,,0,1,0
+74,7,1022703,Phân tích và xử lý mã độc,2,tu_chon,KY7_CHON2_TRONG11,1020292,,,0,1,0
+75,7,1021673,Thị giác máy tính,2,tu_chon,KY7_CHON2_TRONG11,1022863,,,0,1,0
+76,7,1020523,Hệ phân tán,2,tu_chon,KY7_CHON2_TRONG11,,1023910,,1,1,0
+77,7,1022053,Khai phá dữ liệu,2,tu_chon,KY7_CHON2_TRONG11,1020102,,,0,1,0
+78,7,1023920,PBL 6: Dự án chuyên ngành 1,3,bat_buoc,,,1020413;1023140;1023910,,1,1,0
+79,7,1022603,Thực tập Tốt nghiệp (CNTT),2,bat_buoc,,1022933;1023690;1023740;1023870;1023900,1023920,,1,0,1
+80,8,1023190,Đồ án Tốt nghiệp,6,bat_buoc,,,,1022603,0,0,0

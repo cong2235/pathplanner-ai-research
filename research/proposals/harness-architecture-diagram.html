@@ -1,0 +1,382 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PathPlanner AI – Harness Architecture</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: 4 tab (kiến trúc | chuỗi gọi một request | cập nhật catalog | bản đồ công nghệ), cùng bảng màu 6 lớp harness với harness-flow.html */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --surface2:#eceff4; --zone:#e9edf3; --fg:#15202b; --muted:#566475; --line:#c9d1dc;
+  --accent:#2457d6; --ok:#17794a; --fail:#c42b3a; --wait:#a76100;
+  --l1:#2f6fd8; --l2:#0e8585; --l3:#cf4f26; --l4:#7a4fc9; --l5:#2b8a4b; --l6:#8c6b14;
+  --font:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#0d131a; --surface:#151d27; --surface2:#1c2733; --zone:#111922; --fg:#e5eaf0; --muted:#9aa8b9; --line:#2f3c4b;
+    --accent:#6f98ff; --ok:#4cc58a; --fail:#ff7b86; --wait:#f0b254;
+    --l1:#6aa0ff; --l2:#3fc7c7; --l3:#ff8a63; --l4:#b496ff; --l5:#5fd283; --l6:#dcbc5c;
+    color-scheme:dark;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font:15px/1.55 var(--font);padding-block:28px 56px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+h1{font-size:clamp(1.5rem,3.4vw,2.1rem);line-height:1.15;margin:0;letter-spacing:-.01em;text-wrap:balance}
+h2{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 10px;font-weight:600}
+p{margin:0}
+.sub{color:var(--muted);max-width:70ch;margin-top:8px}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px}
+
+.tabs{display:flex;flex-wrap:wrap;gap:8px}
+.tab{border:1px solid var(--line);background:var(--surface);padding:8px 14px;border-radius:6px;font-size:.9rem}
+.tab[aria-selected="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+
+.chips{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{display:inline-flex;align-items:center;gap:7px;font-size:.8rem;padding:3px 10px;border-radius:99px;border:1px solid var(--c,var(--line));background:color-mix(in srgb,var(--c,var(--line)) 12%,var(--surface))}
+.chip i{width:9px;height:9px;border-radius:50%;background:var(--c)}
+.chip.ext{border-style:dashed;background:var(--surface)}
+.note{font-size:.85rem;color:var(--muted)}
+
+.scroll{overflow-x:auto}
+svg{display:block;width:100%;height:auto;min-width:820px}
+svg text{font-family:var(--font)}
+.zone{fill:var(--zone);stroke:var(--line)}
+.zt{font-weight:600;font-size:11px;letter-spacing:.08em;fill:var(--muted)}
+.bx{fill:var(--surface);stroke:var(--c,var(--line));stroke-width:1.6}
+.bx.ext{stroke-dasharray:5 4}
+.bx.warn{stroke:var(--wait)}
+.t1{font-weight:600;font-size:12.5px;fill:var(--fg);text-anchor:middle}
+.t2{font-size:11px;fill:var(--muted);text-anchor:middle}
+.t1s{font-weight:600;font-size:11.5px;fill:var(--fg);text-anchor:middle}
+.t2s{font-size:10px;fill:var(--muted);text-anchor:middle}
+.arr{fill:none;stroke:var(--fg);stroke-width:1.6;opacity:.8}
+.arr.dash{stroke-dasharray:5 4}
+.arr.llm{stroke:var(--l4);opacity:1}
+.arr.hl{stroke:var(--accent);stroke-width:3.2;opacity:1}
+.bd circle{fill:var(--surface);stroke:var(--fg);stroke-width:1.4}
+.bd text{font:600 10px var(--mono);fill:var(--fg);text-anchor:middle;dominant-baseline:central}
+.bd.hl circle{fill:var(--accent);stroke:var(--accent)}
+.bd.hl text{fill:var(--surface)}
+.halo{paint-order:stroke;stroke:var(--bg);stroke-width:5px;stroke-linejoin:round}
+.lbl{font-size:12px;fill:var(--fg);text-anchor:middle}
+.lbl.l{text-anchor:start}
+.lbl.llm{fill:var(--l4);font-weight:600}
+.sb{font-size:10.5px;fill:var(--muted);text-anchor:middle}
+.sb.l{text-anchor:start}
+.lane{stroke:var(--line);stroke-dasharray:3 5}
+.dot{fill:var(--fg)}
+.dot.llm{fill:var(--l4)}
+
+.legend{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px 24px}
+.legend li{display:grid;grid-template-columns:24px minmax(0,1fr);gap:10px;font-size:.88rem;padding:4px 6px;border-radius:6px}
+.legend li:hover{background:var(--surface2)}
+.legend .n{width:22px;height:22px;border-radius:50%;border:1.4px solid var(--fg);display:grid;place-items:center;font:600 .7rem var(--mono)}
+
+/* catalog pipeline */
+.pipe{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.pc{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px;display:flex;flex-direction:column;gap:8px;position:relative}
+.pc .top{display:flex;align-items:center;gap:8px}
+.pc .num{width:26px;height:26px;border-radius:50%;display:grid;place-items:center;font:600 .78rem var(--mono);background:var(--fg);color:var(--bg)}
+.pc h3{margin:0;font-size:.98rem;line-height:1.25}
+.pc p{font-size:.86rem;color:var(--muted)}
+.pc .ptech{font:.76rem var(--mono);color:var(--fg)}
+.pc.gate{border-color:var(--wait);background:color-mix(in srgb,var(--wait) 9%,var(--surface))}
+.pc.nollm{border-color:var(--ok)}
+.pc:not(:nth-child(4n))::after{content:"→";position:absolute;right:-13px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:1rem;z-index:1}
+.kind{margin-left:auto;font:600 .66rem var(--mono);padding:1px 6px;border-radius:4px;border:1px solid var(--line);color:var(--muted)}
+.kind.llm{color:var(--l4);border-color:var(--l4)}
+.kind.human{color:var(--wait);border-color:var(--wait)}
+.kind.nollm{color:var(--ok);border-color:var(--ok)}
+
+/* tech map */
+.map{display:flex;flex-direction:column;gap:10px}
+.mrow{display:grid;grid-template-columns:200px minmax(0,1fr);gap:14px;align-items:start;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.mrow h3{margin:0;font-size:.95rem;line-height:1.3}
+.mrow h3 span{display:block;font-size:.76rem;color:var(--muted);font-weight:400}
+.mrow .dotl{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--c);margin-right:6px}
+.tech{display:inline-flex;align-items:center;gap:6px;font:.8rem var(--mono);padding:3px 9px;border-radius:5px;border:1px solid var(--c,var(--line));background:var(--surface2)}
+.tech.pilot{border-style:dashed;background:var(--surface)}
+.tech small{font:600 .62rem var(--mono);color:var(--wait)}
+.tl{display:flex;flex-wrap:wrap;gap:8px}
+
+.open ul{margin:6px 0 0;padding-left:18px;display:flex;flex-direction:column;gap:3px;font-size:.9rem}
+.foot{font-size:.8rem;color:var(--muted)}
+.hidden{display:none}
+
+@media (max-width:860px){
+  .legend,.pipe{grid-template-columns:minmax(0,1fr)}
+  .pc::after{display:none}
+  .mrow{grid-template-columns:minmax(0,1fr)}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Kiến trúc và luồng chạy của harness PathPlanner AI</h1>
+  <p class="sub">Bốn góc nhìn của cùng một hệ thống, lấy từ bản phân tích công nghệ (harness-tech-analysis.md): các thành phần được đóng gói thế nào, một request đi qua đâu, thông báo của trường kích hoạt replan ra sao, và mỗi lớp harness dùng công nghệ gì.</p>
+</header>
+
+<div class="tabs" role="tablist" id="tabs"></div>
+
+<div class="chips" id="key"></div>
+
+<section id="p-arch" class="panel">
+  <h2>Kiến trúc triển khai (docker-compose cho đồ án)</h2>
+  <div class="scroll"><svg id="svg-arch" viewBox="0 40 1110 710" role="img" aria-label="Sơ đồ kiến trúc: cổng sinh viên nhúng widget, BFF gắn JWT gọi pp-api; pp-api dùng worker, LiteLLM, Postgres, Redis; quan sát và CI/CD bên dưới"></svg></div>
+  <p class="note" style="margin-top:8px">Số trong vòng tròn khớp với danh sách bên dưới. Di chuột lên một dòng để làm nổi bật mũi tên tương ứng.</p>
+  <ol class="legend" id="legend" style="margin-top:12px"></ol>
+</section>
+
+<section id="p-seq" class="panel hidden">
+  <h2>Chuỗi gọi của một request lập lộ trình</h2>
+  <div class="scroll"><svg id="svg-seq" role="img" aria-label="Sơ đồ tuần tự: widget, BFF, pp-api, worker, LLM, dữ liệu, SIS"></svg></div>
+  <p class="note" style="margin-top:8px">Nét tím là hai lần duy nhất gọi LLM (bước 4 và 8 của harness). Nét đứt là phản hồi về trình duyệt. Mọi tham số danh tính lấy từ JWT, không lấy từ nội dung request.</p>
+</section>
+
+<section id="p-cat" class="panel hidden">
+  <h2>Thông báo của khoa/trường → catalog_version mới → replan</h2>
+  <ol class="pipe" id="pipe"></ol>
+  <p class="note" style="margin-top:12px">Plan cũ không bị ghi đè: plan mới là plan_vN+1 ở trạng thái “proposed” cho đến khi SV hoặc cố vấn chấp nhận. Việc áp thay đổi cho SV đang học (RUL-27) chưa có căn cứ trong mvp-demo, nên phải cấu hình applies_to_cohorts thay vì giả định.</p>
+</section>
+
+<section id="p-map" class="panel hidden">
+  <h2>Công nghệ theo từng lớp harness</h2>
+  <div class="map" id="map"></div>
+  <p class="note" style="margin-top:12px">Nét liền: dùng ngay cho đồ án. Nét đứt: thêm ở giai đoạn pilot hoặc nhiều trường. Nhãn “cần đo” nghĩa là báo cáo chưa kiểm chứng được chất lượng hoặc hành vi và phải tự benchmark. Báo cáo cố ý không nêu số phiên bản; phải ghim bản khi dựng thật.</p>
+</section>
+
+<section class="panel open">
+  <h2>Các điểm còn mở sau khi reviewer kiểm tra</h2>
+  <ul>
+    <li>Các trần thời gian từng bước (3 + 1 + 10 + 6 giây) cộng lại 20 giây, nhưng ngân sách tổng là 15 giây. Cần chia lại hoặc ghi rõ là trần riêng.</li>
+    <li>Ước lượng tải đỉnh (khoảng 11 lõi-giây mỗi giây) vượt 8 lõi worker. Cần thêm lõi, dùng plan cache hoặc nới SLO.</li>
+    <li>BFF/JWT cần thêm kiểm aud/jti chống replay, CSRF cho các POST đi kèm SSE, và thread_id do server sinh để không đoán chéo tenant.</li>
+    <li>Ở bước người duyệt thông báo, nên hiển thị bản gốc cạnh bản trích xuất và ghi body_hash vào audit.</li>
+    <li>Bản G0 tối thiểu có thể bỏ LiteLLM và Redis, chạy solver bằng process pool trong API.</li>
+  </ul>
+</section>
+
+<p class="foot">Nguồn: research/reports/harness-tech-analysis.md và kết quả kiểm tra của reviewer. Đây là thiết kế đề xuất, chưa phải hệ thống đã cài đặt. Tên môn và số liệu trong ví dụ là minh họa.</p>
+</div>
+
+<script>
+const LAY = {
+  L1:['Input & Context','--l1'], L2:['Execution & Orchestration','--l2'], L3:['Guardrails & Control','--l3'],
+  L4:['Observability & Error','--l4'], L5:['Evaluation','--l5'], L6:['Continuous Improvement','--l6']
+};
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+/* ---------- tabs ---------- */
+const TABS = [['arch','Kiến trúc'],['seq','Chuỗi gọi một request'],['cat','Cập nhật catalog'],['map','Bản đồ công nghệ']];
+function showTab(k){
+  TABS.forEach(([id])=>{ $('p-'+id).classList.toggle('hidden', id!==k) });
+  $('tabs').querySelectorAll('button').forEach(b=>b.setAttribute('aria-selected', b.dataset.k===k));
+  try{history.replaceState(null,'','#'+k)}catch(e){}
+}
+$('tabs').innerHTML = TABS.map(([k,n])=>`<button class="tab" role="tab" data-k="${k}">${n}</button>`).join('');
+$('tabs').querySelectorAll('button').forEach(b=>b.onclick=()=>showTab(b.dataset.k));
+
+$('key').innerHTML = Object.entries(LAY).map(([k,[n,c]])=>`<span class="chip" style="--c:var(${c})"><i></i>${k} · ${n}</span>`).join('')
+  + '<span class="chip ext">nét đứt = dịch vụ ngoài / tùy chọn</span>';
+
+/* ---------- 1. architecture ---------- */
+const ZONES = [
+  {x:20,y:50,w:290,h:450,t:'CỔNG SINH VIÊN (WEB MÔ PHỎNG)'},
+  {x:350,y:50,w:460,h:450,t:'HARNESS PATHPLANNER (DỊCH VỤ ĐỘC LẬP)'},
+  {x:850,y:50,w:240,h:450,t:'DỮ LIỆU VÀ DỊCH VỤ NGOÀI'},
+  {x:20,y:525,w:1070,h:110,t:'QUAN SÁT VÀ LỖI (L4): MỌI DỊCH VỤ PHÁT LOG VÀ SPAN CÓ run_id / trace_id'},
+  {x:20,y:655,w:1070,h:80,t:'CI/CD (GITHUB ACTIONS): PRODUCTION KHÔNG TỰ DEPLOY'}
+];
+const BOXES = [
+  {x:40,y:90,w:250,h:70,c:'--l1',t:'Trình duyệt SV / cố vấn',s:['<pathplanner-widget>','Web Component · Shadow DOM · SSE']},
+  {x:40,y:190,w:250,h:70,c:'--l1',t:'portal-web (Next.js)',s:['BFF route handler cùng origin','gắn JWT ≤ 5 phút']},
+  {x:40,y:290,w:250,h:70,c:'--l3',t:'IdP / SSO',s:['OIDC (Keycloak hoặc mock)','cổng xác thực, harness không đăng nhập']},
+  {x:40,y:410,w:250,h:70,c:'--l1',t:'sis-mock (SIS giả)',s:['hồ sơ · điểm · rèn luyện','thông báo khoa/trường']},
+  {x:370,y:90,w:420,h:110,c:'--l2',t:'pp-api · FastAPI + LangGraph',s:['12 bước: validate → guard → router → LLM#1','→ retrieve → solver → validator → LLM#2 → guard → HITL','Pydantic · RBAC · SSE · PostgresSaver']},
+  {x:370,y:250,w:170,h:100,c:'--l2',t:'pp-worker',s:['OR-Tools CP-SAT','process riêng · hard kill','Celery / RQ']},
+  {x:620,y:250,w:170,h:100,c:'--l1',ext:1,t:'embed (tùy chọn)',s:['bge-m3','bge-reranker-v2-m3']},
+  {x:370,y:390,w:170,h:90,c:'--l6',t:'ingest job (cron)',s:['thông báo → ứng viên','thay đổi (có người duyệt)']},
+  {x:620,y:390,w:170,h:90,c:'--l2',t:'LiteLLM proxy',s:['budget · fallback','khóa API nằm ngoài app']},
+  {x:870,y:90,w:200,h:60,c:'--l1',t:'Redis',s:['queue · rate limit · plan cache']},
+  {x:870,y:175,w:200,h:175,c:'--l1',t:'Postgres + pgvector',s:['catalog_version bất biến','plan_vN · checkpoint LangGraph','audit · run_spans','HNSW + full-text (hybrid)','row-level security theo tenant']},
+  {x:870,y:380,w:200,h:70,c:'--l2',ext:1,t:'LLM API (ngoài)',s:['Haiku: hiểu mục tiêu','Sonnet: giải thích']},
+  {x:36,y:555,w:190,h:60,c:'--l4',t:'OTel SDK + log JSON',s:['run_id · trace_id · mã lỗi']},
+  {x:248,y:555,w:190,h:60,c:'--l4',t:'Bảng run_spans',s:['trong Postgres (đồ án)']},
+  {x:460,y:555,w:190,h:60,c:'--l4',ext:1,t:'Langfuse tự host',s:['pilot · không HA mặc định']},
+  {x:672,y:555,w:190,h:60,c:'--l4',t:'Prometheus + Grafana',s:['latency · cost · retry']},
+  {x:884,y:555,w:190,h:60,c:'--l4',t:'Sentry',s:['lỗi ứng dụng']}
+];
+const CI = [['ruff · mypy','lint, kiểm kiểu'],['pytest · RLS test','đọc chéo tenant'],['golden-set gate','không gọi LLM'],['Promptfoo','khi đổi prompt/model'],['Trivy · SBOM','image + config'],['staging','duyệt tay'],['production','KHÔNG tự deploy']];
+const ARR = [
+  {n:1,d:'M165,160 V190',b:[165,175],both:1},
+  {n:2,d:'M165,260 V290',b:[165,275],both:1},
+  {n:3,d:'M290,225 H330 V125 H370',b:[330,160]},
+  {n:4,d:'M290,445 H345 V170 H370',b:[345,330]},
+  {n:5,d:'M790,185 H870',b:[830,185],both:1},
+  {n:6,d:'M790,120 H870',b:[830,120],both:1},
+  {n:7,d:'M455,200 V250',b:[455,225],both:1},
+  {n:8,d:'M705,200 V250',b:[705,225]},
+  {n:9,d:'M600,200 V435 H620',b:[600,320],llm:1},
+  {n:10,d:'M790,435 H870',b:[830,435],llm:1},
+  {n:11,d:'M290,465 H370',b:[330,465]},
+  {n:12,d:'M540,420 H565 V200',b:[565,300]},
+  {n:13,d:'M580,500 V525',b:[580,512],dash:1}
+];
+const LEG = [
+  'SV đăng nhập bằng SSO của cổng. Widget gọi /pathplanner-api/* cùng origin nên không có token trong JavaScript của trình duyệt.',
+  'Cổng xác thực SV qua OIDC. Harness không tự đăng nhập, chỉ tin JWT do BFF ký.',
+  'BFF gắn JWT ≤ 5 phút (tenant, role, pseudonym), gọi POST /v1/runs, nhận 202 + run_id rồi chuyển tiếp SSE về widget.',
+  'Adapter của trường đổi hồ sơ, điểm, rèn luyện sang canonical model. Truy vấn lúc chạy rồi chụp snapshot. Prompt không chứa tên, MSSV hay điểm.',
+  'Lưu plan_vN, checkpoint LangGraph, audit, run_spans, với row-level security theo tenant. pp-worker cũng đọc và ghi Postgres và Redis.',
+  'Rate limit, plan cache theo hash(mục tiêu, môn đã đạt, các version) và hàng đợi cho worker.',
+  'Bước 6: giao job solver qua hàng đợi. CP-SAT chạy tiến trình riêng, có time limit và hard kill từ bên ngoài.',
+  'Bước 5: truy xuất môn bằng embedding và rerank. Dịch vụ tùy chọn; chất lượng tiếng Việt phải tự benchmark.',
+  'Chỉ bước 4 (hiểu mục tiêu) và bước 8 (giải thích) gọi LLM, qua LiteLLM để đặt ngân sách token.',
+  'Gọi API nhà cung cấp LLM. Dữ liệu ra ngoài đã được pseudonym hóa. Pilot với dữ liệu thật phải qua pháp chế của trường.',
+  'Thông báo khoa/trường được thu thập định kỳ: allowlist nguồn, tôn trọng robots.txt, không scrape khu vực cần đăng nhập.',
+  'Ingest chỉ tạo “ứng viên thay đổi” (POST /v1/catalog/change-candidates). Người duyệt xác nhận thì mới tăng catalog_version.',
+  'Mọi dịch vụ phát log JSON đã redact và span có run_id/trace_id.'
+];
+function drawArch(){
+  let s = `<defs>
+    <marker id="mh" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--fg)"/></marker>
+    <marker id="ml" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--l4)"/></marker>
+  </defs>`;
+  ZONES.forEach(z=>{ s+=`<rect class="zone" x="${z.x}" y="${z.y}" width="${z.w}" height="${z.h}" rx="8"/><text class="zt" x="${z.x+14}" y="${z.y+22}">${esc(z.t)}</text>`; });
+  BOXES.forEach(b=>{
+    const cx=b.x+b.w/2;
+    s+=`<rect class="bx ${b.ext?'ext':''}" style="--c:var(${b.c})" x="${b.x}" y="${b.y}" width="${b.w}" height="${b.h}" rx="6"/>`;
+    s+=`<text class="t1" x="${cx}" y="${b.y+22}">${esc(b.t)}</text>`;
+    b.s.forEach((l,i)=>{ s+=`<text class="t2" x="${cx}" y="${b.y+42+i*16}">${esc(l)}</text>`; });
+  });
+  const cw=140,gap=14; let cx0=28;
+  CI.forEach((c,i)=>{
+    const x=cx0+i*(cw+gap), warn=i===6;
+    s+=`<rect class="bx ${warn?'warn':''}" style="--c:var(--l5)" x="${x}" y="685" width="${cw}" height="40" rx="5"/>`;
+    s+=`<text class="t1s" x="${x+cw/2}" y="702">${esc(c[0])}</text><text class="t2s" x="${x+cw/2}" y="716">${esc(c[1])}</text>`;
+    if(i<6) s+=`<path class="arr" d="M${x+cw+1},705 H${x+cw+gap-1}" marker-end="url(#mh)" style="stroke-width:1.2"/>`;
+  });
+  ARR.forEach(a=>{
+    s+=`<g data-n="${a.n}"><path class="arr ${a.dash?'dash':''} ${a.llm?'llm':''}" d="${a.d}" marker-end="url(#${a.llm?'ml':'mh'})" ${a.both?`marker-start="url(#${a.llm?'ml':'mh'})"`:''}/></g>`;
+    s+=`<g class="bd" data-n="${a.n}"><circle cx="${a.b[0]}" cy="${a.b[1]}" r="9"/><text x="${a.b[0]}" y="${a.b[1]}">${a.n}</text></g>`;
+  });
+  $('svg-arch').innerHTML = s;
+  $('legend').innerHTML = LEG.map((t,i)=>`<li data-n="${i+1}"><span class="n">${i+1}</span><span>${esc(t)}</span></li>`).join('');
+  $('legend').querySelectorAll('li').forEach(li=>{
+    const n=li.dataset.n;
+    const on=()=>$('svg-arch').querySelectorAll(`[data-n="${n}"]`).forEach(e=>{ (e.tagName==='g'&&e.classList.contains('bd')?e:e.querySelector('path')||e).classList.add('hl') });
+    const off=()=>$('svg-arch').querySelectorAll('.hl').forEach(e=>e.classList.remove('hl'));
+    li.onmouseenter=on; li.onmouseleave=off; li.onfocus=on; li.onblur=off; li.tabIndex=0;
+  });
+}
+
+/* ---------- 2. sequence ---------- */
+const LANES = [
+  ['widget','Widget','SV / cố vấn'],['bff','BFF','Next.js'],['api','pp-api','FastAPI + LangGraph'],
+  ['worker','pp-worker','CP-SAT'],['llm','LiteLLM → LLM','Haiku / Sonnet'],['data','Postgres · embed','pgvector'],['sis','SIS','adapter']
+];
+const LX = {}; LANES.forEach((l,i)=>LX[l[0]]=84+i*157);
+const SEQ = [
+  ['widget','bff','POST /pathplanner-api/runs','cookie phiên SSO'],
+  ['bff','api','POST /v1/runs','JWT ≤ 5 phút · Idempotency-Key'],
+  ['api','api','Bước 1–3 · Pydantic validate · guardrail injection · router','code, chưa gọi LLM'],
+  ['api','widget','202 + run_id, mở SSE (tiến độ bước 1–12)','',{dash:1}],
+  ['api','llm','Bước 4 · hiểu mục tiêu → Goal JSON','Haiku · structured output · retry ≤ 2',{llm:1}],
+  ['api','sis','Lấy hồ sơ, điểm → canonical model','snapshot, pseudonym hóa'],
+  ['api','data','Bước 5 · lọc graph + pgvector hybrid + rerank','SQL · RRF · bge-m3'],
+  ['api','worker','Bước 6 · job solver','hàng đợi Redis · Celery/RQ'],
+  ['worker','api','Plan hoặc unsat core','CP-SAT · time limit · hard kill'],
+  ['api','api','Bước 7 · validator độc lập (Python thuần)','lỗi → quay lại solver, tối đa 3 vòng'],
+  ['api','llm','Bước 8 · giải thích + [chunk_id]','Sonnet · chỉ nhận plan + chunk đã truy xuất',{llm:1}],
+  ['api','api','Bước 9–10 · output guardrail · chấm rủi ro','rủi ro cao → interrupt(), plan ở trạng thái draft'],
+  ['api','data','Bước 11 · lưu plan_vN + checkpoint + audit + spans','RLS · PostgresSaver'],
+  ['api','widget','SSE: kết quả cuối','hoặc “đang chờ cố vấn duyệt”',{dash:1}],
+  ['widget','api','(Tùy chọn) Cố vấn duyệt / sửa / từ chối','POST /v1/advisor/plans/{id}/decision · resume cùng thread_id',{dash:1}]
+];
+function drawSeq(){
+  const rowH=56, top=96, H=top+SEQ.length*rowH+10, W=1110;
+  const svg=$('svg-seq'); svg.setAttribute('viewBox',`0 0 ${W} ${H}`);
+  let s=`<defs>
+    <marker id="sh" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="var(--fg)"/></marker>
+    <marker id="sl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="var(--l4)"/></marker>
+  </defs>`;
+  LANES.forEach(([k,n,sub])=>{
+    const x=LX[k];
+    s+=`<line class="lane" x1="${x}" y1="62" x2="${x}" y2="${H-6}"/>`;
+    s+=`<rect class="bx" style="--c:var(--l2)" x="${x-68}" y="14" width="136" height="48" rx="6"/>`;
+    s+=`<text class="t1s" x="${x}" y="34">${esc(n)}</text><text class="t2s" x="${x}" y="50">${esc(sub)}</text>`;
+  });
+  SEQ.forEach((st,i)=>{
+    const [a,b,lab,sub,o]=st, y=top+i*rowH, opt=o||{}, x1=LX[a], x2=LX[b];
+    s+=`<g class="bd"><circle cx="24" cy="${y}" r="10"/><text x="24" y="${y}">${i+1}</text></g>`;
+    if(a===b){
+      s+=`<circle class="dot ${opt.llm?'llm':''}" cx="${x1}" cy="${y}" r="5"/>`;
+      s+=`<text class="lbl l halo ${opt.llm?'llm':''}" x="${x1+14}" y="${y-3}">${esc(lab)}</text>`;
+      s+=`<text class="sb l halo" x="${x1+14}" y="${y+13}">${esc(sub)}</text>`;
+    } else {
+      const dir=x2>x1?1:-1, ex=x2-dir*2;
+      s+=`<path class="arr ${opt.dash?'dash':''} ${opt.llm?'llm':''}" d="M${x1},${y} H${ex}" marker-end="url(#${opt.llm?'sl':'sh'})"/>`;
+      const mx=(x1+x2)/2;
+      s+=`<text class="lbl halo ${opt.llm?'llm':''}" x="${mx}" y="${y-8}">${esc(lab)}</text>`;
+      if(sub) s+=`<text class="sb halo" x="${mx}" y="${y+16}">${esc(sub)}</text>`;
+    }
+  });
+  svg.innerHTML=s;
+}
+
+/* ---------- 3. catalog pipeline ---------- */
+const PIPE = [
+  {t:'Thu thập',k:'code',p:'Webhook/API của trường nếu có, rồi RSS/sitemap, rồi polling có kiểm soát. Không scrape khu vực cần đăng nhập, không cố vượt chặn 403.',x:'cron job ingest · allowlist nguồn · robots.txt'},
+  {t:'Chuẩn hóa, hash, diff',k:'code',p:'Lưu body_hash để phát hiện nội dung đổi; so với bản trước.',x:'Python · Postgres'},
+  {t:'Trích “ứng viên thay đổi”',k:'llm',p:'Bước trích xuất không có tool, không có quyền ghi. Đầu ra bắt buộc đúng schema (loại thay đổi, mã môn, hiệu lực) và bị đối chiếu với catalog bằng code.',x:'LLM + Pydantic + đối chiếu catalog'},
+  {t:'Người duyệt',k:'human',gate:1,p:'Cán bộ đào tạo hoặc quản trị xác nhận. Đây là chỗ chặn thông báo giả mạo và prompt injection. Nên xem bản gốc cạnh bản trích xuất.',x:'hàng đợi duyệt · RBAC · audit body_hash'},
+  {t:'Phát hành catalog_version',k:'code',p:'Tạo phiên bản bất biến, áp thay đổi lên bản gốc (như PPCatalog.applyChanges trong mvp-demo).',x:'Postgres · version bất biến'},
+  {t:'Phân tích ảnh hưởng',k:'code',p:'Xác định SV nào bị ảnh hưởng, ưu tiên theo kỳ sắp đăng ký (catalogImpact trong mvp-demo).',x:'SQL · graph tiên quyết'},
+  {t:'Replan hàng loạt',k:'nollm',nollm:1,p:'Chỉ chạy solver và validator, không gọi LLM. Plan cũ giữ nguyên; plan mới là plan_vN+1 trạng thái “proposed”.',x:'Redis queue · pp-worker · HPA theo hàng đợi'},
+  {t:'Thông báo SV và cố vấn',k:'llm',p:'Giải thích sinh khi SV mở plan, hoặc dùng Batch API (giảm 50% theo bảng giá đã đọc).',x:'SSE · LiteLLM · Batch API'}
+];
+const KIND = {code:['code',''],llm:['LLM','llm'],human:['người','human'],nollm:['không LLM','nollm']};
+function drawPipe(){
+  $('pipe').innerHTML = PIPE.map((c,i)=>`<li class="pc ${c.gate?'gate':''} ${c.nollm?'nollm':''}">
+    <div class="top"><span class="num">${i+1}</span><h3>${esc(c.t)}</h3><span class="kind ${KIND[c.k][1]}">${KIND[c.k][0]}</span></div>
+    <p>${esc(c.p)}</p><div class="ptech">${esc(c.x)}</div></li>`).join('');
+}
+
+/* ---------- 4. tech map ---------- */
+// [tên, giai đoạn: d=đồ án / p=pilot+, cờ]
+const MAP = [
+  {l:'L1',sub:'Dữ liệu vào, truy xuất, nén',t:[['Pydantic v2'],['FastAPI'],['Postgres + pgvector (HNSW)'],['Full-text + RRF','d','cần đo'],['bge-m3','d','cần đo'],['bge-reranker-v2-m3','d','cần đo'],['Redis plan cache','p']]},
+  {l:'L2',sub:'Điều phối, router, solver',t:[['LangGraph + PostgresSaver'],['LiteLLM proxy','p'],['Claude Haiku / Sonnet'],['Structured output strict + Pydantic'],['OR-Tools CP-SAT (process riêng)'],['Celery hoặc RQ + Redis','p'],['Solver JS (oracle test)']]},
+  {l:'L3',sub:'Chốt chặn và kiểm soát',t:[['JWT ≤ 5′ qua BFF (OIDC)'],['RBAC + ABAC'],['Postgres RLS'],['Classifier + luật + canary'],['Regex + allowlist field (PII)'],['interrupt() cho HITL'],['Presidio (chỉ khung)','p','không có tiếng Việt']]},
+  {l:'L4',sub:'Quan sát, lỗi, tái hiện',t:[['JSON log + run_spans'],['OTel SDK','d','semconv còn Development'],['Prometheus + Grafana'],['Sentry'],['Langfuse tự host','p','không HA mặc định']]},
+  {l:'L5',sub:'Đánh giá',t:[['pytest + golden set (~140 ca)'],['Gate xác định, không gọi LLM'],['Promptfoo','p'],['LLM-as-Judge (lấy mẫu)','p'],['Mini-benchmark truy xuất tiếng Việt','d','cần làm']]},
+  {l:'L6',sub:'Cải tiến liên tục',t:[['Gom lỗi theo taxonomy (L1)'],['LLM phân cụm lỗi, đề xuất (L2)','p'],['GitHub Actions: regression nightly'],['Không tự deploy production']]},
+  {l:'DEPLOY',sub:'Đóng gói và triển khai',c:'--fg',t:[['Docker multi-stage'],['docker-compose (~9 service)'],['Alembic migration'],['Trivy + SBOM'],['Helm / K8s, mỗi trường 1 release','p'],['Terraform / OpenTofu','p']]}
+];
+function drawMap(){
+  $('map').innerHTML = MAP.map(r=>{
+    const c = r.c || LAY[r.l][1], name = LAY[r.l]?LAY[r.l][0]:'Triển khai';
+    return `<div class="mrow" style="--c:var(${c})"><h3><span class="dotl"></span>${r.l==='DEPLOY'?'Triển khai':r.l+' · '+esc(name)}<span>${esc(r.sub)}</span></h3>
+      <div class="tl">${r.t.map(t=>`<span class="tech ${t[1]==='p'?'pilot':''}">${esc(t[0])}${t[2]?` <small>${esc(t[2]).toUpperCase()}</small>`:''}</span>`).join('')}</div></div>`;
+  }).join('');
+}
+
+drawArch(); drawSeq(); drawPipe(); drawMap();
+const h=(location.hash||'').slice(1);
+showTab(TABS.some(t=>t[0]===h)?h:'arch');
+</script>
+</body>
+</html>

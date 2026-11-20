@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "school": "DUT",
+    "program": "CNTT Việt-Nhật",
+    "ghi_chu": "Các giá trị có nhãn GIA_DINH là giả định của người dựng, CHƯA có quy chế DUT xác nhận. Đổi ở đây, không sửa mã."
+  },
+  "max_credits_main":   { "value": null, "nguon": "USER_XAC_NHAN_2026-11-20", "ghi_chu": "DUT không có trần tín chỉ tối đa/kỳ. Ràng buộc thật là xung đột lịch học trong kỳ, chỉ biết khi đăng ký môn học nên KHÔNG kiểm được lúc lập kế hoạch. SV có thể tự đặt trần cá nhân (Student.max_credits_per_term)." },
+  "max_credits_summer": { "value": null, "nguon": "USER_XAC_NHAN_2026-11-20", "ghi_chu": "Như trên." },
+  "duration_main":      { "value": 3,  "nguon": "GIA_DINH", "ghi_chu": "Độ dài tương đối của kỳ chính (đơn vị tùy ý) dùng để so thời gian ra trường." },
+  "duration_summer":    { "value": 1,  "nguon": "GIA_DINH", "ghi_chu": "Độ dài tương đối của kỳ hè." },
+  "summer_allowed_courses": {
+    "value": ["0130011", "1023600", "2090150", "2090160", "2090170", "2090101", "2100010", "2170020",
+              "3190111", "3190121", "3190260", "3190041", "3050011", "3050670"],
+    "nguon": "USER_MO_TA_2026-11-20__DANH_SACH_GIA_DINH",
+    "ghi_chu": "User: không phải môn nào cũng mở hè, chỉ đa số là môn đại cương/nhập môn, trừ Tiếng Nhật. Danh sách 14 môn này do người dựng suy ra từ mô tả đó (Toán, Lý, Triết/Chính trị/Pháp luật/Lịch sử Đảng/Tư tưởng HCM, GDTC1, Nhập môn ngành), CHƯA đối chiếu với danh sách mở hè thật của DUT. Tiếng Nhật không có trong danh sách."
+  },
+  "elective_need":      { "value": 2,  "nguon": "USER_XAC_NHAN_2026-11-20", "ghi_chu": "Mỗi đợt tự chọn phải chọn đúng 2 trong 11 môn." },
+  "sequences": {
+    "value": [["5070030", "5070040", "5070050", "5070060", "5070070", "5070080", "5070090"]],
+    "nguon": "GIA_DINH",
+    "ghi_chu": "Thứ tự cấp độ Tiếng Nhật 1..7: môn sau không được xếp TRƯỚC môn trước (được cùng kỳ). Khung không ghi tiên quyết giữa các môn này, kỳ chuẩn của chúng là 1..7; thứ tự này là giả định của người dựng."
+  },
+  "term_group_limits": {
+    "value": [
+      { "name": "Tiếng Nhật", "courses": ["5070030", "5070040", "5070050", "5070060", "5070070", "5070080", "5070090"], "max": 1 }
+    ],
+    "nguon": "USER_XAC_NHAN_2026-11-20",
+    "ghi_chu": "DUT không có quy định cấm học 2 môn Tiếng Nhật cùng kỳ, nhưng user khuyên KHÔNG xếp 2 môn vào 1 kỳ vì lập lịch (tránh xung đột). Mặc định max=1; đặt max=2 khi SV chấp nhận để rút ngắn thời gian."
+  },
+  "early_courses": {
+    "value": "allowed",
+    "nguon": "USER_XAC_NHAN_2026-11-20",
+    "ghi_chu": "Được học vượt trước kỳ chuẩn miễn là đủ tiên quyết và song hành. Hiện không có tham số giới hạn."
+  }
+}

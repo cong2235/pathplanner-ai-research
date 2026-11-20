@@ -9,7 +9,23 @@ Kết quả nằm trong `research/` (competitors/, gaps/, sources/registry.md, r
 
 ## Phạm vi research (user chốt 2026-11-12)
 Ưu tiên 1: sinh viên VinUni (catalog, quy chế, advising công khai tại policy.vinuni.edu.vn). Ưu tiên 2: các trường đại học khác của Việt Nam. **KHÔNG nghiên cứu sản phẩm/trường quốc tế** (bỏ qua Stellic, Degree Works… trong competitor-scan). Dataset mở (EdNet, OULAD…) chỉ dùng cho eval, không tính là đối thủ.
-Dữ liệu VinUni đã trích: `research/sources/extracted/` (curriculum BSCS 2024-28, quy chế 2024, advising framework). Nhiều trang vinuni.edu.vn trả 403 với fetch tự động → mở bằng trình duyệt/tải tay.
+Tài liệu VinUni: PDF gốc ở `research/sources/pdfs/`, text trích ở `research/sources/text/`. Nhiều trang vinuni.edu.vn trả 403 với fetch tự động → mở bằng trình duyệt/tải tay.
+
+## Hướng đề tài (user chốt 2026-11-17)
+Gợi ý định hướng môn học + lịch học từng kỳ dựa trên: (1) **mục tiêu học tập** của SV, có thể **đổi giữa chừng**; (2) **khung đào tạo** (môn bắt buộc + tự chọn); (3) **thời gian đào tạo mong muốn** (học hè để tốt nghiệp sớm…); (4) **cập nhật thay đổi** đào tạo của trường/khoa từ kênh chính thống để gợi ý kịp thời.
+
+## Quyết định triển khai (user chốt 2026-11-20)
+- **Trường demo: DUT (Đại học Bách khoa – ĐH Đà Nẵng), ngành CNTT Việt–Nhật** (đổi so với "VinUni ưu tiên 1" ở trên cho phần dựng MVP; VinUni vẫn là nguồn research). Chỉ làm tốt 1 trường: bỏ multi-school/Helm/multi-tenant, giữ 1 file cấu hình `rules.dut.json`.
+- Dữ liệu CTĐT ngành này do user cung cấp (bắt buộc, tự chọn, tiên quyết, các định hướng) → nhập/khóa tay, KHÔNG dùng dòng DUT trong CSV chung (75% `requirement=unknown`, gần như không có mã môn). Dữ liệu SV trong demo luôn là dữ liệu giả có nhãn "MÔ PHỎNG".
+- LLM: dự kiến AWS Bedrock (user tạo tài khoản mới, mục tiêu ~US$200 credit, chưa chắc). Chưa kiểm: model/vùng có trên Bedrock, giá Bedrock, điều khoản lưu dữ liệu.
+- Solver: port sang Python (OR-Tools CP-SAT), giữ solver JS của mvp-demo làm oracle đối chiếu. Nhúng: Web Component + BFF (Next.js). Observability: log JSON + bảng `run_spans`, không Langfuse.
+- Hàng đợi: MVP dùng process pool + bảng job trong Postgres; khi cần replan hàng loạt dùng RQ (không dùng arq).
+- `catalog_version` = số phiên bản của toàn bộ ảnh chụp catalog/quy chế. Nguồn thay đổi: thông báo của Phòng Đào tạo DUT (trang đầu web sinh viên, KHÔNG cần đăng nhập → polling có kiểm soát được: allowlist, robots.txt, rate limit, body_hash). Người duyệt: vai trò quản trị catalog (nhóm đồ án) ở giai đoạn đồ án.
+- Lưu trữ: log/prompt 15–30 ngày; plan mới nhất (kèm 2–3 bản trước/đã duyệt); nhật ký quyết định cố vấn lưu lâu hơn; TTL cấu hình được.
+- Hoãn: ngưỡng nghiệm thu pilot (D10), ngân sách chi tiết (D12). Chi tiết ở `research/reports/harness-tech-analysis.md` mục 8.5.
+
+## Dữ liệu khung đào tạo đa trường
+`data/all-universities-curriculum.csv` (13 trường, 386 ngành, 28.091 dòng) → chuẩn hóa bằng `python -I data/scripts/build_catalog.py` → `data/processed/` (bảng quan hệ, graph, embedding). Đọc `data/README.md` trước khi dùng; luật phân loại ở `data/scripts/taxonomy.py`.
 
 ## Quy tắc research
 1. Không bịa: mọi claim có source ID trong `research/sources/registry.md`. Không có bằng chứng → ghi "Không tìm thấy bằng chứng".
